@@ -25,7 +25,7 @@ foreach ($flitetest_items as $item)
 	$contents = pq('div#main')->html();
 	echo $item['url'] . '<br><div><pre>' . htmlentities($contents) . '</pre></div><br>';
 	my_file_put_contents($item['filename'], $contents);
-	echo '<br>';
+	echo '<br><br>';
 }
 
 /*
