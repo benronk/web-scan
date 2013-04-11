@@ -23,9 +23,9 @@ foreach ($flitetest_items as $item)
 {
 	phpQuery::newDocumentHTML(file_get_contents($item['url']));
 	$contents = pq('div#main')->html();
-	//echo $item['url'] . '<br><div><pre>' . htmlentities($contents) . '</pre></div><br>';
+	echo $item['url'] . '<br><div><pre>' . htmlentities($contents) . '</pre></div><br>';
 	my_file_put_contents($item['filename'], $contents);
-	//echo '<br><br>';
+	echo '<br><br>';
 }
 
 /*
@@ -45,21 +45,15 @@ $HUD_items = array(
 }*/
 
 
-echo exec('git add -A scans/');
-echo "\r\n";
-echo exec('git commit -m "Autobot commit"');
-echo "\r\n";
-echo exec('git push origin master');
-echo "\r\n";
 
-echo 'Total time: ' . round(microtime(true)-$start_time, 3) . ' seconds\r\n';
+echo '<br><br>Total time: ' . round(microtime(true)-$start_time, 3) . ' seconds';
 
 
 
 
 function my_file_put_contents($filename, $contents)
 {
-	echo 'Writing file to: scans/'.$filename.' Length: '.strlen($contents)."\r\n";
+	echo 'Writing file to: scans/'.$filename.' Length: '.strlen($contents).'<br>';
 	file_put_contents('scans/'.$filename, $contents);
 }
 
