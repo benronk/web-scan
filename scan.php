@@ -23,9 +23,7 @@ foreach ($flitetest_items as $item)
 {
 	phpQuery::newDocumentHTML(file_get_contents($item['url']));
 	$contents = pq('div#main')->html();
-	//echo $item['url'] . '<br><div><pre>' . htmlentities($contents) . '</pre></div><br>';
 	my_file_put_contents($item['filename'], $contents);
-	//echo '<br><br>';
 }
 
 /*
@@ -44,15 +42,20 @@ $HUD_items = array(
 	my_file_put_contents($item['filename'], $contents);
 }*/
 
-
-echo exec('git add -A scans/');
-echo "\r\n";
-echo exec('git commit -m "Autobot commit"');
-echo "\r\n";
-echo exec('git push origin master');
 echo "\r\n";
 
-echo 'Total time: ' . round(microtime(true)-$start_time, 3) . ' seconds\r\n';
+echo "git add -A scans/";
+echo exec('git add -A scans/') . "\r\n";
+
+echo "git commit -m \"Autobot commit\"\r\n";
+echo "\t" . exec('git commit -m "Autobot commit"') . "\r\n";
+
+echo "git push origin master\r\n";
+echo "\t" . exec('git push origin master') . "\r\n";
+
+echo "\r\n";
+
+echo 'Total time: ' . round(microtime(true)-$start_time, 3) . " seconds\r\n\r\n";
 
 
 
