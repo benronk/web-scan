@@ -4,6 +4,7 @@ require 'phpQuery.php';
 
 class Scan_Job
 {
+	public $url = '';
 	public $contents = '';
 	public $filename = '';
 	
@@ -12,12 +13,17 @@ class Scan_Job
 
 class FliteTest_Scan extends Scan_Job
 {
-	public $url = '';
+	public static $data = array(
+		 array('url' => 'http://shop.flitetest.com/', 				'filename' => 'com.flitetest.shop.html')
+		,array('url' => 'http://shop.flitetest.com/airplane-kits', 	'filename' => 'com.flitetest.shop.airplane-kits.html')
+		,array('url' => 'http://shop.flitetest.com/multirotors', 	'filename' => 'com.flitetest.shop.multirotors.html')
+		,array('url' => 'http://shop.flitetest.com/accessories/', 	'filename' => 'com.flitetest.shop.accessories.html')
+	);
 	
-	function __construct ($url, $filename)
+	function __construct ($data_key = 0)
 	{
-		$this->url = $url;
-		$this->filename = $filename;
+		$this->url = self::$data[$data_key]['url'];
+		$this->filename = self::$data[$data_key]['filename'];
 	}
 	
 	public function run()

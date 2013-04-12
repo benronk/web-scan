@@ -41,12 +41,11 @@
 <?php 
 	include 'classes/scan_jobs.php';
 
-	$scans = array(
-		new FliteTest_Scan('http://shop.flitetest.com/', 				'com.flitetest.shop.html')
-		,new FliteTest_Scan('http://shop.flitetest.com/airplane-kits', 	'com.flitetest.shop.airplane-kits.html')
-		,new FliteTest_Scan('http://shop.flitetest.com/multirotors', 	'com.flitetest.shop.multirotors.html')
-		,new FliteTest_Scan('http://shop.flitetest.com/accessories/', 	'com.flitetest.shop.accessories.html')
-	);
+	$scans = array();
+	for ($i = 0; $i < count(FliteTest_Scan::$data); $i++)
+	{
+		array_push($scans, new FliteTest_Scan($i));
+	}
 
 ?>
 			
@@ -61,13 +60,14 @@
 			
 			<h4>Run job url: <?php echo $scan->url; ?></h4>
 			
-			<p><label>
-				Results <input type="checkbox" ng-model="checked<?php echo $i; ?>">:
-			</label></p>
-			<p ng-show="checked<?php echo $i; ?>" style="display:none;">			
-				<?php echo htmlentities($scan->contents); ?>
-			</p>
-			
+			<label>
+				<p>
+					Results <input type="checkbox" ng-model="checked<?php echo $i; ?>">:
+				</p>
+				<p ng-show="checked<?php echo $i; ?>" style="display:none;">			
+					<?php echo htmlentities($scan->contents); ?>
+				</p>
+			</label>
 			<?php $i++; } ?>
 		</div>
 	</div>
