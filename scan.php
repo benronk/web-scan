@@ -2,10 +2,6 @@
 
 include 'phpQuery.php';
 
-//$this->load->helper('phpQuery');
-//$this->load->model('scans_model');
-//$this->load->model('scanned_stats_model');
-
 $start_time = microtime(true);
 
 /* 
@@ -26,6 +22,14 @@ foreach ($flitetest_items as $item)
 	my_file_put_contents($item['filename'], $contents);
 }
 
+echo "\r\n";
+
+echo "git add -A scans/";
+echo exec('git add -A scans/') . "\r\n";
+
+echo "git commit -m \"Autobot commit\"\r\n";
+echo "\t" . exec('git commit -m "Autobot commit"') . "\r\n";
+
 /*
 	Scrape for HUD
 */
@@ -42,6 +46,7 @@ $HUD_items = array(
 	my_file_put_contents($item['filename'], $contents);
 }*/
 
+/*
 echo "\r\n";
 
 echo "git add -A scans/";
@@ -49,6 +54,7 @@ echo exec('git add -A scans/') . "\r\n";
 
 echo "git commit -m \"Autobot commit\"\r\n";
 echo "\t" . exec('git commit -m "Autobot commit"') . "\r\n";
+*/
 
 echo "git push origin master\r\n";
 echo "\t" . exec('git push origin master') . "\r\n";
@@ -65,34 +71,3 @@ function my_file_put_contents($filename, $contents)
 	echo 'Writing file to: scans/'.$filename.' Length: '.strlen($contents)."\r\n";
 	file_put_contents('scans/'.$filename, $contents);
 }
-
-// Parse scraped data
-/*foreach (pq('table tbody tr') as $tr)
-{
-	$character_data = array(
-		'scan_id' => $scan_id,
-		'character' => trim(pq('td:eq(2)', $tr)->text()),
-		'scan_timestamp' => time(),
-		'level' => trim(pq('td:eq(1)', $tr)->text()),
-		'deaths' => trim(pq('td:eq(3)', $tr)->text()),
-		'kills' => trim(pq('td:eq(4)', $tr)->text()),
-		'quests_completed' => trim(pq('td:eq(5)', $tr)->text()),
-		'button_clicks' => trim(pq('td:eq(6)', $tr)->text()),
-		'best_kill_streak' => trim(pq('td:eq(7)', $tr)->text()),
-		'best_travel_streak' => trim(pq('td:eq(8)', $tr)->text()),
-		'longest_slow_death' => trim(pq('td:eq(9)', $tr)->text())
-	);
-	array_push($parsed_data, $character_data);
-}
-
-// insert stats into DB
-$this->scanned_stats_model->insert_batch($parsed_data);
-
-// recored scan info
-$sql = $this->scans_model->update($scan_id, time()-$start_time, memory_get_usage(), count($parsed_data));
-
-$data['scanned_content'] = $sql;
-$data['content'] = '';//$scraped_string;
-
-$this->load->view('index', $data);
-*/
