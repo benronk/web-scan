@@ -1,6 +1,6 @@
 <?php 
 
-include 'phpQuery.php';
+require 'classes/scan_jobs.php';
 
 $start_time = microtime(true);
 
@@ -8,18 +8,17 @@ $start_time = microtime(true);
 	Scrape for FliteTest
 */
 
-$flitetest_items = array(
-	array('url' => 'http://shop.flitetest.com/', 				'filename' => 'com.flitetest.shop.html')
-	,array('url' => 'http://shop.flitetest.com/airplane-kits', 	'filename' => 'com.flitetest.shop.airplane-kits.html')
-	,array('url' => 'http://shop.flitetest.com/multirotors', 	'filename' => 'com.flitetest.shop.multirotors.html')
-	,array('url' => 'http://shop.flitetest.com/accessories/', 	'filename' => 'com.flitetest.shop.accessories.html')
+$scans = array(
+	new FliteTest_Scan('http://shop.flitetest.com/', 				'com.flitetest.shop.html')
+	,new FliteTest_Scan('http://shop.flitetest.com/airplane-kits', 	'com.flitetest.shop.airplane-kits.html')
+	,new FliteTest_Scan('http://shop.flitetest.com/multirotors', 	'com.flitetest.shop.multirotors.html')
+	,new FliteTest_Scan('http://shop.flitetest.com/accessories/', 	'com.flitetest.shop.accessories.html')
 );
 
-foreach ($flitetest_items as $item)
-{
-	phpQuery::newDocumentHTML(file_get_contents($item['url']));
-	$contents = pq('div#main')->html();
-	my_file_put_contents($item['filename'], $contents);
+foreach($scans as $scan) 
+{ 
+	$scan->run();
+	my_file_put_contents($scan->filename, $scan->contents);
 }
 
 echo "\r\n";
