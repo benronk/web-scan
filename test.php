@@ -39,36 +39,35 @@
 </div>
 
 <?php 
-	include 'classes/scan_jobs.php';
-
-	$scans = array();
-	for ($i = 0; $i < count(FliteTest_Scan::$data); $i++)
-	{
-		array_push($scans, new FliteTest_Scan($i));
-	}
-
+	require_once 'classes/scan_jobs.php';
+	require_once 'Markdown.php';
 ?>
 			
 <div class="container">
 	<div class="row">
 		<div class="span12">
 			<?php 
-			$i = 0;
-			foreach($scans as $scan) { 
+			//for ($i = 0; $i < count(HUD_Scan::$data); $i++)
+			//{
+				//$scan = new HUD_Scan($i);
+				$scan = new HUD_Scan(1);
 				$scan->run();
 			?>
 			
-			<h4>Run job url: <?php echo $scan->url; ?></h4>
+			<h4>Run job: <?php echo $scan->name; ?></h4>
 			
 			<label>
 				<p>
 					Results <input type="checkbox" ng-model="checked<?php echo $i; ?>">:
 				</p>
-				<p ng-show="checked<?php echo $i; ?>" style="display:none;">			
-					<?php echo htmlentities($scan->contents); ?>
+				<p ng-show="checked<?php echo $i; ?>" style="display:block;">			
+					<?php 
+						//echo htmlentities($scan->contents);
+						echo Michelf\Markdown::defaultTransform($scan->contents);
+					?>
 				</p>
 			</label>
-			<?php $i++; } ?>
+			<?php //} ?>
 		</div>
 	</div>
 </div>
