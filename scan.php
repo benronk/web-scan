@@ -25,13 +25,13 @@ echo 'End FliteTest scan. Total elapsed time: ' . round(microtime(true)-$scan_st
 /*
 Scrape for HUD
 */
-/*
+
 echo "Begin HUD scan\r\n";
 $scan_start_time = microtime(true);
 
-for ($i = 0; $i < count(FliteTest_Scan::$data); $i++)
+for ($i = 0; $i < count(HUD_Scan::$data); $i++)
 {
-	$scan = new FliteTest_Scan($i);
+	$scan = new HUD_Scan($i);
 	$scan->run();
 	my_file_put_contents($scan->filename, $scan->contents);
 }
@@ -39,7 +39,6 @@ for ($i = 0; $i < count(FliteTest_Scan::$data); $i++)
 git_commit();
 
 echo 'End HUD scan. Total elapsed time: ' . round(microtime(true)-$scan_start_time, 3) . " seconds\r\n\r\n";
-*/
 
 git_push();
 

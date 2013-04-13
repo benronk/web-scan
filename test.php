@@ -56,6 +56,7 @@
 			
 			<h4>Run job: <?php echo $scan->name; ?></h4>
 			
+			<!--
 			<label>
 				<p>
 					Results <input type="checkbox" ng-model="checked<?php echo $i; ?>">:
@@ -63,11 +64,15 @@
 				<p ng-show="checked<?php echo $i; ?>" style="display:block;">			
 					<?php 
 						//echo htmlentities($scan->contents);
-						echo Michelf\Markdown::defaultTransform($scan->contents);
 					?>
 				</p>
 			</label>
-			<?php //} ?>
+			-->
+			
+			<?php 
+				echo Michelf\Markdown::defaultTransform($scan->contents);
+			//} 
+			?>
 		</div>
 	</div>
 </div>
