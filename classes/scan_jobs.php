@@ -30,19 +30,19 @@ class FliteTest_Scan extends Scan_Job
 		 array(
 			'name' => 'Flitetest Shop Main',
 			'url' => 'http://shop.flitetest.com/',
-			'filename' => 'com.flitetest.shop.html'
+			'filename' => 'flitetest.shop.html'
 		),array(
 			'name' => 'Flitetest Shop Airplane Kits',
 			'url' => 'http://shop.flitetest.com/airplane-kits',
-			'filename' => 'com.flitetest.shop.airplane-kits.html'
+			'filename' => 'flitetest.shop.airplane-kits.html'
 		),array(
 			'name' => 'Flitetest Shop Multirotors',
 			'url' => 'http://shop.flitetest.com/multirotors',
-			'filename' => 'com.flitetest.shop.multirotors.html'
+			'filename' => 'flitetest.shop.multirotors.html'
 		),array(
 			'name' => 'Flitetest Shop Accessories',
 			'url' => 'http://shop.flitetest.com/accessories/',
-			'filename' => 'com.flitetest.shop.accessories.html'
+			'filename' => 'flitetest.shop.accessories.html'
 		)
 	);
 	
@@ -67,11 +67,15 @@ class HUD_Scan extends Scan_Job
 		array(
 			'name' => 'Summit County HUD Homes',
 			'url' => 'https://www.hudhomestore.com/Listing/PropertySearchResult.aspx?pageId=1&zipCode=&city=&county=Summit&sState=OH&fromPrice=0&toPrice=0&fCaseNumber=&bed=0&bath=0&street=&buyerType=0&specialProgram=&Status=0&sPageSize=250&OrderbyName=SCASENUMBER&OrderbyValue=ASC&sLanguage=ENGLISH',
-			'filename' => 'com.hudhomestore.summit.md'
+			'filename' => 'hud.summit.md'
 		),array(
 			'name' => 'Medina County HUD Homes',
 			'url' => 'https://www.hudhomestore.com/Listing/PropertySearchResult.aspx?pageId=1&zipCode=&city=&county=Medina&sState=OH&fromPrice=0&toPrice=0&fCaseNumber=&bed=0&bath=0&street=&buyerType=0&specialProgram=&Status=0&sPageSize=250&OrderbyName=SCASENUMBER&OrderbyValue=ASC&sLanguage=ENGLISH',
-			'filename' => 'com.hudhomestore.medina.md'
+			'filename' => 'hud.medina.md'
+		),array(
+			'name' => 'Barberton HUD Homes',
+			'url' => 'https://www.hudhomestore.com/Listing/PropertySearchResult.aspx?pageId=1&zipCode=&city=Barberton&county=&sState=OH&fromPrice=0&toPrice=0&fCaseNumber=&bed=0&bath=0&street=&buyerType=0&specialProgram=&Status=0&sPageSize=250&OrderbyName=SCASENUMBER&OrderbyValue=ASC&sLanguage=ENGLISH',
+			'filename' => 'hud.barberton.md'
 		)
 	);
 	
@@ -112,10 +116,16 @@ class HUD_Scan extends Scan_Job
 		
 		usort($houses, function($a, $b)
 		{
-			if ($a['list_date'] == $b['list_date']) {
+			//"If two members compare as equal, their order in the sorted array is undefined."
+			//So gotta make a unique thing to compare the 2.
+			$first = $a['list_date']->format('Y/m/d').$a['case_number'];
+			$second = $b['list_date']->format('Y/m/d').$b['case_number'];
+			//echo 'Comparing '.$first.' vs '.$second;
+			if ($first == $second)
+			{
 				return 0;
 			}
-			return ($a['list_date'] < $b['list_date']) ? 1 : -1;
+			return ($first < $second) ? 1 : -1;
 		});
 		
 		$this->contents .= '# ' . $this->name . "\r\n\r\n";
@@ -131,7 +141,7 @@ class HUD_Scan extends Scan_Job
 			//http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-495739
 			//http://maps.google.com/maps?q=255+Virginia+Avenue+Wadsworth,+OH
 			//http://www.zillow.com/homes/255+Virginia+Avenue+Wadsworth,+OH,+44281/
-			$this->contents .= '[<img alt="'.$h['status'].'" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case='.$h['case_number'].'" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber='.$h['case_number'].')';
+			$this->contents .= '[<img alt="'.$h['status'].'" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case='.$h['case_number'].'" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber='.$h['case_number'].')'."  \r\n";
 			$this->contents .= '**'.trim($h['address'][0]).' '.trim($h['address'][1])."**  \r\n";
 			$this->contents .= '[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber='.$h['case_number'].'), '
 							  .'[Google Maps](http://maps.google.com/maps?q='.urlencode(trim($h['address'][0]).' '.trim($h['address'][1])).'), '

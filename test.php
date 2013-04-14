@@ -50,7 +50,7 @@
 			//for ($i = 0; $i < count(HUD_Scan::$data); $i++)
 			//{
 				//$scan = new HUD_Scan($i);
-				$scan = new HUD_Scan(1);
+				$scan = new HUD_Scan(0);
 				$scan->run();
 			?>
 			

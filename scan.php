@@ -2,6 +2,8 @@
 
 require 'classes/scan_jobs.php';
 
+//return;
+
 $start_time = microtime(true);
 
 /* 
