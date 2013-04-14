@@ -39,14 +39,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-524565" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-524565" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565)  
 **3937 Columbia Rd Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565), [Google Maps](http://maps.google.com/maps?q=3937+Columbia+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/3937+Columbia+Rd+Medina%2C+OH%2C+44256/)  
 **Price:** $55,000  
 **List Date:** 4/02/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/30/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 04/14/2013
 
