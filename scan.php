@@ -6,41 +6,25 @@ require 'classes/scan_jobs.php';
 
 $start_time = microtime(true);
 
-/* 
-Scrape for FliteTest
-*/
-
-echo "Begin FliteTest scan\r\n";
-$scan_start_time = microtime(true);
-
-for ($i = 0; $i < count(FliteTest_Scan::$data); $i++)
+if ($argc <= 1) return;
+for ($j = 1; $j < $argc; $j++)
 {
-	$scan = new FliteTest_Scan($i);
-	$scan->run();
-	my_file_put_contents($scan->filename, $scan->contents);
+	$scan_class = $argv[$j];
+	
+	echo 'Begin '.$scan_class." scan\r\n";
+	$scan_start_time = microtime(true);
+
+	for ($i = 0; $i < count($scan_class::$data); $i++)
+	{
+		$scan = new $scan_class($i);
+		$scan->run();
+		my_file_put_contents($scan->filename, $scan->contents);
+	}
+
+	git_commit('Autobot '.$scan_class.' commit');
+
+	echo 'End '.$scan_class.' scan. Total elapsed time: ' . round(microtime(true)-$scan_start_time, 3) . " seconds\r\n\r\n";
 }
-
-git_commit('Autobot FliteTest commit');
-
-echo 'End FliteTest scan. Total elapsed time: ' . round(microtime(true)-$scan_start_time, 3) . " seconds\r\n\r\n";
-
-/*
-Scrape for HUD
-*/
-
-echo "Begin HUD scan\r\n";
-$scan_start_time = microtime(true);
-
-for ($i = 0; $i < count(HUD_Scan::$data); $i++)
-{
-	$scan = new HUD_Scan($i);
-	$scan->run();
-	my_file_put_contents($scan->filename, $scan->contents);
-}
-
-git_commit('Autobot HUD commit');
-
-echo 'End HUD scan. Total elapsed time: ' . round(microtime(true)-$scan_start_time, 3) . " seconds\r\n\r\n";
 
 git_push();
 
