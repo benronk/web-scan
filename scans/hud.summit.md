@@ -52,19 +52,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-569286" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569286)  
-**573 Hughes Dr Tallmadge, OH, 44278**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569286), [Google Maps](http://maps.google.com/maps?q=573+Hughes+Dr+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/573+Hughes+Dr+Tallmadge%2C+OH%2C+44278/)  
-**Price:** $118,000  
-**List Date:** 4/04/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 5/3/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 04/16/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-510958" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-510958)  
 **2482 9th Ct Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-510958), [Google Maps](http://maps.google.com/maps?q=2482+9th+Ct+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2482+9th+Ct+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -87,19 +74,6 @@
 **Period Deadline:** 5/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/16/2013
-
-***
-
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-526789" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-526789)  
-**332 Dorwil Dr Akron, OH, 44319**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-526789), [Google Maps](http://maps.google.com/maps?q=332+Dorwil+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/332+Dorwil+Dr+Akron%2C+OH%2C+44319/)  
-**Price:** $34,000  
-**List Date:** 4/02/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/28/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 04/16/2013
 
 ***
