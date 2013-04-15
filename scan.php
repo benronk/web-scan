@@ -20,7 +20,7 @@ for ($i = 0; $i < count(FliteTest_Scan::$data); $i++)
 	my_file_put_contents($scan->filename, $scan->contents);
 }
 
-git_commit();
+git_commit('Autobot FliteTest commit');
 
 echo 'End FliteTest scan. Total elapsed time: ' . round(microtime(true)-$scan_start_time, 3) . " seconds\r\n\r\n";
 
@@ -38,7 +38,7 @@ for ($i = 0; $i < count(HUD_Scan::$data); $i++)
 	my_file_put_contents($scan->filename, $scan->contents);
 }
 
-git_commit();
+git_commit('Autobot HUD commit');
 
 echo 'End HUD scan. Total elapsed time: ' . round(microtime(true)-$scan_start_time, 3) . " seconds\r\n\r\n";
 
@@ -55,15 +55,15 @@ function my_file_put_contents($filename, $contents)
 	file_put_contents('scans/'.$filename, $contents);
 }
 
-function git_commit()
+function git_commit($message = 'Autobot commit')
 {
 	echo "\r\n";
 
 	echo "git add -A scans/";
 	echo exec('git add -A scans/') . "\r\n";
 
-	echo "git commit -m \"Autobot commit\"\r\n";
-	echo "\t" . exec('git commit -m "Autobot commit"') . "\r\n";
+	echo 'git commit -m "'.$message.'"'."\r\n";
+	echo "\t" . exec('git commit -m "'.$message.'"') . "\r\n";
 	
 	echo "\r\n";
 }
