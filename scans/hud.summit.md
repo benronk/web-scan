@@ -130,14 +130,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-512645" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-512645)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-512645" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-512645)  
 **2958 Hudson Dr Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-512645), [Google Maps](http://maps.google.com/maps?q=2958+Hudson+Dr+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2958+Hudson+Dr+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $69,000  
 **List Date:** 3/18/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 9/13/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 04/18/2013
 
