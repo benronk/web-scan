@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-474983" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-474983)  
+**1970 Bridger Rd Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-474983), [Google Maps](http://maps.google.com/maps?q=1970+Bridger+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1970+Bridger+Rd+Akron%2C+OH%2C+44312/)  
+**Price:** $48,000  
+**List Date:** 4/19/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/23/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 04/24/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-510958" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-510958)  
 **2482 9th Ct Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-510958), [Google Maps](http://maps.google.com/maps?q=2482+9th+Ct+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2482+9th+Ct+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 8/29/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 04/19/2013
+**Bid Open Date:** 04/20/2013
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 8/17/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 04/19/2013
+**Bid Open Date:** 04/20/2013
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 5/7/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/19/2013
+**Bid Open Date:** 04/20/2013
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 5/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/19/2013
+**Bid Open Date:** 04/20/2013
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 5/1/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/19/2013
+**Bid Open Date:** 04/20/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 4/28/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.10  
-**Bid Open Date:** 04/19/2013
+**Bid Open Date:** 04/20/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 04/19/2013
+**Bid Open Date:** 04/20/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 9/13/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 04/19/2013
+**Bid Open Date:** 04/20/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 7/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 04/19/2013
+**Bid Open Date:** 04/20/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 9/1/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/19/2013
+**Bid Open Date:** 04/20/2013
 
 ***
 
