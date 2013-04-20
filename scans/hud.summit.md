@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-474983" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-474983)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-474983" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-474983)  
 **1970 Bridger Rd Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-474983), [Google Maps](http://maps.google.com/maps?q=1970+Bridger+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1970+Bridger+Rd+Akron%2C+OH%2C+44312/)  
 **Price:** $48,000  
 **List Date:** 4/19/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 4/23/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 04/24/2013
 
@@ -39,27 +39,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-562536" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562536)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-562536" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562536)  
 **1952 Victoria St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562536), [Google Maps](http://maps.google.com/maps?q=1952+Victoria+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1952+Victoria+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $48,000  
 **List Date:** 4/13/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 5/12/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 04/23/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-417058" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-417058)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-417058" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-417058)  
 **491 Hammel St Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-417058), [Google Maps](http://maps.google.com/maps?q=491+Hammel+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/491+Hammel+St+Akron%2C+OH%2C+44306/)  
 **Price:** $8,500  
 **List Date:** 4/13/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 4/19/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 04/20/2013
 
