@@ -13,14 +13,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-497586" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-497586" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586)  
 **8246 Fairlane Drive Macedonia, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586), [Google Maps](http://maps.google.com/maps?q=8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056/)  
 **Price:** $80,000  
 **List Date:** 4/16/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 4/22/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/23/2013
 
@@ -52,14 +52,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-562198" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562198)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-562198" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562198)  
 **7877 N Burton Ln Hudson, OH, 44236**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562198), [Google Maps](http://maps.google.com/maps?q=7877+N+Burton+Ln+Hudson%2C+OH%2C+44236), [Zillow](http://www.zillow.com/homes/7877+N+Burton+Ln+Hudson%2C+OH%2C+44236/)  
 **Price:** $121,500  
 **List Date:** 4/11/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/17/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 04/23/2013
 
