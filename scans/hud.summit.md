@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463)  
+**1484 White Ave Akron, OH, 44307**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463), [Google Maps](http://maps.google.com/maps?q=1484+White+Ave+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/1484+White+Ave+Akron%2C+OH%2C+44307/)  
+**Price:** $8,800  
+**List Date:** 4/23/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/3/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 04/24/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-474983" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-474983)  
 **1970 Bridger Rd Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-474983), [Google Maps](http://maps.google.com/maps?q=1970+Bridger+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1970+Bridger+Rd+Akron%2C+OH%2C+44312/)  
@@ -18,11 +31,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586), [Google Maps](http://maps.google.com/maps?q=8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056/)  
 **Price:** $80,000  
 **List Date:** 4/16/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 4/22/2013 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/27/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/23/2013
+**Bid Open Date:** 04/28/2013
 
 ***
 
@@ -35,7 +48,7 @@
 **Period Deadline:** 5/12/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 04/23/2013
+**Bid Open Date:** 04/24/2013
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 8/17/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 04/23/2013
+**Bid Open Date:** 04/24/2013
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 5/7/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/23/2013
+**Bid Open Date:** 04/24/2013
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 5/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/23/2013
+**Bid Open Date:** 04/24/2013
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 5/1/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/23/2013
+**Bid Open Date:** 04/24/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 4/28/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.10  
-**Bid Open Date:** 04/23/2013
+**Bid Open Date:** 04/24/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 04/23/2013
+**Bid Open Date:** 04/24/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 9/13/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 04/23/2013
+**Bid Open Date:** 04/24/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 7/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 04/23/2013
+**Bid Open Date:** 04/24/2013
 
 ***
 
