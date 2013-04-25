@@ -13,19 +13,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-474983" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-474983)  
-**1970 Bridger Rd Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-474983), [Google Maps](http://maps.google.com/maps?q=1970+Bridger+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1970+Bridger+Rd+Akron%2C+OH%2C+44312/)  
-**Price:** $48,000  
-**List Date:** 4/19/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/29/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/26/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-497586" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586)  
 **8246 Fairlane Drive Macedonia, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586), [Google Maps](http://maps.google.com/maps?q=8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056/)  
