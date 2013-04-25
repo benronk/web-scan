@@ -35,7 +35,7 @@
 **Period Deadline:** 10/6/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 04/25/2013
+**Bid Open Date:** 04/26/2013
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 8/19/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.10  
-**Bid Open Date:** 04/25/2013
+**Bid Open Date:** 04/26/2013
 
 ***
 
@@ -61,7 +61,7 @@
 **Period Deadline:** 8/30/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 04/25/2013
+**Bid Open Date:** 04/26/2013
 
 ***
 
@@ -70,11 +70,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-495739), [Google Maps](http://maps.google.com/maps?q=610+Miner+Dr+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/610+Miner+Dr+Medina%2C+OH%2C+44256/)  
 **Price:** $54,000  
 **List Date:** 3/26/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/24/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/21/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/25/2013
+**Bid Open Date:** 04/26/2013
 
 ***
 
