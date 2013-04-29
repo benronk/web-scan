@@ -22,7 +22,7 @@
 **Period Deadline:** 9/3/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2013
+**Bid Open Date:** 04/30/2013
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 10/12/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2013
+**Bid Open Date:** 04/30/2013
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 5/12/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 04/29/2013
+**Bid Open Date:** 04/30/2013
 
 ***
 
@@ -61,7 +61,7 @@
 **Period Deadline:** 10/9/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 04/29/2013
+**Bid Open Date:** 04/30/2013
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 5/7/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2013
+**Bid Open Date:** 04/30/2013
 
 ***
 
@@ -87,7 +87,7 @@
 **Period Deadline:** 5/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2013
+**Bid Open Date:** 04/30/2013
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 5/1/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2013
+**Bid Open Date:** 04/30/2013
 
 ***
 
@@ -109,11 +109,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-424355), [Google Maps](http://maps.google.com/maps?q=2132+Beechtree+Dr+%2350+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/2132+Beechtree+Dr+%2350+Uniontown%2C+OH%2C+44685/)  
 **Price:** $73,000  
 **List Date:** 3/30/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/28/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/25/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.10  
-**Bid Open Date:** 04/29/2013
+**Bid Open Date:** 04/30/2013
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 04/29/2013
+**Bid Open Date:** 04/30/2013
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 9/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 04/29/2013
+**Bid Open Date:** 04/30/2013
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 7/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 04/29/2013
+**Bid Open Date:** 04/30/2013
 
 ***
 
