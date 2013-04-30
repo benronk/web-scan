@@ -104,19 +104,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553184" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553184)  
-**1923 17th Street Cuyahoga Falls, OH, 44223**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553184), [Google Maps](http://maps.google.com/maps?q=1923+17th+Street+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/1923+17th+Street+Cuyahoga+Falls%2C+OH%2C+44223/)  
-**Price:** $81,000  
-**List Date:** 3/29/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/11/2013 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 05/01/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-512645" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-512645)  
 **2958 Hudson Dr Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-512645), [Google Maps](http://maps.google.com/maps?q=2958+Hudson+Dr+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2958+Hudson+Dr+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -126,19 +113,6 @@
 **Period Deadline:** 9/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 05/01/2013
-
-***
-
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-590341" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590341)  
-**191 21st Street NW Barberton, OH, 44203**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590341), [Google Maps](http://maps.google.com/maps?q=191+21st+Street+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/191+21st+Street+NW+Barberton%2C+OH%2C+44203/)  
-**Price:** $64,240  
-**List Date:** 3/12/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/24/2013 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/2.00  
 **Bid Open Date:** 05/01/2013
 
 ***
