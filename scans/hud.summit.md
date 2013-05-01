@@ -91,19 +91,6 @@
 
 ***
 
-[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-417058" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-417058)  
-**491 Hammel St Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-417058), [Google Maps](http://maps.google.com/maps?q=491+Hammel+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/491+Hammel+St+Akron%2C+OH%2C+44306/)  
-**Price:** $8,500  
-**List Date:** 4/13/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 10/9/2013 11:59:59 PM  CT  
-**Status:** Property Pending Sale  
-**Bed/Bath:** 4/1.00  
-**Bid Open Date:** 05/02/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-396725" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-396725)  
 **897 Ute Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-396725), [Google Maps](http://maps.google.com/maps?q=897+Ute+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/897+Ute+Ave+Akron%2C+OH%2C+44305/)  
