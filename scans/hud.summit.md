@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540465" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540465)  
+**1320 Tampa Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540465), [Google Maps](http://maps.google.com/maps?q=1320+Tampa+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1320+Tampa+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $20,000  
+**List Date:** 4/30/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 5/29/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 05/10/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-458811" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-458811)  
 **967 La Belle Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-458811), [Google Maps](http://maps.google.com/maps?q=967+La+Belle+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/967+La+Belle+Ave+Akron%2C+OH%2C+44320/)  
@@ -52,14 +65,14 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-417058" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-417058)  
+[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-417058" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-417058)  
 **491 Hammel St Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-417058), [Google Maps](http://maps.google.com/maps?q=491+Hammel+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/491+Hammel+St+Akron%2C+OH%2C+44306/)  
 **Price:** $8,500  
 **List Date:** 4/13/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 10/9/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Status:** Property Pending Sale  
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 05/01/2013
 
