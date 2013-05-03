@@ -26,14 +26,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-458811" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-458811)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-458811" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-458811)  
 **967 La Belle Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-458811), [Google Maps](http://maps.google.com/maps?q=967+La+Belle+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/967+La+Belle+Ave+Akron%2C+OH%2C+44320/)  
 **Price:** $10,000  
 **List Date:** 4/26/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 5/25/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 05/06/2013
 
@@ -104,14 +104,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-391005" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-391005)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-391005" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-391005)  
 **1122 Kenmore Blvd Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-391005), [Google Maps](http://maps.google.com/maps?q=1122+Kenmore+Blvd+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1122+Kenmore+Blvd+Akron%2C+OH%2C+44314/)  
 **Price:** $15,000  
 **List Date:** 4/02/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 9/28/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 05/03/2013
 
