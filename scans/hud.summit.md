@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-574728" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-574728)  
+**3098 Bierce Circle Twinsburg, OH, 44087**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-574728), [Google Maps](http://maps.google.com/maps?q=3098+Bierce+Circle+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/3098+Bierce+Circle+Twinsburg%2C+OH%2C+44087/)  
+**Price:** $185,000  
+**List Date:** 5/04/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/2/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.10  
+**Bid Open Date:** 05/14/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-590341" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590341)  
 **191 21st Street NW Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590341), [Google Maps](http://maps.google.com/maps?q=191+21st+Street+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/191+21st+Street+NW+Barberton%2C+OH%2C+44203/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 7/25/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 05/04/2013
+**Bid Open Date:** 05/05/2013
 
 ***
 
@@ -48,7 +61,7 @@
 **Period Deadline:** 9/3/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/04/2013
+**Bid Open Date:** 05/05/2013
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 10/12/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/04/2013
+**Bid Open Date:** 05/05/2013
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 5/12/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 05/04/2013
+**Bid Open Date:** 05/05/2013
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 5/7/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/04/2013
+**Bid Open Date:** 05/05/2013
 
 ***
 
@@ -96,11 +109,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013), [Google Maps](http://maps.google.com/maps?q=1134+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1134+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
 **Price:** $24,000  
 **List Date:** 4/04/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 5/3/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/30/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/04/2013
+**Bid Open Date:** 05/05/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 9/28/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/04/2013
+**Bid Open Date:** 05/05/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 9/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 05/04/2013
+**Bid Open Date:** 05/05/2013
 
 ***
 
