@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-574728" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-574728)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-574728" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-574728)  
 **3098 Bierce Circle Twinsburg, OH, 44087**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-574728), [Google Maps](http://maps.google.com/maps?q=3098+Bierce+Circle+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/3098+Bierce+Circle+Twinsburg%2C+OH%2C+44087/)  
 **Price:** $185,000  
 **List Date:** 5/04/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 6/2/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/2.10  
 **Bid Open Date:** 05/14/2013
 
@@ -65,14 +65,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-497586" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-497586" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586)  
 **8246 Fairlane Drive Macedonia, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586), [Google Maps](http://maps.google.com/maps?q=8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056/)  
 **Price:** $80,000  
 **List Date:** 4/16/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 10/12/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 05/05/2013
 
@@ -104,14 +104,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434013" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434013" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013)  
 **1134 E Archwood Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013), [Google Maps](http://maps.google.com/maps?q=1134+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1134+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
 **Price:** $24,000  
 **List Date:** 4/04/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 9/30/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 05/05/2013
 
