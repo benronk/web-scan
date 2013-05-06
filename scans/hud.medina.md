@@ -5,11 +5,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565), [Google Maps](http://maps.google.com/maps?q=3937+Columbia+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/3937+Columbia+Rd+Medina%2C+OH%2C+44256/)  
 **Price:** $49,500  
 **List Date:** 5/01/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 5/5/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/31/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 05/06/2013
+**Bid Open Date:** 05/07/2013
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 5/16/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/06/2013
+**Bid Open Date:** 05/07/2013
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 10/6/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 05/06/2013
+**Bid Open Date:** 05/07/2013
 
 ***
 
@@ -61,7 +61,7 @@
 **Period Deadline:** 8/19/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.10  
-**Bid Open Date:** 05/06/2013
+**Bid Open Date:** 05/07/2013
 
 ***
 
