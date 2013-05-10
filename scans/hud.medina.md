@@ -26,19 +26,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528565" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528565)  
-**10135 Dale Dr Wadsworth, OH, 44281**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528565), [Google Maps](http://maps.google.com/maps?q=10135+Dale+Dr+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/10135+Dale+Dr+Wadsworth%2C+OH%2C+44281/)  
-**Price:** $99,000  
-**List Date:** 4/30/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 5/29/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 4/2.00  
-**Bid Open Date:** 05/11/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-510835" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-510835)  
 **7460 State Rd Wadsworth, OH, 44281**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-510835), [Google Maps](http://maps.google.com/maps?q=7460+State+Rd+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/7460+State+Rd+Wadsworth%2C+OH%2C+44281/)  
