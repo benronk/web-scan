@@ -52,19 +52,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-590341" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590341)  
-**191 21st Street NW Barberton, OH, 44203**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590341), [Google Maps](http://maps.google.com/maps?q=191+21st+Street+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/191+21st+Street+NW+Barberton%2C+OH%2C+44203/)  
-**Price:** $54,750  
-**List Date:** 5/01/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/25/2013 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 05/14/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540465" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540465)  
 **1320 Tampa Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540465), [Google Maps](http://maps.google.com/maps?q=1320+Tampa+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1320+Tampa+Ave+Akron%2C+OH%2C+44314/)  
