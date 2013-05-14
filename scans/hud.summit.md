@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-665857" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-665857)  
+**2738 Sanitarium Rd Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-665857), [Google Maps](http://maps.google.com/maps?q=2738+Sanitarium+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2738+Sanitarium+Rd+Akron%2C+OH%2C+44312/)  
+**Price:** $20,000  
+**List Date:** 5/13/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 5/28/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 05/14/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-512645" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-512645)  
 **2958 Hudson Dr Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-512645), [Google Maps](http://maps.google.com/maps?q=2958+Hudson+Dr+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2958+Hudson+Dr+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -13,14 +26,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540539" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540539" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539)  
 **78 E Mapledale Ave Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539), [Google Maps](http://maps.google.com/maps?q=78+E+Mapledale+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/78+E+Mapledale+Ave+Akron%2C+OH%2C+44301/)  
 **Price:** $18,000  
 **List Date:** 5/06/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 5/17/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 05/18/2013
 
