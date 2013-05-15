@@ -1,26 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-590341" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590341)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-590341" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590341)  
 **191 21st Street NW Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590341), [Google Maps](http://maps.google.com/maps?q=191+21st+Street+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/191+21st+Street+NW+Barberton%2C+OH%2C+44203/)  
 **Price:** $47,450  
 **List Date:** 5/14/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 7/26/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 05/15/2013
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-562536" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562536)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-562536" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562536)  
 **1952 Victoria St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562536), [Google Maps](http://maps.google.com/maps?q=1952+Victoria+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1952+Victoria+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $48,000  
 **List Date:** 5/14/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 5/19/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 05/15/2013
 
