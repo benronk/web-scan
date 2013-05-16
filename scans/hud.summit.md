@@ -130,16 +130,3 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-391005" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-391005)  
-**1122 Kenmore Blvd Akron, OH, 44314**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-391005), [Google Maps](http://maps.google.com/maps?q=1122+Kenmore+Blvd+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1122+Kenmore+Blvd+Akron%2C+OH%2C+44314/)  
-**Price:** $15,000  
-**List Date:** 4/02/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/28/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/17/2013
-
-***
-
