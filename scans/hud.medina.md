@@ -13,19 +13,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-634528" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-634528)  
-**1222 Chapman Lane Unit #6 Medina, OH, 44256**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-634528), [Google Maps](http://maps.google.com/maps?q=1222+Chapman+Lane+Unit+%236+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/1222+Chapman+Lane+Unit+%236+Medina%2C+OH%2C+44256/)  
-**Price:** $88,500  
-**List Date:** 5/08/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 8/20/2013 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 2/2.10  
-**Bid Open Date:** 05/17/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559478" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559478)  
 **255 Virginia Avenue Wadsworth, OH, 44281**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559478), [Google Maps](http://maps.google.com/maps?q=255+Virginia+Avenue+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/255+Virginia+Avenue+Wadsworth%2C+OH%2C+44281/)  
