@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564944)  
+**4214 Watkins Rd Norton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564944), [Google Maps](http://maps.google.com/maps?q=4214+Watkins+Rd+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/4214+Watkins+Rd+Norton%2C+OH%2C+44203/)  
+**Price:** $93,000  
+**List Date:** 5/16/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/14/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 05/26/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-511722" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-511722)  
+**2972 Millbrook St Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-511722), [Google Maps](http://maps.google.com/maps?q=2972+Millbrook+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2972+Millbrook+St+Akron%2C+OH%2C+44314/)  
+**Price:** $26,000  
+**List Date:** 5/16/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/14/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 05/26/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-590341" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590341)  
 **191 21st Street NW Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590341), [Google Maps](http://maps.google.com/maps?q=191+21st+Street+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/191+21st+Street+NW+Barberton%2C+OH%2C+44203/)  
@@ -9,7 +35,7 @@
 **Period Deadline:** 7/26/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 
@@ -22,7 +48,7 @@
 **Period Deadline:** 5/19/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 
@@ -35,7 +61,7 @@
 **Period Deadline:** 5/28/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 
@@ -48,7 +74,7 @@
 **Period Deadline:** 9/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 
@@ -74,7 +100,7 @@
 **Period Deadline:** 6/4/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 
@@ -87,7 +113,7 @@
 **Period Deadline:** 5/29/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 
@@ -100,7 +126,7 @@
 **Period Deadline:** 9/3/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 10/12/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 9/30/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 9/28/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 

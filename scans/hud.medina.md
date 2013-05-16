@@ -1,5 +1,18 @@
 # Medina County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-524565" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565)  
+**3937 Columbia Rd Medina, OH, 44256**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565), [Google Maps](http://maps.google.com/maps?q=3937+Columbia+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/3937+Columbia+Rd+Medina%2C+OH%2C+44256/)  
+**Price:** $49,500  
+**List Date:** 5/16/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 5/20/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 05/17/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-634528" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-634528)  
 **1222 Chapman Lane Unit #6 Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-634528), [Google Maps](http://maps.google.com/maps?q=1222+Chapman+Lane+Unit+%236+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/1222+Chapman+Lane+Unit+%236+Medina%2C+OH%2C+44256/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 8/20/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.10  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 
@@ -22,7 +35,7 @@
 **Period Deadline:** 10/6/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 05/16/2013
+**Bid Open Date:** 05/17/2013
 
 ***
 
