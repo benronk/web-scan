@@ -48,7 +48,7 @@
 **Period Deadline:** 7/26/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 05/18/2013
+**Bid Open Date:** 05/19/2013
 
 ***
 
@@ -57,11 +57,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539), [Google Maps](http://maps.google.com/maps?q=78+E+Mapledale+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/78+E+Mapledale+Ave+Akron%2C+OH%2C+44301/)  
 **Price:** $18,000  
 **List Date:** 5/06/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 5/17/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/1/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/18/2013
+**Bid Open Date:** 05/19/2013
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 6/4/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/18/2013
+**Bid Open Date:** 05/19/2013
 
 ***
 
@@ -87,7 +87,7 @@
 **Period Deadline:** 5/29/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 05/18/2013
+**Bid Open Date:** 05/19/2013
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 9/3/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/18/2013
+**Bid Open Date:** 05/19/2013
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 9/30/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/18/2013
+**Bid Open Date:** 05/19/2013
 
 ***
 
