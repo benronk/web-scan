@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-609934" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-609934)  
+**7257 Mystic Drive Hudson, OH, 44236**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-609934), [Google Maps](http://maps.google.com/maps?q=7257+Mystic+Drive+Hudson%2C+OH%2C+44236), [Zillow](http://www.zillow.com/homes/7257+Mystic+Drive+Hudson%2C+OH%2C+44236/)  
+**Price:** $200,000  
+**List Date:** 5/23/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/21/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.10  
+**Bid Open Date:** 06/02/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463)  
+**1484 White Ave Akron, OH, 44307**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463), [Google Maps](http://maps.google.com/maps?q=1484+White+Ave+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/1484+White+Ave+Akron%2C+OH%2C+44307/)  
+**Price:** $7,500  
+**List Date:** 5/23/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/4/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 05/24/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545568" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545568)  
 **1509 1st Street Lakemore, OH, 44250**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545568), [Google Maps](http://maps.google.com/maps?q=1509+1st+Street+Lakemore%2C+OH%2C+44250), [Zillow](http://www.zillow.com/homes/1509+1st+Street+Lakemore%2C+OH%2C+44250/)  
@@ -35,7 +61,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/23/2013
+**Bid Open Date:** 05/24/2013
 
 ***
 
@@ -87,7 +113,7 @@
 **Period Deadline:** 6/4/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/23/2013
+**Bid Open Date:** 05/24/2013
 
 ***
 
@@ -100,7 +126,7 @@
 **Period Deadline:** 5/29/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 05/23/2013
+**Bid Open Date:** 05/24/2013
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 10/18/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/23/2013
+**Bid Open Date:** 05/24/2013
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 10/4/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/23/2013
+**Bid Open Date:** 05/24/2013
 
 ***
 
