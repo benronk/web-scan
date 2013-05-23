@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545568" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545568)  
+**1509 1st Street Lakemore, OH, 44250**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545568), [Google Maps](http://maps.google.com/maps?q=1509+1st+Street+Lakemore%2C+OH%2C+44250), [Zillow](http://www.zillow.com/homes/1509+1st+Street+Lakemore%2C+OH%2C+44250/)  
+**Price:** $23,000  
+**List Date:** 5/22/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 5/28/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 05/29/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473986" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986)  
 **592 Robinette Ct Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986), [Google Maps](http://maps.google.com/maps?q=592+Robinette+Ct+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/592+Robinette+Ct+Akron%2C+OH%2C+44310/)  
@@ -39,14 +52,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564944)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564944)  
 **4214 Watkins Rd Norton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564944), [Google Maps](http://maps.google.com/maps?q=4214+Watkins+Rd+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/4214+Watkins+Rd+Norton%2C+OH%2C+44203/)  
 **Price:** $93,000  
 **List Date:** 5/16/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 6/14/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 05/26/2013
 
