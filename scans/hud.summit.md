@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536807" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536807)  
+**2312 Iota Ave Cuyahoga Falls, OH, 44223**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536807), [Google Maps](http://maps.google.com/maps?q=2312+Iota+Ave+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/2312+Iota+Ave+Cuyahoga+Falls%2C+OH%2C+44223/)  
+**Price:** $53,000  
+**List Date:** 5/24/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/6/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 05/25/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528491" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528491)  
+**469 Eckard Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528491), [Google Maps](http://maps.google.com/maps?q=469+Eckard+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/469+Eckard+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $21,500  
+**List Date:** 5/24/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/22/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 06/03/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-609934" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-609934)  
 **7257 Mystic Drive Hudson, OH, 44236**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-609934), [Google Maps](http://maps.google.com/maps?q=7257+Mystic+Drive+Hudson%2C+OH%2C+44236), [Zillow](http://www.zillow.com/homes/7257+Mystic+Drive+Hudson%2C+OH%2C+44236/)  
@@ -22,7 +48,7 @@
 **Period Deadline:** 9/4/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/24/2013
+**Bid Open Date:** 05/25/2013
 
 ***
 
@@ -61,20 +87,20 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/24/2013
+**Bid Open Date:** 05/25/2013
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516740" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516740)  
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516740" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516740)  
 **749 Lafollette St Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516740), [Google Maps](http://maps.google.com/maps?q=749+Lafollette+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/749+Lafollette+St+Akron%2C+OH%2C+44306/)  
 **Price:** $16,000  
 **List Date:** 5/17/2013  
-**Listing Period:** Lottery (Good Neighbor Next Door Participants Only)  
-**Period Deadline:** 5/23/2013 11:59:59 PM  CT  
-**Status:**   
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/22/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 05/24/2013
+**Bid Open Date:** 06/03/2013
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 6/4/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/24/2013
+**Bid Open Date:** 05/25/2013
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 5/29/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 05/24/2013
+**Bid Open Date:** 05/25/2013
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 10/18/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/24/2013
+**Bid Open Date:** 05/25/2013
 
 ***
 
@@ -152,7 +178,7 @@
 **Period Deadline:** 10/4/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/24/2013
+**Bid Open Date:** 05/25/2013
 
 ***
 
