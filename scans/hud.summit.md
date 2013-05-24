@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-609934" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-609934)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-609934" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-609934)  
 **7257 Mystic Drive Hudson, OH, 44236**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-609934), [Google Maps](http://maps.google.com/maps?q=7257+Mystic+Drive+Hudson%2C+OH%2C+44236), [Zillow](http://www.zillow.com/homes/7257+Mystic+Drive+Hudson%2C+OH%2C+44236/)  
 **Price:** $200,000  
 **List Date:** 5/23/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 6/21/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/2.10  
 **Bid Open Date:** 06/02/2013
 
@@ -65,14 +65,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516740" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516740)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516740" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516740)  
 **749 Lafollette St Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516740), [Google Maps](http://maps.google.com/maps?q=749+Lafollette+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/749+Lafollette+St+Akron%2C+OH%2C+44306/)  
 **Price:** $16,000  
 **List Date:** 5/17/2013  
 **Listing Period:** Lottery (Good Neighbor Next Door Participants Only)  
 **Period Deadline:** 5/23/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 05/24/2013
 
