@@ -1,8 +1,82 @@
 
+<div id="left" class="layout-zone-left layout-zone ">
+<div class="panel-catalog-categories panel clearfix ">
+<h4 class="title ">Categories</h4>
+<div class="content ">
+<ul class="tree">
+<li>
+<a href="http://shop.flitetest.com/airplane-kits" class=" "><span>Aircraft</span></a>
+</li>
+<li>
+<a href="http://shop.flitetest.com/multirotors" class=" "><span>Multirotors</span></a>
+</li>
+<li>
+<a href="http://shop.flitetest.com/clothing/" class=" "><span>Clothing</span></a>
+</li>
+<li>
+<a href="http://shop.flitetest.com/stickers/" class=" "><span>Stickers</span></a>
+</li>
+<li>
+<a href="http://shop.flitetest.com/everything-else/" class=" "><span>Everything Else</span></a>
+</li>
+<li>
+<a href="http://shop.flitetest.com/accessories/" class=" "><span>Accessories</span></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="panel-catalog-manufacturers panel clearfix ">
+<h4 class="title ">Manufacturers</h4>
+<div class="content ">
+<select name="search_in" onchange="if(this.value!='')document.location=this.value"><option value="">Please select</option>
+<option value="http://shop.flitetest.com/www.flitetest.com">Flite Test</option>
+<option value="http://shop.flitetest.com/rotor-bones/">Rotor Bones</option></select>
+</div>
+</div>
+<div class="panel-newsletters-subscribe panel clearfix ">
+<h4 class="title ">Newsletter</h4>
+<div class="content ">
+<form action="http://shop.flitetest.com/index.php?p=subscribe" method="post" onsubmit="return CheckNewsletters(this)">
+<label for="subscribe_email">Email Address:</label>
+<input maxlength="64" type="text" id="subscribe_email" name="email" value=""><div class="gap-top text-center">
+<input type="submit" class="button-subscribe submit " value="Subscribe">
+</div>
+<div class="unsubscribe"><a href="http://shop.flitetest.com/index.php?p=unsubscribe">Click here to unsubscribe</a></div>
+</form>
+</div>
+</div>
+<div class="panel-account-profile panel clearfix ">
+<h4 class="title ">My Profile</h4>
+<div class="content ">
+<ul>
+<li><a href="https://flitetest.pinnaclecart.com/index.php?pcsid=igd44v2142t9jflbjlskbegv61&amp;p=login">Login</a></li>
+<li><a href="https://flitetest.pinnaclecart.com/index.php?pcsid=igd44v2142t9jflbjlskbegv61&amp;p=signup">Register</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="right" class="layout-zone-right layout-zone ">
+<div class="panel-checkout-cart panel clearfix ">
+<h4 class="title ">My Cart</h4>
+<div class="content ">
+<span class="msg-cart-empty">Your Shopping Cart is Empty</span>
+</div>
+</div>
+<div class="panel-catalog-search panel clearfix ">
+<h4 class="title ">Search</h4>
+<div class="content ">
+<form action="http://shop.flitetest.com/index.php?" method="get">
+<input type="hidden" name="p" value="catalog"><input type="hidden" name="mode" value="search"><input type="hidden" name="search_in" value="all"><input maxlength="256" type="text" name="search_str" value=""><div class="gap-top text-center">
+<input type="submit" class="button-start-search submit " value="Go!">
+</div>
+<a href="http://shop.flitetest.com/index.php?p=catalog&amp;mode=search">Advanced search</a>
+</form>
+</div>
+</div>
+</div>
 <div id="content" class="layout-zone-content layout-zone clearfix ">
 <div class="page-home wrap ">
 <div>
-<img class="image-home " src="content/cache/skins/Template3709/images/image-home.png" alt="Home">
 </div>
 <div class="catalog-view-thumb3 catalog-products clearfix ">
 <table cellspacing="0" cellpadding="0" border="0" class="catalog-list">
@@ -22,7 +96,7 @@
 </div>
 <div class="catalog-product-add ">
 <form action="http://shop.flitetest.com/index.php?" method="post" onsubmit="return CheckAddProduct(this, '1', '-', '30')">
-<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Any-Hub"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="image" src="content/cache/skins/Template3709/images/button-add-to-cart.gif" style="background-image: none;" class="button-add-to-cart submit-image " alt="Add to Cart">
+<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Any-Hub"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="submit" class="button-add-to-cart submit " value="Add to Cart">
 </form>
 </div>
 </div>
@@ -42,7 +116,7 @@
 </div>
 <div class="catalog-product-add ">
 <form action="http://shop.flitetest.com/index.php?" method="post" onsubmit="return CheckAddProduct(this, '1', '-', '30')">
-<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Any-Quad-370"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="image" src="content/cache/skins/Template3709/images/button-add-to-cart.gif" style="background-image: none;" class="button-add-to-cart submit-image " alt="Add to Cart">
+<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Any-Quad-370"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="submit" class="button-add-to-cart submit " value="Add to Cart">
 </form>
 </div>
 </div>
@@ -61,7 +135,7 @@
 </div>
 <div class="catalog-product-add ">
 <form action="http://shop.flitetest.com/index.php?" method="post" onsubmit="return CheckAddProduct(this, '1', '-', '30')">
-<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Any-Tri-370"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="image" src="content/cache/skins/Template3709/images/button-add-to-cart.gif" style="background-image: none;" class="button-add-to-cart submit-image " alt="Add to Cart">
+<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Any-Tri-370"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="submit" class="button-add-to-cart submit " value="Add to Cart">
 </form>
 </div>
 </div>
@@ -86,7 +160,7 @@
 </div>
 <div class="catalog-product-add ">
 <form action="http://shop.flitetest.com/index.php?" method="post" onsubmit="return CheckAddProduct(this, '1', '999', '199')">
-<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="spitfire - sbk"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="image" src="content/cache/skins/Template3709/images/button-add-to-cart.gif" style="background-image: none;" class="button-add-to-cart submit-image " alt="Add to Cart">
+<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="spitfire - sbk"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="submit" class="button-add-to-cart submit " value="Add to Cart">
 </form>
 </div>
 </div>
@@ -109,7 +183,7 @@
 </div>
 <div class="catalog-product-add ">
 <form action="http://shop.flitetest.com/index.php?" method="post" onsubmit="return CheckAddProduct(this, '1', '999', '199')">
-<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Spitfire - sbk-DBL2"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="image" src="content/cache/skins/Template3709/images/button-add-to-cart.gif" style="background-image: none;" class="button-add-to-cart submit-image " alt="Add to Cart">
+<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Spitfire - sbk-DBL2"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="submit" class="button-add-to-cart submit " value="Add to Cart">
 </form>
 </div>
 </div>
@@ -132,7 +206,7 @@
 </div>
 <div class="catalog-product-add ">
 <form action="http://shop.flitetest.com/index.php?" method="post" onsubmit="return CheckAddProduct(this, '1', '-', '-')">
-<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="BBlend-sbk-DBL2"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="image" src="content/cache/skins/Template3709/images/button-add-to-cart.gif" style="background-image: none;" class="button-add-to-cart submit-image " alt="Add to Cart">
+<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="BBlend-sbk-DBL2"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="submit" class="button-add-to-cart submit " value="Add to Cart">
 </form>
 </div>
 </div>
@@ -154,7 +228,7 @@
 </div>
 <div class="catalog-product-add ">
 <form action="http://shop.flitetest.com/index.php?" method="post" onsubmit="return CheckAddProduct(this, '1', '-', '200')">
-<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="BBlend-sbk"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="image" src="content/cache/skins/Template3709/images/button-add-to-cart.gif" style="background-image: none;" class="button-add-to-cart submit-image " alt="Add to Cart">
+<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="BBlend-sbk"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="submit" class="button-add-to-cart submit " value="Add to Cart">
 </form>
 </div>
 </div>
@@ -174,7 +248,7 @@
 </div>
 <div class="catalog-product-add ">
 <form action="http://shop.flitetest.com/index.php?" method="post" onsubmit="return CheckAddProduct(this, '1', '-', '198')">
-<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Cruiser-sbk"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="image" src="content/cache/skins/Template3709/images/button-add-to-cart.gif" style="background-image: none;" class="button-add-to-cart submit-image " alt="Add to Cart">
+<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Cruiser-sbk"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="submit" class="button-add-to-cart submit " value="Add to Cart">
 </form>
 </div>
 </div>
@@ -197,7 +271,7 @@
 </div>
 <div class="catalog-product-add ">
 <form action="http://shop.flitetest.com/index.php?" method="post" onsubmit="return CheckAddProduct(this, '1', '-', '200')">
-<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Cruiser-sbk-DBL2"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="image" src="content/cache/skins/Template3709/images/button-add-to-cart.gif" style="background-image: none;" class="button-add-to-cart submit-image " alt="Add to Cart">
+<input type="hidden" name="oa" value="AddItem"><input type="hidden" name="oa_id" value="Cruiser-sbk-DBL2"><input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="submit" class="button-add-to-cart submit " value="Add to Cart">
 </form>
 </div>
 </div>
@@ -221,7 +295,7 @@
 </div>
 <div class="catalog-product-add ">
 <form action="http://shop.flitetest.com/everything-else/flite-test-fan-pack/" method="post">
-<input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="image" src="content/cache/skins/Template3709/images/button-add-to-cart.gif" style="background-image: none;" class="button-add-to-cart submit-image " alt="Add to Cart">
+<input type="text" name="oa_quantity" class="input-quantity" maxlength="6" value="1"><input type="submit" class="button-add-to-cart submit " value="Add to Cart">
 </form>
 </div>
 </div>
