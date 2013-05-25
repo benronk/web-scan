@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536807" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536807)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536807" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536807)  
 **2312 Iota Ave Cuyahoga Falls, OH, 44223**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536807), [Google Maps](http://maps.google.com/maps?q=2312+Iota+Ave+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/2312+Iota+Ave+Cuyahoga+Falls%2C+OH%2C+44223/)  
 **Price:** $53,000  
 **List Date:** 5/24/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 11/6/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 05/25/2013
 
@@ -23,6 +23,19 @@
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 06/03/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522293" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293)  
+**441 E Voris St Akron, OH, 44311**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293), [Google Maps](http://maps.google.com/maps?q=441+E+Voris+St+Akron%2C+OH%2C+44311), [Zillow](http://www.zillow.com/homes/441+E+Voris+St+Akron%2C+OH%2C+44311/)  
+**Price:** $15,000  
+**List Date:** 5/24/2013  
+**Listing Period:** Lottery (Good Neighbor Next Door Participants Only)  
+**Period Deadline:** 5/30/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 05/31/2013
 
 ***
 
@@ -130,6 +143,19 @@
 
 ***
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540539" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539)  
+**78 E Mapledale Ave Akron, OH, 44301**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539), [Google Maps](http://maps.google.com/maps?q=78+E+Mapledale+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/78+E+Mapledale+Ave+Akron%2C+OH%2C+44301/)  
+**Price:** $18,000  
+**List Date:** 5/06/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/5/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 05/25/2013
+
+***
+
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-494421" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494421)  
 **1094 Sawyer Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494421), [Google Maps](http://maps.google.com/maps?q=1094+Sawyer+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1094+Sawyer+Ave+Akron%2C+OH%2C+44310/)  
@@ -178,6 +204,19 @@
 **Period Deadline:** 10/4/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
+**Bid Open Date:** 05/25/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-608735" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735)  
+**1116 Prospect St Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735), [Google Maps](http://maps.google.com/maps?q=1116+Prospect+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1116+Prospect+St+Barberton%2C+OH%2C+44203/)  
+**Price:** $36,000  
+**List Date:** 2/15/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/20/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 05/25/2013
 
 ***
