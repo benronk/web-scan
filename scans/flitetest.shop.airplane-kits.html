@@ -1,57 +1,20 @@
 
-<div id="left" class="layout-zone-left layout-zone ">
-<div class="panel-catalog-categories panel clearfix ">
-<h4 class="title ">Categories</h4>
+<div id="right" class="layout-zone-right layout-zone ">
+<div class="panel-checkout-cart panel clearfix ">
+<h4 class="title ">My Cart</h4>
 <div class="content ">
-<ul class="tree">
-<li class="drop-down-menu-item-current">
-<a href="http://shop.flitetest.com/airplane-kits" class=" "><span>Aircraft</span></a>
-</li>
-<li>
-<a href="http://shop.flitetest.com/multirotors" class=" "><span>Multirotors</span></a>
-</li>
-<li>
-<a href="http://shop.flitetest.com/clothing/" class=" "><span>Clothing</span></a>
-</li>
-<li>
-<a href="http://shop.flitetest.com/stickers/" class=" "><span>Stickers</span></a>
-</li>
-<li>
-<a href="http://shop.flitetest.com/everything-else/" class=" "><span>Everything Else</span></a>
-</li>
-<li>
-<a href="http://shop.flitetest.com/accessories/" class=" "><span>Accessories</span></a>
-</li>
-</ul>
+<span class="msg-cart-empty">Your Shopping Cart is Empty</span>
 </div>
 </div>
-<div class="panel-catalog-manufacturers panel clearfix ">
-<h4 class="title ">Manufacturers</h4>
+<div class="panel-catalog-search panel clearfix ">
+<h4 class="title ">Search</h4>
 <div class="content ">
-<select name="search_in" onchange="if(this.value!='')document.location=this.value"><option value="">Please select</option>
-<option value="http://shop.flitetest.com/www.flitetest.com">Flite Test</option>
-<option value="http://shop.flitetest.com/rotor-bones/">Rotor Bones</option></select>
+<form action="http://shop.flitetest.com/index.php?" method="get">
+<input type="hidden" name="p" value="catalog"><input type="hidden" name="mode" value="search"><input type="hidden" name="search_in" value="all"><input maxlength="256" type="text" name="search_str" value=""><div class="gap-top text-center">
+<input type="submit" class="button-start-search submit " value="Go!">
 </div>
-</div>
-<div class="panel-newsletters-subscribe panel clearfix ">
-<h4 class="title ">Newsletter</h4>
-<div class="content ">
-<form action="http://shop.flitetest.com/index.php?p=subscribe" method="post" onsubmit="return CheckNewsletters(this)">
-<label for="subscribe_email">Email Address:</label>
-<input maxlength="64" type="text" id="subscribe_email" name="email" value=""><div class="gap-top text-center">
-<input type="submit" class="button-subscribe submit " value="Subscribe">
-</div>
-<div class="unsubscribe"><a href="http://shop.flitetest.com/index.php?p=unsubscribe">Click here to unsubscribe</a></div>
+<a href="http://shop.flitetest.com/index.php?p=catalog&amp;mode=search">Advanced search</a>
 </form>
-</div>
-</div>
-<div class="panel-account-profile panel clearfix ">
-<h4 class="title ">My Profile</h4>
-<div class="content ">
-<ul>
-<li><a href="https://flitetest.pinnaclecart.com/index.php?pcsid=73tmfld5ceuc9j84c9ofiedo00&amp;p=login">Login</a></li>
-<li><a href="https://flitetest.pinnaclecart.com/index.php?pcsid=73tmfld5ceuc9j84c9ofiedo00&amp;p=signup">Register</a></li>
-</ul>
 </div>
 </div>
 </div>
