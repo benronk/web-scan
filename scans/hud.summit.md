@@ -1,18 +1,5 @@
 # Summit County HUD Homes
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536807" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536807)  
-**2312 Iota Ave Cuyahoga Falls, OH, 44223**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536807), [Google Maps](http://maps.google.com/maps?q=2312+Iota+Ave+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/2312+Iota+Ave+Cuyahoga+Falls%2C+OH%2C+44223/)  
-**Price:** $53,000  
-**List Date:** 5/24/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 11/6/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/29/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528491" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528491)  
 **469 Eckard Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528491), [Google Maps](http://maps.google.com/maps?q=469+Eckard+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/469+Eckard+Ave+Akron%2C+OH%2C+44314/)  
