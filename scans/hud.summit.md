@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-541803" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-541803)  
+**308 Jarvis Rd Akron, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-541803), [Google Maps](http://maps.google.com/maps?q=308+Jarvis+Rd+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/308+Jarvis+Rd+Akron%2C+OH%2C+44319/)  
+**Price:** $52,000  
+**List Date:** 5/30/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/28/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/09/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-391005" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-391005)  
 **1122 Kenmore Blvd Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-391005), [Google Maps](http://maps.google.com/maps?q=1122+Kenmore+Blvd+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1122+Kenmore+Blvd+Akron%2C+OH%2C+44314/)  
@@ -39,14 +52,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522293" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522293" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293)  
 **441 E Voris St Akron, OH, 44311**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293), [Google Maps](http://maps.google.com/maps?q=441+E+Voris+St+Akron%2C+OH%2C+44311), [Zillow](http://www.zillow.com/homes/441+E+Voris+St+Akron%2C+OH%2C+44311/)  
 **Price:** $15,000  
 **List Date:** 5/24/2013  
 **Listing Period:** Lottery (Good Neighbor Next Door Participants Only)  
 **Period Deadline:** 5/30/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 05/31/2013
 
@@ -143,14 +156,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540539" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540539" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539)  
 **78 E Mapledale Ave Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539), [Google Maps](http://maps.google.com/maps?q=78+E+Mapledale+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/78+E+Mapledale+Ave+Akron%2C+OH%2C+44301/)  
 **Price:** $18,000  
 **List Date:** 5/06/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 11/5/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 05/31/2013
 
@@ -169,14 +182,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-608735" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-608735" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735)  
 **1116 Prospect St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735), [Google Maps](http://maps.google.com/maps?q=1116+Prospect+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1116+Prospect+St+Barberton%2C+OH%2C+44203/)  
 **Price:** $36,000  
 **List Date:** 2/15/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 10/20/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 05/31/2013
 
