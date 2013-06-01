@@ -1,5 +1,18 @@
 # Medina County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559478" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559478)  
+**255 Virginia Avenue Wadsworth, OH, 44281**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559478), [Google Maps](http://maps.google.com/maps?q=255+Virginia+Avenue+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/255+Virginia+Avenue+Wadsworth%2C+OH%2C+44281/)  
+**Price:** $48,000  
+**List Date:** 6/01/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/16/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 06/02/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-583052" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-583052)  
 **215 North Pardee St Wadsworth, OH, 44281**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-583052), [Google Maps](http://maps.google.com/maps?q=215+North+Pardee+St+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/215+North+Pardee+St+Wadsworth%2C+OH%2C+44281/)  
