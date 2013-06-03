@@ -39,19 +39,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528491" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528491)  
-**469 Eckard Ave Akron, OH, 44314**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528491), [Google Maps](http://maps.google.com/maps?q=469+Eckard+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/469+Eckard+Ave+Akron%2C+OH%2C+44314/)  
-**Price:** $21,500  
-**List Date:** 5/24/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/22/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/04/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522293" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293)  
 **441 E Voris St Akron, OH, 44311**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293), [Google Maps](http://maps.google.com/maps?q=441+E+Voris+St+Akron%2C+OH%2C+44311), [Zillow](http://www.zillow.com/homes/441+E+Voris+St+Akron%2C+OH%2C+44311/)  
