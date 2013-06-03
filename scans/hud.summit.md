@@ -52,19 +52,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-609934" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-609934)  
-**7257 Mystic Drive Hudson, OH, 44236**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-609934), [Google Maps](http://maps.google.com/maps?q=7257+Mystic+Drive+Hudson%2C+OH%2C+44236), [Zillow](http://www.zillow.com/homes/7257+Mystic+Drive+Hudson%2C+OH%2C+44236/)  
-**Price:** $200,000  
-**List Date:** 5/23/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/21/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 4/2.10  
-**Bid Open Date:** 06/04/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463)  
 **1484 White Ave Akron, OH, 44307**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463), [Google Maps](http://maps.google.com/maps?q=1484+White+Ave+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/1484+White+Ave+Akron%2C+OH%2C+44307/)  
