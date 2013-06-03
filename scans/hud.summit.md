@@ -91,19 +91,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545568" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545568)  
-**1509 1st Street Lakemore, OH, 44250**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545568), [Google Maps](http://maps.google.com/maps?q=1509+1st+Street+Lakemore%2C+OH%2C+44250), [Zillow](http://www.zillow.com/homes/1509+1st+Street+Lakemore%2C+OH%2C+44250/)  
-**Price:** $23,000  
-**List Date:** 5/22/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 11/17/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/04/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473986" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986)  
 **592 Robinette Ct Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986), [Google Maps](http://maps.google.com/maps?q=592+Robinette+Ct+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/592+Robinette+Ct+Akron%2C+OH%2C+44310/)  
