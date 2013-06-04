@@ -9,7 +9,7 @@
 **Period Deadline:** 10/16/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 06/04/2013
+**Bid Open Date:** 06/05/2013
 
 ***
 

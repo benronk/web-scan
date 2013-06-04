@@ -48,7 +48,7 @@
 **Period Deadline:** 10/4/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/04/2013
+**Bid Open Date:** 06/05/2013
 
 ***
 
@@ -57,11 +57,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568503), [Google Maps](http://maps.google.com/maps?q=428+Bell+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/428+Bell+St+Barberton%2C+OH%2C+44203/)  
 **Price:** $43,000  
 **List Date:** 5/28/2013  
-**Listing Period:** Lottery (Good Neighbor Next Door Participants, Nonprofits and Government Agencies Only)  
-**Period Deadline:** 6/3/2013 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/8/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/04/2013
+**Bid Open Date:** 06/09/2013
 
 ***
 
@@ -87,7 +87,7 @@
 **Period Deadline:** 9/4/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/04/2013
+**Bid Open Date:** 06/05/2013
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 6/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/04/2013
+**Bid Open Date:** 06/05/2013
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/04/2013
+**Bid Open Date:** 06/05/2013
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 6/22/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 06/04/2013
+**Bid Open Date:** 06/05/2013
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 6/14/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/04/2013
+**Bid Open Date:** 06/05/2013
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 11/5/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/04/2013
+**Bid Open Date:** 06/05/2013
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 6/4/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/04/2013
+**Bid Open Date:** 06/05/2013
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 10/20/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/04/2013
+**Bid Open Date:** 06/05/2013
 
 ***
 
