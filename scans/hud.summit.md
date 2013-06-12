@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559484" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484)  
+**600 Cora Ave Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484), [Google Maps](http://maps.google.com/maps?q=600+Cora+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/600+Cora+Ave+Akron%2C+OH%2C+44312/)  
+**Price:** $81,000  
+**List Date:** 6/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/10/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 06/21/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-525471" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-525471)  
+**892 Oakland Ave Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-525471), [Google Maps](http://maps.google.com/maps?q=892+Oakland+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/892+Oakland+Ave+Akron%2C+OH%2C+44310/)  
+**Price:** $20,000  
+**List Date:** 6/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/10/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/21/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-608735" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735)  
 **1116 Prospect St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735), [Google Maps](http://maps.google.com/maps?q=1116+Prospect+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1116+Prospect+St+Barberton%2C+OH%2C+44203/)  
@@ -52,14 +78,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-578516" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578516)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-578516" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578516)  
 **2444 Wrens Dr S Stow, OH, 44224**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578516), [Google Maps](http://maps.google.com/maps?q=2444+Wrens+Dr+S+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2444+Wrens+Dr+S+Stow%2C+OH%2C+44224/)  
 **Price:** $60,300  
 **List Date:** 6/05/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/4/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.10  
 **Bid Open Date:** 06/15/2013
 
@@ -130,14 +156,14 @@
 
 ***
 
-[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522293" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293)  
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522293" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293)  
 **441 E Voris St Akron, OH, 44311**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293), [Google Maps](http://maps.google.com/maps?q=441+E+Voris+St+Akron%2C+OH%2C+44311), [Zillow](http://www.zillow.com/homes/441+E+Voris+St+Akron%2C+OH%2C+44311/)  
 **Price:** $15,000  
 **List Date:** 5/24/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 6/29/2013 11:59:59 PM  CT  
-**Status:** Property Pending Sale  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 06/12/2013
 
@@ -221,40 +247,53 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-494421" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494421)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540539" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539)  
+**78 E Mapledale Ave Akron, OH, 44301**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539), [Google Maps](http://maps.google.com/maps?q=78+E+Mapledale+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/78+E+Mapledale+Ave+Akron%2C+OH%2C+44301/)  
+**Price:** $18,000  
+**List Date:** 5/06/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/10/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/12/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-494421" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494421)  
 **1094 Sawyer Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494421), [Google Maps](http://maps.google.com/maps?q=1094+Sawyer+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1094+Sawyer+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $42,000  
 **List Date:** 5/06/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 11/1/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 06/12/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-497586" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-497586" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586)  
 **8246 Fairlane Drive Macedonia, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586), [Google Maps](http://maps.google.com/maps?q=8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056/)  
 **Price:** $80,000  
 **List Date:** 4/16/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 10/25/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 06/12/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-569286" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569286)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-569286" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569286)  
 **573 Hughes Dr Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569286), [Google Maps](http://maps.google.com/maps?q=573+Hughes+Dr+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/573+Hughes+Dr+Tallmadge%2C+OH%2C+44278/)  
 **Price:** $118,000  
 **List Date:** 4/04/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 6/23/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 06/12/2013
 
