@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554625" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554625)  
+**924 Oregon Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554625), [Google Maps](http://maps.google.com/maps?q=924+Oregon+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/924+Oregon+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $20,000  
+**List Date:** 6/12/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/11/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 06/22/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-552589" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552589)  
 **1914 Clairmont Ave Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552589), [Google Maps](http://maps.google.com/maps?q=1914+Clairmont+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1914+Clairmont+Ave+Akron%2C+OH%2C+44301/)  
@@ -9,6 +22,19 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/22/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-407928" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407928)  
+**2419 Clara St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407928), [Google Maps](http://maps.google.com/maps?q=2419+Clara+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2419+Clara+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $33,000  
+**List Date:** 6/12/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/11/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 1/1.10  
 **Bid Open Date:** 06/22/2013
 
 ***
@@ -78,14 +104,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-600407" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-600407)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-600407" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-600407)  
 **737 Elma St Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-600407), [Google Maps](http://maps.google.com/maps?q=737+Elma+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/737+Elma+St+Akron%2C+OH%2C+44310/)  
 **Price:** $18,000  
 **List Date:** 6/06/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 6/12/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 06/13/2013
 
@@ -169,14 +195,14 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522293" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293)  
+[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522293" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293)  
 **441 E Voris St Akron, OH, 44311**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522293), [Google Maps](http://maps.google.com/maps?q=441+E+Voris+St+Akron%2C+OH%2C+44311), [Zillow](http://www.zillow.com/homes/441+E+Voris+St+Akron%2C+OH%2C+44311/)  
 **Price:** $15,000  
 **List Date:** 5/24/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 6/29/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Status:** Property Pending Sale  
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 06/13/2013
 
