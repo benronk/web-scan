@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-459646" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-459646)  
+**3094 Tower Hill Dr Akron, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-459646), [Google Maps](http://maps.google.com/maps?q=3094+Tower+Hill+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/3094+Tower+Hill+Dr+Akron%2C+OH%2C+44319/)  
+**Price:** $80,000  
+**List Date:** 6/14/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/13/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 06/24/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650438" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438)  
 **10175 Inlet Pt E Aurora, OH, 44202**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438), [Google Maps](http://maps.google.com/maps?q=10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202/)  
@@ -100,7 +113,7 @@
 **Period Deadline:** 10/20/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -122,11 +135,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537453), [Google Maps](http://maps.google.com/maps?q=3120+Killian+Rd+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/3120+Killian+Rd+Uniontown%2C+OH%2C+44685/)  
 **Price:** $90,000  
 **List Date:** 6/07/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 6/13/2013 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/18/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/19/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 7/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 7/2/2013 11:59:59 PM  CT  
 **Status:** Property Pending Sale  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 6/28/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 11/23/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 9/4/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 6/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -243,7 +256,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -256,7 +269,7 @@
 **Period Deadline:** 6/22/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -269,7 +282,7 @@
 **Period Deadline:** 6/14/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -282,7 +295,7 @@
 **Period Deadline:** 10/8/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -295,7 +308,7 @@
 **Period Deadline:** 11/10/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -308,7 +321,7 @@
 **Period Deadline:** 11/1/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
@@ -321,7 +334,7 @@
 **Period Deadline:** 6/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 06/14/2013
+**Bid Open Date:** 06/15/2013
 
 ***
 
