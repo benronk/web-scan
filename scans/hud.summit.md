@@ -1,15 +1,28 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650438" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650438" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438)  
 **10175 Inlet Pt E Aurora, OH, 44202**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438), [Google Maps](http://maps.google.com/maps?q=10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202/)  
 **Price:** $90,000  
 **List Date:** 6/13/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 6/19/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/2.00  
 **Bid Open Date:** 06/20/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572550" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572550)  
+**278 Nokomis Dr Akron, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572550), [Google Maps](http://maps.google.com/maps?q=278+Nokomis+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/278+Nokomis+Dr+Akron%2C+OH%2C+44319/)  
+**Price:** $94,500  
+**List Date:** 6/13/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/12/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 06/23/2013
 
 ***
 
@@ -91,27 +104,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-578219" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578219)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-578219" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578219)  
 **1113 Shannon Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578219), [Google Maps](http://maps.google.com/maps?q=1113+Shannon+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1113+Shannon+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $33,500  
 **List Date:** 6/07/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/6/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 06/17/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537453" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537453)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537453" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537453)  
 **3120 Killian Rd Uniontown, OH, 44685**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537453), [Google Maps](http://maps.google.com/maps?q=3120+Killian+Rd+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/3120+Killian+Rd+Uniontown%2C+OH%2C+44685/)  
 **Price:** $90,000  
 **List Date:** 6/07/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 6/13/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 06/14/2013
 
@@ -156,14 +169,14 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-520816" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520816)  
+[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-520816" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520816)  
 **1015 Nome Avenue Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520816), [Google Maps](http://maps.google.com/maps?q=1015+Nome+Avenue+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/1015+Nome+Avenue+Akron%2C+OH%2C+44320/)  
 **Price:** $16,000  
 **List Date:** 6/03/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/2/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Status:** Property Pending Sale  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 06/14/2013
 
