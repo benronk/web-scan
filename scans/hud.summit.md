@@ -182,19 +182,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-578516" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578516)  
-**2444 Wrens Dr S Stow, OH, 44224**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578516), [Google Maps](http://maps.google.com/maps?q=2444+Wrens+Dr+S+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2444+Wrens+Dr+S+Stow%2C+OH%2C+44224/)  
-**Price:** $60,300  
-**List Date:** 6/05/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/4/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.10  
-**Bid Open Date:** 06/19/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537403" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537403)  
 **1195 Collinwood Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537403), [Google Maps](http://maps.google.com/maps?q=1195+Collinwood+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1195+Collinwood+Ave+Akron%2C+OH%2C+44310/)  
