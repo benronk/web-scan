@@ -169,19 +169,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-600407" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-600407)  
-**737 Elma St Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-600407), [Google Maps](http://maps.google.com/maps?q=737+Elma+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/737+Elma+St+Akron%2C+OH%2C+44310/)  
-**Price:** $18,000  
-**List Date:** 6/06/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/2/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537403" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537403)  
 **1195 Collinwood Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537403), [Google Maps](http://maps.google.com/maps?q=1195+Collinwood+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1195+Collinwood+Ave+Akron%2C+OH%2C+44310/)  
