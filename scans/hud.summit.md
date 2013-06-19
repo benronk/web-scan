@@ -165,7 +165,7 @@
 **Period Deadline:** 7/6/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -174,11 +174,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537453), [Google Maps](http://maps.google.com/maps?q=3120+Killian+Rd+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/3120+Killian+Rd+Uniontown%2C+OH%2C+44685/)  
 **Price:** $90,000  
 **List Date:** 6/07/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/18/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/3/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 7/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 6/28/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 11/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 9/4/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 6/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 6/22/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -282,7 +282,7 @@
 **Period Deadline:** 11/11/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -295,7 +295,7 @@
 **Period Deadline:** 11/10/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -308,7 +308,7 @@
 **Period Deadline:** 11/1/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
@@ -321,7 +321,7 @@
 **Period Deadline:** 6/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 06/19/2013
+**Bid Open Date:** 06/20/2013
 
 ***
 
