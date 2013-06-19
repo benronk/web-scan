@@ -1,14 +1,27 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622278" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622278)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622278" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622278)  
 **3490 Curtis St Mogadore, OH, 44260**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622278), [Google Maps](http://maps.google.com/maps?q=3490+Curtis+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3490+Curtis+St+Mogadore%2C+OH%2C+44260/)  
 **Price:** $78,000  
 **List Date:** 6/18/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/17/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/28/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542343" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542343)  
+**2330 Mishler Ave Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542343), [Google Maps](http://maps.google.com/maps?q=2330+Mishler+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2330+Mishler+Ave+Akron%2C+OH%2C+44312/)  
+**Price:** $33,000  
+**List Date:** 6/18/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/17/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/2.00  
 **Bid Open Date:** 06/28/2013
 
 ***
@@ -104,14 +117,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-407928" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407928)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-407928" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407928)  
 **2419 Clara St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407928), [Google Maps](http://maps.google.com/maps?q=2419+Clara+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2419+Clara+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $33,000  
 **List Date:** 6/12/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 1/1.10  
 **Bid Open Date:** 06/22/2013
 
