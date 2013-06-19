@@ -182,19 +182,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537403" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537403)  
-**1195 Collinwood Ave Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537403), [Google Maps](http://maps.google.com/maps?q=1195+Collinwood+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1195+Collinwood+Ave+Akron%2C+OH%2C+44310/)  
-**Price:** $18,000  
-**List Date:** 6/04/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/3/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/20/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-541803" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-541803)  
 **308 Jarvis Rd Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-541803), [Google Maps](http://maps.google.com/maps?q=308+Jarvis+Rd+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/308+Jarvis+Rd+Akron%2C+OH%2C+44319/)  
