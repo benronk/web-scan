@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553117" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553117)  
+**519 Tallmadge Rd Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553117), [Google Maps](http://maps.google.com/maps?q=519+Tallmadge+Rd+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/519+Tallmadge+Rd+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $45,000  
+**List Date:** 6/20/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/19/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/1.10  
+**Bid Open Date:** 06/30/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540465" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540465)  
+**1320 Tampa Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540465), [Google Maps](http://maps.google.com/maps?q=1320+Tampa+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1320+Tampa+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $20,000  
+**List Date:** 6/20/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/24/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 06/21/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622278" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622278)  
 **3490 Curtis St Mogadore, OH, 44260**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622278), [Google Maps](http://maps.google.com/maps?q=3490+Curtis+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3490+Curtis+St+Mogadore%2C+OH%2C+44260/)  
@@ -70,11 +96,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438), [Google Maps](http://maps.google.com/maps?q=10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202/)  
 **Price:** $90,000  
 **List Date:** 6/13/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 6/19/2013 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/24/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/25/2013
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 7/6/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
@@ -178,7 +204,7 @@
 **Period Deadline:** 12/3/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 6/28/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 11/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
@@ -217,7 +243,7 @@
 **Period Deadline:** 9/4/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
@@ -226,11 +252,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986), [Google Maps](http://maps.google.com/maps?q=592+Robinette+Ct+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/592+Robinette+Ct+Akron%2C+OH%2C+44310/)  
 **Price:** $19,000  
 **List Date:** 5/21/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/19/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/16/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
@@ -243,7 +269,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
@@ -256,7 +282,7 @@
 **Period Deadline:** 6/22/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
@@ -269,7 +295,7 @@
 **Period Deadline:** 11/11/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
@@ -282,7 +308,7 @@
 **Period Deadline:** 11/10/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
@@ -295,7 +321,7 @@
 **Period Deadline:** 11/1/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
@@ -308,7 +334,7 @@
 **Period Deadline:** 6/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 06/20/2013
+**Bid Open Date:** 06/21/2013
 
 ***
 
