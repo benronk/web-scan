@@ -1,13 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553117" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553117)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-637927" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-637927)  
+**2971 Long Rd Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-637927), [Google Maps](http://maps.google.com/maps?q=2971+Long+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2971+Long+Rd+Akron%2C+OH%2C+44312/)  
+**Price:** $75,000  
+**List Date:** 6/20/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/19/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/30/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553117" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553117)  
 **519 Tallmadge Rd Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553117), [Google Maps](http://maps.google.com/maps?q=519+Tallmadge+Rd+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/519+Tallmadge+Rd+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $45,000  
 **List Date:** 6/20/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/19/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/1.10  
 **Bid Open Date:** 06/30/2013
 
@@ -23,6 +36,19 @@
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 06/21/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517247" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517247)  
+**1367 Andrus St Akron, OH, 44301**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517247), [Google Maps](http://maps.google.com/maps?q=1367+Andrus+St+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1367+Andrus+St+Akron%2C+OH%2C+44301/)  
+**Price:** $13,000  
+**List Date:** 6/20/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/19/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -78,27 +104,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-459646" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-459646)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-459646" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-459646)  
 **3094 Tower Hill Dr Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-459646), [Google Maps](http://maps.google.com/maps?q=3094+Tower+Hill+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/3094+Tower+Hill+Dr+Akron%2C+OH%2C+44319/)  
 **Price:** $80,000  
 **List Date:** 6/14/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/13/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 06/24/2013
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650438" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650438" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438)  
 **10175 Inlet Pt E Aurora, OH, 44202**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438), [Google Maps](http://maps.google.com/maps?q=10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202/)  
 **Price:** $90,000  
 **List Date:** 6/13/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 6/24/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/2.00  
 **Bid Open Date:** 06/25/2013
 
@@ -182,6 +208,19 @@
 
 ***
 
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-608735" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735)  
+**1116 Prospect St Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735), [Google Maps](http://maps.google.com/maps?q=1116+Prospect+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1116+Prospect+St+Barberton%2C+OH%2C+44203/)  
+**Price:** $32,400  
+**List Date:** 6/10/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/23/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 06/21/2013
+
+***
+
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-578219" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578219)  
 **1113 Shannon Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578219), [Google Maps](http://maps.google.com/maps?q=1113+Shannon+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1113+Shannon+Ave+Barberton%2C+OH%2C+44203/)  
@@ -247,14 +286,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473986" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473986" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986)  
 **592 Robinette Ct Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986), [Google Maps](http://maps.google.com/maps?q=592+Robinette+Ct+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/592+Robinette+Ct+Akron%2C+OH%2C+44310/)  
 **Price:** $19,000  
 **List Date:** 5/21/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 11/16/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 06/21/2013
 
@@ -307,6 +346,19 @@
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 11/1/2013 11:59:59 PM  CT  
 **Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/21/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-497586" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586)  
+**8246 Fairlane Drive Macedonia, OH, 44056**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586), [Google Maps](http://maps.google.com/maps?q=8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056/)  
+**Price:** $80,000  
+**List Date:** 4/16/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/30/2013 11:59:59 PM  CT  
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 06/21/2013
 
