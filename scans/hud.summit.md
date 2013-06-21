@@ -195,19 +195,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-525471" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-525471)  
-**892 Oakland Ave Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-525471), [Google Maps](http://maps.google.com/maps?q=892+Oakland+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/892+Oakland+Ave+Akron%2C+OH%2C+44310/)  
-**Price:** $20,000  
-**List Date:** 6/11/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/10/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/22/2013
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-608735" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735)  
 **1116 Prospect St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735), [Google Maps](http://maps.google.com/maps?q=1116+Prospect+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1116+Prospect+St+Barberton%2C+OH%2C+44203/)  
