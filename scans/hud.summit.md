@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-497586" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586)  
+**8246 Fairlane Drive Macedonia, OH, 44056**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-497586), [Google Maps](http://maps.google.com/maps?q=8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/8246+Fairlane+Drive+Macedonia%2C+OH%2C+44056/)  
+**Price:** $72,000  
+**List Date:** 6/21/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/30/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/22/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-637927" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-637927)  
 **2971 Long Rd Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-637927), [Google Maps](http://maps.google.com/maps?q=2971+Long+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2971+Long+Rd+Akron%2C+OH%2C+44312/)  
