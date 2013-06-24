@@ -221,19 +221,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-541803" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-541803)  
-**308 Jarvis Rd Akron, OH, 44319**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-541803), [Google Maps](http://maps.google.com/maps?q=308+Jarvis+Rd+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/308+Jarvis+Rd+Akron%2C+OH%2C+44319/)  
-**Price:** $52,000  
-**List Date:** 5/30/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/28/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/25/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568503" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568503)  
 **428 Bell St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568503), [Google Maps](http://maps.google.com/maps?q=428+Bell+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/428+Bell+St+Barberton%2C+OH%2C+44203/)  
