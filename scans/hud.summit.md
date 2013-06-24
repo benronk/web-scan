@@ -221,19 +221,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537453" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537453)  
-**3120 Killian Rd Uniontown, OH, 44685**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537453), [Google Maps](http://maps.google.com/maps?q=3120+Killian+Rd+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/3120+Killian+Rd+Uniontown%2C+OH%2C+44685/)  
-**Price:** $90,000  
-**List Date:** 6/07/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/3/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 06/25/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-541803" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-541803)  
 **308 Jarvis Rd Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-541803), [Google Maps](http://maps.google.com/maps?q=308+Jarvis+Rd+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/308+Jarvis+Rd+Akron%2C+OH%2C+44319/)  
