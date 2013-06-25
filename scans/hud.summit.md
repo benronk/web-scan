@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463)  
+**1484 White Ave Akron, OH, 44307**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463), [Google Maps](http://maps.google.com/maps?q=1484+White+Ave+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/1484+White+Ave+Akron%2C+OH%2C+44307/)  
+**Price:** $6,500  
+**List Date:** 6/25/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/5/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/26/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-463405" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-463405)  
 **308 E Tuscarawas Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-463405), [Google Maps](http://maps.google.com/maps?q=308+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/308+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 6/26/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -35,7 +48,7 @@
 **Period Deadline:** 10/30/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -70,11 +83,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540465), [Google Maps](http://maps.google.com/maps?q=1320+Tampa+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1320+Tampa+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $20,000  
 **List Date:** 6/20/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/24/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/12/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 7/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -161,11 +174,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438), [Google Maps](http://maps.google.com/maps?q=10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202/)  
 **Price:** $90,000  
 **List Date:** 6/13/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/24/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/9/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 7/12/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.10  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 7/6/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 11/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -243,7 +256,7 @@
 **Period Deadline:** 11/16/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -256,7 +269,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -269,7 +282,7 @@
 **Period Deadline:** 11/12/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
@@ -282,7 +295,7 @@
 **Period Deadline:** 11/20/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 06/25/2013
+**Bid Open Date:** 06/26/2013
 
 ***
 
