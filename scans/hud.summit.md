@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-463405" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-463405)  
+**308 E Tuscarawas Ave Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-463405), [Google Maps](http://maps.google.com/maps?q=308+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/308+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203/)  
+**Price:** $20,000  
+**List Date:** 6/24/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/23/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 07/04/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-494421" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494421)  
 **1094 Sawyer Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494421), [Google Maps](http://maps.google.com/maps?q=1094+Sawyer+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1094+Sawyer+Ave+Akron%2C+OH%2C+44310/)  
@@ -78,27 +91,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622278" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622278)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622278" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622278)  
 **3490 Curtis St Mogadore, OH, 44260**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622278), [Google Maps](http://maps.google.com/maps?q=3490+Curtis+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3490+Curtis+St+Mogadore%2C+OH%2C+44260/)  
 **Price:** $78,000  
 **List Date:** 6/18/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/17/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 06/28/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542343" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542343)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542343" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542343)  
 **2330 Mishler Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542343), [Google Maps](http://maps.google.com/maps?q=2330+Mishler+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2330+Mishler+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $33,000  
 **List Date:** 6/18/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/17/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 06/28/2013
 
@@ -260,14 +273,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-569286" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569286)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-569286" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569286)  
 **573 Hughes Dr Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569286), [Google Maps](http://maps.google.com/maps?q=573+Hughes+Dr+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/573+Hughes+Dr+Tallmadge%2C+OH%2C+44278/)  
 **Price:** $118,000  
 **List Date:** 4/04/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 11/20/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 06/25/2013
 
