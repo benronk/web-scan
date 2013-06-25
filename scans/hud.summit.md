@@ -169,19 +169,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650438" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438)  
-**10175 Inlet Pt E Aurora, OH, 44202**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438), [Google Maps](http://maps.google.com/maps?q=10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202/)  
-**Price:** $90,000  
-**List Date:** 6/13/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/9/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 2/2.00  
-**Bid Open Date:** 06/26/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572550" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572550)  
 **278 Nokomis Dr Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572550), [Google Maps](http://maps.google.com/maps?q=278+Nokomis+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/278+Nokomis+Dr+Akron%2C+OH%2C+44319/)  
