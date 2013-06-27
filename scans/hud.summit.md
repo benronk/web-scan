@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540426" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426)  
+**876 Eva Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426), [Google Maps](http://maps.google.com/maps?q=876+Eva+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/876+Eva+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $9,000  
+**List Date:** 6/26/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/25/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 07/06/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463)  
 **1484 White Ave Akron, OH, 44307**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463), [Google Maps](http://maps.google.com/maps?q=1484+White+Ave+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/1484+White+Ave+Akron%2C+OH%2C+44307/)  
@@ -52,27 +65,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-637927" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-637927)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-637927" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-637927)  
 **2971 Long Rd Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-637927), [Google Maps](http://maps.google.com/maps?q=2971+Long+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2971+Long+Rd+Akron%2C+OH%2C+44312/)  
 **Price:** $75,000  
 **List Date:** 6/20/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/19/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 06/30/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553117" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553117)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553117" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553117)  
 **519 Tallmadge Rd Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553117), [Google Maps](http://maps.google.com/maps?q=519+Tallmadge+Rd+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/519+Tallmadge+Rd+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $45,000  
 **List Date:** 6/20/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/19/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.10  
 **Bid Open Date:** 06/30/2013
 
@@ -221,14 +234,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473986" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473986" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986)  
 **592 Robinette Ct Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986), [Google Maps](http://maps.google.com/maps?q=592+Robinette+Ct+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/592+Robinette+Ct+Akron%2C+OH%2C+44310/)  
 **Price:** $19,000  
 **List Date:** 5/21/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 11/16/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 06/27/2013
 
