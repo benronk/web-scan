@@ -104,19 +104,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622278" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622278)  
-**3490 Curtis St Mogadore, OH, 44260**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622278), [Google Maps](http://maps.google.com/maps?q=3490+Curtis+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3490+Curtis+St+Mogadore%2C+OH%2C+44260/)  
-**Price:** $78,000  
-**List Date:** 6/18/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/17/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/29/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542343" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542343)  
 **2330 Mishler Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542343), [Google Maps](http://maps.google.com/maps?q=2330+Mishler+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2330+Mishler+Ave+Akron%2C+OH%2C+44312/)  
