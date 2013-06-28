@@ -22,7 +22,7 @@
 **Period Deadline:** 10/29/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/28/2013
+**Bid Open Date:** 06/29/2013
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 7/6/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/28/2013
+**Bid Open Date:** 06/29/2013
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 11/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/28/2013
+**Bid Open Date:** 06/29/2013
 
 ***
 
