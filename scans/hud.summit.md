@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559484" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559484" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484)  
 **600 Cora Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484), [Google Maps](http://maps.google.com/maps?q=600+Cora+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/600+Cora+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $81,000  
 **List Date:** 6/27/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/16/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 06/28/2013
 
@@ -182,6 +182,19 @@
 
 ***
 
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-608735" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735)  
+**1116 Prospect St Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608735), [Google Maps](http://maps.google.com/maps?q=1116+Prospect+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1116+Prospect+St+Barberton%2C+OH%2C+44203/)  
+**Price:** $32,400  
+**List Date:** 6/10/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/29/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 06/28/2013
+
+***
+
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-578219" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578219)  
 **1113 Shannon Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-578219), [Google Maps](http://maps.google.com/maps?q=1113+Shannon+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1113+Shannon+Ave+Barberton%2C+OH%2C+44203/)  
@@ -243,6 +256,19 @@
 **Period Deadline:** 11/12/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
+**Bid Open Date:** 06/28/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540539" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539)  
+**78 E Mapledale Ave Akron, OH, 44301**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539), [Google Maps](http://maps.google.com/maps?q=78+E+Mapledale+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/78+E+Mapledale+Ave+Akron%2C+OH%2C+44301/)  
+**Price:** $18,000  
+**List Date:** 5/06/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/13/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
 **Bid Open Date:** 06/28/2013
 
 ***
