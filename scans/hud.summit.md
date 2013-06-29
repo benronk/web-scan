@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-439887" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-439887)  
+**3385 Elmwood St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-439887), [Google Maps](http://maps.google.com/maps?q=3385+Elmwood+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3385+Elmwood+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $58,000  
+**List Date:** 6/29/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/28/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 07/09/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-519073" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-519073)  
 **1427 Kendale Drive Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-519073), [Google Maps](http://maps.google.com/maps?q=1427+Kendale+Drive+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1427+Kendale+Drive+Akron%2C+OH%2C+44314/)  
@@ -35,7 +48,7 @@
 **Period Deadline:** 9/5/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 11/2/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 7/16/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 7/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.10  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 7/6/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 11/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 11/16/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 11/12/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/29/2013
+**Bid Open Date:** 06/30/2013
 
 ***
 
