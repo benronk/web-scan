@@ -65,19 +65,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-494421" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494421)  
-**1094 Sawyer Ave Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494421), [Google Maps](http://maps.google.com/maps?q=1094+Sawyer+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1094+Sawyer+Ave+Akron%2C+OH%2C+44310/)  
-**Price:** $37,000  
-**List Date:** 6/22/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 11/2/2013 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/02/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-637927" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-637927)  
 **2971 Long Rd Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-637927), [Google Maps](http://maps.google.com/maps?q=2971+Long+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2971+Long+Rd+Akron%2C+OH%2C+44312/)  
