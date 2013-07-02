@@ -1,5 +1,31 @@
 # Medina County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564446" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564446)  
+**331 Stratford Ave Wadsworth, OH, 44281**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564446), [Google Maps](http://maps.google.com/maps?q=331+Stratford+Ave+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/331+Stratford+Ave+Wadsworth%2C+OH%2C+44281/)  
+**Price:** $60,000  
+**List Date:** 7/01/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/30/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/11/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554466" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554466)  
+**115 W Walnut St Wadsworth, OH, 44281**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554466), [Google Maps](http://maps.google.com/maps?q=115+W+Walnut+St+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/115+W+Walnut+St+Wadsworth%2C+OH%2C+44281/)  
+**Price:** $50,000  
+**List Date:** 7/01/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/30/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/11/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-524565" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565)  
 **3937 Columbia Rd Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565), [Google Maps](http://maps.google.com/maps?q=3937+Columbia+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/3937+Columbia+Rd+Medina%2C+OH%2C+44256/)  
