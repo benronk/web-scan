@@ -1,5 +1,44 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622408" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622408)  
+**9121 Gettysburg Dr Twinsburg, OH, 44087**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622408), [Google Maps](http://maps.google.com/maps?q=9121+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/9121+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087/)  
+**Price:** $125,000  
+**List Date:** 7/04/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/2/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 07/14/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517332" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517332)  
+**232 Shiawassee Ave Fairlawn, OH, 44333**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517332), [Google Maps](http://maps.google.com/maps?q=232+Shiawassee+Ave+Fairlawn%2C+OH%2C+44333), [Zillow](http://www.zillow.com/homes/232+Shiawassee+Ave+Fairlawn%2C+OH%2C+44333/)  
+**Price:** $84,000  
+**List Date:** 7/04/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 7/10/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 07/11/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-470700" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-470700)  
+**657 Orlando Avenue Akron, OH, 44320**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-470700), [Google Maps](http://maps.google.com/maps?q=657+Orlando+Avenue+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/657+Orlando+Avenue+Akron%2C+OH%2C+44320/)  
+**Price:** $22,000  
+**List Date:** 7/04/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 7/10/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.10  
+**Bid Open Date:** 07/11/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572075" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572075)  
 **1466 Multnoma Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572075), [Google Maps](http://maps.google.com/maps?q=1466+Multnoma+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1466+Multnoma+Ave+Akron%2C+OH%2C+44305/)  
@@ -35,7 +74,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -48,7 +87,7 @@
 **Period Deadline:** 7/7/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -139,7 +178,7 @@
 **Period Deadline:** 9/5/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -152,7 +191,7 @@
 **Period Deadline:** 7/23/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -165,7 +204,7 @@
 **Period Deadline:** 7/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -178,7 +217,7 @@
 **Period Deadline:** 7/19/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -191,7 +230,7 @@
 **Period Deadline:** 7/16/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -204,7 +243,7 @@
 **Period Deadline:** 7/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -217,7 +256,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -230,7 +269,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.10  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -243,7 +282,7 @@
 **Period Deadline:** 11/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -256,7 +295,7 @@
 **Period Deadline:** 11/16/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
@@ -269,7 +308,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/04/2013
+**Bid Open Date:** 07/05/2013
 
 ***
 
