@@ -48,7 +48,7 @@
 **Period Deadline:** 9/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 07/05/2013
+**Bid Open Date:** 07/06/2013
 
 ***
 
@@ -61,7 +61,7 @@
 **Period Deadline:** 10/23/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/05/2013
+**Bid Open Date:** 07/06/2013
 
 ***
 
@@ -70,11 +70,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533621), [Google Maps](http://maps.google.com/maps?q=935+Coventry+Ct+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/935+Coventry+Ct+Medina%2C+OH%2C+44256/)  
 **Price:** $153,000  
 **List Date:** 6/05/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/4/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/1/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.10  
-**Bid Open Date:** 07/05/2013
+**Bid Open Date:** 07/06/2013
 
 ***
 
