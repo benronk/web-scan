@@ -65,14 +65,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-533621" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533621)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-533621" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533621)  
 **935 Coventry Ct Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533621), [Google Maps](http://maps.google.com/maps?q=935+Coventry+Ct+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/935+Coventry+Ct+Medina%2C+OH%2C+44256/)  
 **Price:** $153,000  
 **List Date:** 6/05/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 12/1/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/2.10  
 **Bid Open Date:** 07/06/2013
 
