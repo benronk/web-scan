@@ -9,7 +9,7 @@
 **Period Deadline:** 12/3/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.10  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -109,11 +109,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516740), [Google Maps](http://maps.google.com/maps?q=749+Lafollette+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/749+Lafollette+St+Akron%2C+OH%2C+44306/)  
 **Price:** $11,000  
 **List Date:** 7/03/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/7/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 7/25/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 9/5/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 7/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 7/19/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 7/16/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 7/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -282,7 +282,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.10  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -295,7 +295,7 @@
 **Period Deadline:** 11/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -308,7 +308,7 @@
 **Period Deadline:** 11/16/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
@@ -321,7 +321,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2013
+**Bid Open Date:** 07/09/2013
 
 ***
 
