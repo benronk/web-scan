@@ -74,7 +74,7 @@
 **Period Deadline:** 12/3/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.10  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -187,11 +187,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500), [Google Maps](http://maps.google.com/maps?q=3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $47,600  
 **List Date:** 7/03/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 7/9/2013 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/14/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/15/2013
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 7/28/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 7/25/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 9/5/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -282,7 +282,7 @@
 **Period Deadline:** 7/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -295,7 +295,7 @@
 **Period Deadline:** 7/19/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -308,7 +308,7 @@
 **Period Deadline:** 7/16/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -321,7 +321,7 @@
 **Period Deadline:** 7/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -334,7 +334,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -347,7 +347,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.10  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -360,7 +360,7 @@
 **Period Deadline:** 11/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -373,7 +373,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 

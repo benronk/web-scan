@@ -1,5 +1,31 @@
 # Medina County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582941" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941)  
+**1802 South Carpenter Rd Brunswick, OH, 44212**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941), [Google Maps](http://maps.google.com/maps?q=1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212/)  
+**Price:** $106,000  
+**List Date:** 7/10/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/8/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 07/20/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-524565" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565)  
+**3937 Columbia Rd Medina, OH, 44256**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565), [Google Maps](http://maps.google.com/maps?q=3937+Columbia+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/3937+Columbia+Rd+Medina%2C+OH%2C+44256/)  
+**Price:** $39,500  
+**List Date:** 7/10/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/14/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 07/11/2013
+
+***
+
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-566132" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566132)  
 **3889 Claythorne Pl Brunswick, OH, 44212**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566132), [Google Maps](http://maps.google.com/maps?q=3889+Claythorne+Pl+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/3889+Claythorne+Pl+Brunswick%2C+OH%2C+44212/)  
@@ -48,7 +74,7 @@
 **Period Deadline:** 10/23/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
@@ -61,7 +87,7 @@
 **Period Deadline:** 12/1/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.10  
-**Bid Open Date:** 07/10/2013
+**Bid Open Date:** 07/11/2013
 
 ***
 
