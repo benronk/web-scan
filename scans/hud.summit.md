@@ -221,19 +221,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-439887" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-439887)  
-**3385 Elmwood St Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-439887), [Google Maps](http://maps.google.com/maps?q=3385+Elmwood+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3385+Elmwood+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $58,000  
-**List Date:** 6/29/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/28/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/11/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-519073" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-519073)  
 **1427 Kendale Drive Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-519073), [Google Maps](http://maps.google.com/maps?q=1427+Kendale+Drive+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1427+Kendale+Drive+Akron%2C+OH%2C+44314/)  
