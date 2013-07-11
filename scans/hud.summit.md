@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-533780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533780)  
+**1235 Center Road New Franklin, OH, 44216**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533780), [Google Maps](http://maps.google.com/maps?q=1235+Center+Road+New+Franklin%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/1235+Center+Road+New+Franklin%2C+OH%2C+44216/)  
+**Price:** $62,000  
+**List Date:** 7/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/9/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 07/21/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532740" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740)  
 **156 Kreiner Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740), [Google Maps](http://maps.google.com/maps?q=156+Kreiner+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/156+Kreiner+Ave+Akron%2C+OH%2C+44312/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 12/3/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.10  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
@@ -135,24 +148,24 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517332), [Google Maps](http://maps.google.com/maps?q=232+Shiawassee+Ave+Fairlawn%2C+OH%2C+44333), [Zillow](http://www.zillow.com/homes/232+Shiawassee+Ave+Fairlawn%2C+OH%2C+44333/)  
 **Price:** $84,000  
 **List Date:** 7/04/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 7/10/2013 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/15/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/16/2013
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-470700" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-470700)  
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-470700" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-470700)  
 **657 Orlando Avenue Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-470700), [Google Maps](http://maps.google.com/maps?q=657+Orlando+Avenue+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/657+Orlando+Avenue+Akron%2C+OH%2C+44320/)  
 **Price:** $22,000  
 **List Date:** 7/04/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 7/10/2013 11:59:59 PM  CT  
-**Status:**   
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/15/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/2.10  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/16/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
@@ -269,7 +282,7 @@
 **Period Deadline:** 7/25/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
@@ -282,7 +295,7 @@
 **Period Deadline:** 9/5/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
@@ -295,7 +308,7 @@
 **Period Deadline:** 7/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
@@ -308,7 +321,7 @@
 **Period Deadline:** 7/16/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
@@ -321,7 +334,7 @@
 **Period Deadline:** 7/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
@@ -334,7 +347,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
@@ -347,7 +360,7 @@
 **Period Deadline:** 7/11/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.10  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
@@ -360,7 +373,7 @@
 **Period Deadline:** 11/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/11/2013
+**Bid Open Date:** 07/12/2013
 
 ***
 
