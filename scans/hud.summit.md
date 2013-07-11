@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532740" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740)  
+**156 Kreiner Ave Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740), [Google Maps](http://maps.google.com/maps?q=156+Kreiner+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/156+Kreiner+Ave+Akron%2C+OH%2C+44312/)  
+**Price:** $52,000  
+**List Date:** 7/10/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/8/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/20/2013
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434013" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013)  
+**1134 E Archwood Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013), [Google Maps](http://maps.google.com/maps?q=1134+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1134+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $19,200  
+**List Date:** 7/10/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/1/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/11/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-605686" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-605686)  
 **1862 Lancaster St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-605686), [Google Maps](http://maps.google.com/maps?q=1862+Lancaster+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1862+Lancaster+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -91,40 +117,40 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622408" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622408)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622408" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622408)  
 **9121 Gettysburg Dr Twinsburg, OH, 44087**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622408), [Google Maps](http://maps.google.com/maps?q=9121+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/9121+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087/)  
 **Price:** $125,000  
 **List Date:** 7/04/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/2/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 07/14/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517332" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517332)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517332" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517332)  
 **232 Shiawassee Ave Fairlawn, OH, 44333**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517332), [Google Maps](http://maps.google.com/maps?q=232+Shiawassee+Ave+Fairlawn%2C+OH%2C+44333), [Zillow](http://www.zillow.com/homes/232+Shiawassee+Ave+Fairlawn%2C+OH%2C+44333/)  
 **Price:** $84,000  
 **List Date:** 7/04/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 7/10/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 07/11/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-470700" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-470700)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-470700" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-470700)  
 **657 Orlando Avenue Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-470700), [Google Maps](http://maps.google.com/maps?q=657+Orlando+Avenue+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/657+Orlando+Avenue+Akron%2C+OH%2C+44320/)  
 **Price:** $22,000  
 **List Date:** 7/04/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 7/10/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.10  
 **Bid Open Date:** 07/11/2013
 
@@ -182,14 +208,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-503500" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-503500" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500)  
 **3000 Hudson Drive Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500), [Google Maps](http://maps.google.com/maps?q=3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $47,600  
 **List Date:** 7/03/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/14/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 07/15/2013
 
