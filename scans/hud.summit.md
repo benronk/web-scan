@@ -325,19 +325,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-552678" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552678)  
-**77 Fenton Ave Mogadore, OH, 44260**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552678), [Google Maps](http://maps.google.com/maps?q=77+Fenton+Ave+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/77+Fenton+Ave+Mogadore%2C+OH%2C+44260/)  
-**Price:** $38,000  
-**List Date:** 7/02/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/31/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/13/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-519073" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-519073)  
 **1427 Kendale Drive Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-519073), [Google Maps](http://maps.google.com/maps?q=1427+Kendale+Drive+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1427+Kendale+Drive+Akron%2C+OH%2C+44314/)  
