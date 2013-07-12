@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650438" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438)  
+**10175 Inlet Pt E Aurora, OH, 44202**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650438), [Google Maps](http://maps.google.com/maps?q=10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10175+Inlet+Pt+E+Aurora%2C+OH%2C+44202/)  
+**Price:** $90,000  
+**List Date:** 7/12/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/27/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/2.00  
+**Bid Open Date:** 07/13/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-644101" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-644101)  
+**2906 Duquesne Dr Stow, OH, 44224**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-644101), [Google Maps](http://maps.google.com/maps?q=2906+Duquesne+Dr+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2906+Duquesne+Dr+Stow%2C+OH%2C+44224/)  
+**Price:** $135,000  
+**List Date:** 7/12/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/10/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/1.10  
+**Bid Open Date:** 07/22/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-618351" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-618351)  
 **9134 Crestline Dr Macedonia, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-618351), [Google Maps](http://maps.google.com/maps?q=9134+Crestline+Dr+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9134+Crestline+Dr+Macedonia%2C+OH%2C+44056/)  
@@ -87,7 +113,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 12/3/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.10  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -256,7 +282,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -269,7 +295,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -295,7 +321,7 @@
 **Period Deadline:** 7/31/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -308,7 +334,7 @@
 **Period Deadline:** 7/31/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -334,7 +360,7 @@
 **Period Deadline:** 7/25/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -347,7 +373,7 @@
 **Period Deadline:** 9/5/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -360,7 +386,7 @@
 **Period Deadline:** 7/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -373,7 +399,7 @@
 **Period Deadline:** 7/16/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -386,7 +412,7 @@
 **Period Deadline:** 7/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -395,11 +421,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554625), [Google Maps](http://maps.google.com/maps?q=924+Oregon+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/924+Oregon+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $20,000  
 **List Date:** 6/12/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/11/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/8/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -408,11 +434,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407928), [Google Maps](http://maps.google.com/maps?q=2419+Clara+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2419+Clara+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $33,000  
 **List Date:** 6/12/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/11/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/8/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.10  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
@@ -425,7 +451,7 @@
 **Period Deadline:** 11/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/12/2013
+**Bid Open Date:** 07/13/2013
 
 ***
 
