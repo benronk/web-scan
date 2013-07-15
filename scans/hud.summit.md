@@ -403,19 +403,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-459646" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-459646)  
-**3094 Tower Hill Dr Akron, OH, 44319**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-459646), [Google Maps](http://maps.google.com/maps?q=3094+Tower+Hill+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/3094+Tower+Hill+Dr+Akron%2C+OH%2C+44319/)  
-**Price:** $80,000  
-**List Date:** 6/14/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/10/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 4/2.00  
-**Bid Open Date:** 07/16/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554625" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554625)  
 **924 Oregon Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554625), [Google Maps](http://maps.google.com/maps?q=924+Oregon+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/924+Oregon+Ave+Akron%2C+OH%2C+44314/)  
