@@ -403,14 +403,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-459646" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-459646)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-459646" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-459646)  
 **3094 Tower Hill Dr Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-459646), [Google Maps](http://maps.google.com/maps?q=3094+Tower+Hill+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/3094+Tower+Hill+Dr+Akron%2C+OH%2C+44319/)  
 **Price:** $80,000  
 **List Date:** 6/14/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 12/10/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 07/15/2013
 
