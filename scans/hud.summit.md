@@ -286,19 +286,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-470700" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-470700)  
-**657 Orlando Avenue Akron, OH, 44320**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-470700), [Google Maps](http://maps.google.com/maps?q=657+Orlando+Avenue+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/657+Orlando+Avenue+Akron%2C+OH%2C+44320/)  
-**Price:** $22,000  
-**List Date:** 7/04/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/30/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 4/2.10  
-**Bid Open Date:** 07/17/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564177" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564177)  
 **20 Jennings Ave Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564177), [Google Maps](http://maps.google.com/maps?q=20+Jennings+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/20+Jennings+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
