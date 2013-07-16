@@ -273,19 +273,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517332" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517332)  
-**232 Shiawassee Ave Fairlawn, OH, 44333**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517332), [Google Maps](http://maps.google.com/maps?q=232+Shiawassee+Ave+Fairlawn%2C+OH%2C+44333), [Zillow](http://www.zillow.com/homes/232+Shiawassee+Ave+Fairlawn%2C+OH%2C+44333/)  
-**Price:** $84,000  
-**List Date:** 7/04/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/30/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 07/17/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564177" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564177)  
 **20 Jennings Ave Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564177), [Google Maps](http://maps.google.com/maps?q=20+Jennings+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/20+Jennings+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -386,19 +373,6 @@
 **Period Deadline:** 12/8/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 1/1.10  
-**Bid Open Date:** 07/17/2013
-
-***
-
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564944)  
-**4214 Watkins Rd Norton, OH, 44203**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564944), [Google Maps](http://maps.google.com/maps?q=4214+Watkins+Rd+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/4214+Watkins+Rd+Norton%2C+OH%2C+44203/)  
-**Price:** $93,000  
-**List Date:** 5/16/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/1/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/2.00  
 **Bid Open Date:** 07/17/2013
 
 ***
