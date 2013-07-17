@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537315" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537315)  
+**370 Keith Ave Akron, OH, 44313**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537315), [Google Maps](http://maps.google.com/maps?q=370+Keith+Ave+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/370+Keith+Ave+Akron%2C+OH%2C+44313/)  
+**Price:** $69,000  
+**List Date:** 7/16/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/14/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 07/26/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-593758" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758)  
 **2652 Albrecht Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758), [Google Maps](http://maps.google.com/maps?q=2652+Albrecht+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2652+Albrecht+Ave+Akron%2C+OH%2C+44312/)  
@@ -143,14 +156,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532740" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532740" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740)  
 **156 Kreiner Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740), [Google Maps](http://maps.google.com/maps?q=156+Kreiner+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/156+Kreiner+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $52,000  
 **List Date:** 7/10/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/8/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/20/2013
 
@@ -195,14 +208,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-481127" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-481127" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127)  
 **1364 Arnold Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127), [Google Maps](http://maps.google.com/maps?q=1364+Arnold+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1364+Arnold+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $19,000  
 **List Date:** 7/09/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/20/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/21/2013
 
@@ -221,14 +234,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-304780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-304780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780)  
 **332 Cleveland St Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780), [Google Maps](http://maps.google.com/maps?q=332+Cleveland+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/332+Cleveland+St+Akron%2C+OH%2C+44306/)  
 **Price:** $10,600  
 **List Date:** 7/09/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/14/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/26/2013
 

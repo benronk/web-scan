@@ -1,13 +1,13 @@
 # Medina County HUD Homes
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582941" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582941" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941)  
 **1802 South Carpenter Rd Brunswick, OH, 44212**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941), [Google Maps](http://maps.google.com/maps?q=1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212/)  
 **Price:** $106,000  
 **List Date:** 7/10/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/8/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 07/20/2013
 
