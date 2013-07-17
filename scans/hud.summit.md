@@ -312,19 +312,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-567331" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-567331)  
-**6236 Lieb Dr New Franklin, OH, 44216**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-567331), [Google Maps](http://maps.google.com/maps?q=6236+Lieb+Dr+New+Franklin%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/6236+Lieb+Dr+New+Franklin%2C+OH%2C+44216/)  
-**Price:** $92,000  
-**List Date:** 7/02/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/31/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/18/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540426" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426)  
 **876 Eva Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426), [Google Maps](http://maps.google.com/maps?q=876+Eva+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/876+Eva+Ave+Akron%2C+OH%2C+44306/)  
