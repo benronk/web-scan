@@ -1,2 +1,379 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537315" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537315)  
+**370 Keith Ave Akron, OH, 44313**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537315), [Google Maps](http://maps.google.com/maps?q=370+Keith+Ave+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/370+Keith+Ave+Akron%2C+OH%2C+44313/)  
+**Price:** $69,000  
+**List Date:** 7/16/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/14/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 07/26/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-593758" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758)  
+**2652 Albrecht Ave Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758), [Google Maps](http://maps.google.com/maps?q=2652+Albrecht+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2652+Albrecht+Ave+Akron%2C+OH%2C+44312/)  
+**Price:** $42,000  
+**List Date:** 7/15/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/13/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/1.10  
+**Bid Open Date:** 07/25/2013
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568503" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568503)  
+**428 Bell St Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568503), [Google Maps](http://maps.google.com/maps?q=428+Bell+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/428+Bell+St+Barberton%2C+OH%2C+44203/)  
+**Price:** $38,700  
+**List Date:** 7/15/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/24/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-644101" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-644101)  
+**2906 Duquesne Dr Stow, OH, 44224**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-644101), [Google Maps](http://maps.google.com/maps?q=2906+Duquesne+Dr+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2906+Duquesne+Dr+Stow%2C+OH%2C+44224/)  
+**Price:** $135,000  
+**List Date:** 7/12/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/10/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/1.10  
+**Bid Open Date:** 07/22/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-576832" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-576832)  
+**629 E Tuscarawas Ave Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-576832), [Google Maps](http://maps.google.com/maps?q=629+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/629+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203/)  
+**Price:** $40,900  
+**List Date:** 7/12/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 7/18/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/19/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559599" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559599)  
+**1848 Java Ave Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559599), [Google Maps](http://maps.google.com/maps?q=1848+Java+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1848+Java+Ave+Akron%2C+OH%2C+44305/)  
+**Price:** $35,000  
+**List Date:** 7/12/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/10/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/22/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-618351" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-618351)  
+**9134 Crestline Dr Macedonia, OH, 44056**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-618351), [Google Maps](http://maps.google.com/maps?q=9134+Crestline+Dr+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9134+Crestline+Dr+Macedonia%2C+OH%2C+44056/)  
+**Price:** $195,000  
+**List Date:** 7/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/9/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 07/21/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559768" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768)  
+**407 Sieber Ave Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768), [Google Maps](http://maps.google.com/maps?q=407+Sieber+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/407+Sieber+Ave+Akron%2C+OH%2C+44312/)  
+**Price:** $46,000  
+**List Date:** 7/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/9/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 07/21/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-533780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533780)  
+**1235 Center Road New Franklin, OH, 44216**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533780), [Google Maps](http://maps.google.com/maps?q=1235+Center+Road+New+Franklin%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/1235+Center+Road+New+Franklin%2C+OH%2C+44216/)  
+**Price:** $62,000  
+**List Date:** 7/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/9/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 07/21/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
+**127 Marvin Avenue Akron, OH, 44302**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102), [Google Maps](http://maps.google.com/maps?q=127+Marvin+Avenue+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/127+Marvin+Avenue+Akron%2C+OH%2C+44302/)  
+**Price:** $45,000  
+**List Date:** 7/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/9/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 07/21/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-358138" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-358138)  
+**72 Goodrich Ave Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-358138), [Google Maps](http://maps.google.com/maps?q=72+Goodrich+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/72+Goodrich+Ave+Barberton%2C+OH%2C+44203/)  
+**Price:** $25,000  
+**List Date:** 7/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/9/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/21/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532740" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740)  
+**156 Kreiner Ave Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740), [Google Maps](http://maps.google.com/maps?q=156+Kreiner+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/156+Kreiner+Ave+Akron%2C+OH%2C+44312/)  
+**Price:** $52,000  
+**List Date:** 7/10/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/8/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/20/2013
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434013" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013)  
+**1134 E Archwood Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013), [Google Maps](http://maps.google.com/maps?q=1134+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1134+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $19,200  
+**List Date:** 7/10/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/1/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-605686" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-605686)  
+**1862 Lancaster St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-605686), [Google Maps](http://maps.google.com/maps?q=1862+Lancaster+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1862+Lancaster+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $56,000  
+**List Date:** 7/09/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/7/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 07/19/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-584048" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584048)  
+**2734 Archwood Pl Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584048), [Google Maps](http://maps.google.com/maps?q=2734+Archwood+Pl+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2734+Archwood+Pl+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $47,000  
+**List Date:** 7/09/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/7/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 07/19/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-481127" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127)  
+**1364 Arnold Ave Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127), [Google Maps](http://maps.google.com/maps?q=1364+Arnold+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1364+Arnold+Ave+Akron%2C+OH%2C+44305/)  
+**Price:** $19,000  
+**List Date:** 7/09/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/20/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/21/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-444810" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-444810)  
+**1473 Erie Ave Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-444810), [Google Maps](http://maps.google.com/maps?q=1473+Erie+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1473+Erie+Ave+Akron%2C+OH%2C+44312/)  
+**Price:** $25,000  
+**List Date:** 7/09/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/7/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/19/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-304780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780)  
+**332 Cleveland St Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780), [Google Maps](http://maps.google.com/maps?q=332+Cleveland+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/332+Cleveland+St+Akron%2C+OH%2C+44306/)  
+**Price:** $10,600  
+**List Date:** 7/09/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/14/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/26/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-424355" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-424355)  
+**2132 Beechtree Dr #50 Uniontown, OH, 44685**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-424355), [Google Maps](http://maps.google.com/maps?q=2132+Beechtree+Dr+%2350+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/2132+Beechtree+Dr+%2350+Uniontown%2C+OH%2C+44685/)  
+**Price:** $73,000  
+**List Date:** 7/06/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/3/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.10  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558331" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558331)  
+**2782 Tifft St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558331), [Google Maps](http://maps.google.com/maps?q=2782+Tifft+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2782+Tifft+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $61,000  
+**List Date:** 7/05/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/3/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622408" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622408)  
+**9121 Gettysburg Dr Twinsburg, OH, 44087**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622408), [Google Maps](http://maps.google.com/maps?q=9121+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/9121+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087/)  
+**Price:** $125,000  
+**List Date:** 7/04/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/2/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564177" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564177)  
+**20 Jennings Ave Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564177), [Google Maps](http://maps.google.com/maps?q=20+Jennings+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/20+Jennings+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $43,000  
+**List Date:** 7/03/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/1/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540539" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539)  
+**78 E Mapledale Ave Akron, OH, 44301**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539), [Google Maps](http://maps.google.com/maps?q=78+E+Mapledale+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/78+E+Mapledale+Ave+Akron%2C+OH%2C+44301/)  
+**Price:** $16,200  
+**List Date:** 7/03/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/13/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-503500" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500)  
+**3000 Hudson Drive Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500), [Google Maps](http://maps.google.com/maps?q=3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $47,600  
+**List Date:** 7/03/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/29/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-567331" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-567331)  
+**6236 Lieb Dr New Franklin, OH, 44216**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-567331), [Google Maps](http://maps.google.com/maps?q=6236+Lieb+Dr+New+Franklin%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/6236+Lieb+Dr+New+Franklin%2C+OH%2C+44216/)  
+**Price:** $92,000  
+**List Date:** 7/02/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/31/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540426" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426)  
+**876 Eva Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426), [Google Maps](http://maps.google.com/maps?q=876+Eva+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/876+Eva+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $9,000  
+**List Date:** 6/26/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/25/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463)  
+**1484 White Ave Akron, OH, 44307**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463), [Google Maps](http://maps.google.com/maps?q=1484+White+Ave+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/1484+White+Ave+Akron%2C+OH%2C+44307/)  
+**Price:** $6,500  
+**List Date:** 6/25/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/5/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-570524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524)  
+**1855 Hillside Ter Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524), [Google Maps](http://maps.google.com/maps?q=1855+Hillside+Ter+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1855+Hillside+Ter+Akron%2C+OH%2C+44305/)  
+**Price:** $28,000  
+**List Date:** 6/17/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/13/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/18/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-407928" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407928)  
+**2419 Clara St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407928), [Google Maps](http://maps.google.com/maps?q=2419+Clara+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2419+Clara+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $33,000  
+**List Date:** 6/12/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/8/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 1/1.10  
+**Bid Open Date:** 07/18/2013
+
+***
+
