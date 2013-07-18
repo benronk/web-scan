@@ -78,66 +78,66 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-618351" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-618351)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-618351" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-618351)  
 **9134 Crestline Dr Macedonia, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-618351), [Google Maps](http://maps.google.com/maps?q=9134+Crestline+Dr+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9134+Crestline+Dr+Macedonia%2C+OH%2C+44056/)  
 **Price:** $195,000  
 **List Date:** 7/11/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 07/21/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559768" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559768" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768)  
 **407 Sieber Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768), [Google Maps](http://maps.google.com/maps?q=407+Sieber+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/407+Sieber+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $46,000  
 **List Date:** 7/11/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 07/21/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-533780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533780)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-533780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533780)  
 **1235 Center Road New Franklin, OH, 44216**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533780), [Google Maps](http://maps.google.com/maps?q=1235+Center+Road+New+Franklin%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/1235+Center+Road+New+Franklin%2C+OH%2C+44216/)  
 **Price:** $62,000  
 **List Date:** 7/11/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 07/21/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
 **127 Marvin Avenue Akron, OH, 44302**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102), [Google Maps](http://maps.google.com/maps?q=127+Marvin+Avenue+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/127+Marvin+Avenue+Akron%2C+OH%2C+44302/)  
 **Price:** $45,000  
 **List Date:** 7/11/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 07/21/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-358138" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-358138)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-358138" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-358138)  
 **72 Goodrich Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-358138), [Google Maps](http://maps.google.com/maps?q=72+Goodrich+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/72+Goodrich+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $25,000  
 **List Date:** 7/11/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/21/2013
 
@@ -312,6 +312,19 @@
 
 ***
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-552678" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552678)  
+**77 Fenton Ave Mogadore, OH, 44260**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552678), [Google Maps](http://maps.google.com/maps?q=77+Fenton+Ave+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/77+Fenton+Ave+Mogadore%2C+OH%2C+44260/)  
+**Price:** $38,000  
+**List Date:** 7/02/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/5/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 07/18/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540426" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426)  
 **876 Eva Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426), [Google Maps](http://maps.google.com/maps?q=876+Eva+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/876+Eva+Ave+Akron%2C+OH%2C+44306/)  
@@ -338,14 +351,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-570524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-570524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524)  
 **1855 Hillside Ter Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524), [Google Maps](http://maps.google.com/maps?q=1855+Hillside+Ter+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1855+Hillside+Ter+Akron%2C+OH%2C+44305/)  
 **Price:** $28,000  
 **List Date:** 6/17/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 12/13/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/18/2013
 
