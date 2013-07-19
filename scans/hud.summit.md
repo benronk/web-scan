@@ -221,19 +221,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-444810" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-444810)  
-**1473 Erie Ave Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-444810), [Google Maps](http://maps.google.com/maps?q=1473+Erie+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1473+Erie+Ave+Akron%2C+OH%2C+44312/)  
-**Price:** $25,000  
-**List Date:** 7/09/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/7/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/20/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-304780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780)  
 **332 Cleveland St Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780), [Google Maps](http://maps.google.com/maps?q=332+Cleveland+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/332+Cleveland+St+Akron%2C+OH%2C+44306/)  
@@ -319,19 +306,6 @@
 **List Date:** 7/03/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 12/29/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/20/2013
-
-***
-
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-552678" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552678)  
-**77 Fenton Ave Mogadore, OH, 44260**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552678), [Google Maps](http://maps.google.com/maps?q=77+Fenton+Ave+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/77+Fenton+Ave+Mogadore%2C+OH%2C+44260/)  
-**Price:** $38,000  
-**List Date:** 7/02/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/5/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 07/20/2013
