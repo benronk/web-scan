@@ -13,14 +13,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-576832" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-576832)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-576832" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-576832)  
 **629 E Tuscarawas Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-576832), [Google Maps](http://maps.google.com/maps?q=629+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/629+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $40,900  
 **List Date:** 7/12/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 7/18/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/19/2013
 

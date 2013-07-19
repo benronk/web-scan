@@ -39,40 +39,40 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-644101" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-644101)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-644101" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-644101)  
 **2906 Duquesne Dr Stow, OH, 44224**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-644101), [Google Maps](http://maps.google.com/maps?q=2906+Duquesne+Dr+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2906+Duquesne+Dr+Stow%2C+OH%2C+44224/)  
 **Price:** $135,000  
 **List Date:** 7/12/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/10/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.10  
 **Bid Open Date:** 07/22/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-576832" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-576832)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-576832" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-576832)  
 **629 E Tuscarawas Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-576832), [Google Maps](http://maps.google.com/maps?q=629+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/629+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $40,900  
 **List Date:** 7/12/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 7/18/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/19/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559599" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559599)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559599" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559599)  
 **1848 Java Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559599), [Google Maps](http://maps.google.com/maps?q=1848+Java+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1848+Java+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $35,000  
 **List Date:** 7/12/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/10/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/22/2013
 
@@ -364,14 +364,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-407928" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407928)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-407928" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407928)  
 **2419 Clara St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407928), [Google Maps](http://maps.google.com/maps?q=2419+Clara+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2419+Clara+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $33,000  
 **List Date:** 6/12/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 12/8/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 1/1.10  
 **Bid Open Date:** 07/19/2013
 
