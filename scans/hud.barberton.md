@@ -9,7 +9,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/19/2013
+**Bid Open Date:** 07/20/2013
 
 ***
 
@@ -18,11 +18,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-576832), [Google Maps](http://maps.google.com/maps?q=629+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/629+E+Tuscarawas+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $40,900  
 **List Date:** 7/12/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 7/18/2013 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/19/2013
+**Bid Open Date:** 07/24/2013
 
 ***
 
