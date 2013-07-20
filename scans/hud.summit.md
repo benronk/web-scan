@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543324" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324)  
+**1845 Manchester Road Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324), [Google Maps](http://maps.google.com/maps?q=1845+Manchester+Road+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1845+Manchester+Road+Akron%2C+OH%2C+44314/)  
+**Price:** $7,000  
+**List Date:** 7/20/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 7/26/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 07/27/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-626151" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-626151)  
 **1439 Bruce Rd Macedonia, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-626151), [Google Maps](http://maps.google.com/maps?q=1439+Bruce+Rd+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/1439+Bruce+Rd+Macedonia%2C+OH%2C+44056/)  
@@ -48,7 +61,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 8/8/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 10/1/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 8/7/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 12/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.10  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -243,7 +256,7 @@
 **Period Deadline:** 8/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -256,7 +269,7 @@
 **Period Deadline:** 8/2/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -269,7 +282,7 @@
 **Period Deadline:** 8/1/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -282,7 +295,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -295,7 +308,7 @@
 **Period Deadline:** 12/29/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -308,7 +321,7 @@
 **Period Deadline:** 7/25/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -321,7 +334,7 @@
 **Period Deadline:** 9/5/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -334,7 +347,7 @@
 **Period Deadline:** 12/13/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
@@ -347,7 +360,7 @@
 **Period Deadline:** 12/8/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.10  
-**Bid Open Date:** 07/20/2013
+**Bid Open Date:** 07/21/2013
 
 ***
 
