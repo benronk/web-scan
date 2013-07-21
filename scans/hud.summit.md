@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543324" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543324" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324)  
 **1845 Manchester Road Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324), [Google Maps](http://maps.google.com/maps?q=1845+Manchester+Road+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1845+Manchester+Road+Akron%2C+OH%2C+44314/)  
 **Price:** $7,000  
 **List Date:** 7/20/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 7/26/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 07/27/2013
 
