@@ -195,19 +195,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-424355" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-424355)  
-**2132 Beechtree Dr #50 Uniontown, OH, 44685**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-424355), [Google Maps](http://maps.google.com/maps?q=2132+Beechtree+Dr+%2350+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/2132+Beechtree+Dr+%2350+Uniontown%2C+OH%2C+44685/)  
-**Price:** $73,000  
-**List Date:** 7/06/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/3/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/2.10  
-**Bid Open Date:** 07/23/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558331" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558331)  
 **2782 Tifft St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558331), [Google Maps](http://maps.google.com/maps?q=2782+Tifft+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2782+Tifft+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
