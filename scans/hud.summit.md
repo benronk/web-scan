@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-563909" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563909)  
+**834 Eastland Ave Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563909), [Google Maps](http://maps.google.com/maps?q=834+Eastland+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/834+Eastland+Ave+Akron%2C+OH%2C+44305/)  
+**Price:** $28,000  
+**List Date:** 7/22/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/20/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/01/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543324" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324)  
 **1845 Manchester Road Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324), [Google Maps](http://maps.google.com/maps?q=1845+Manchester+Road+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1845+Manchester+Road+Akron%2C+OH%2C+44314/)  
@@ -26,14 +39,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537315" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537315)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537315" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537315)  
 **370 Keith Ave Akron, OH, 44313**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537315), [Google Maps](http://maps.google.com/maps?q=370+Keith+Ave+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/370+Keith+Ave+Akron%2C+OH%2C+44313/)  
 **Price:** $69,000  
 **List Date:** 7/16/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/14/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 07/26/2013
 
@@ -182,14 +195,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-304780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-304780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780)  
 **332 Cleveland St Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780), [Google Maps](http://maps.google.com/maps?q=332+Cleveland+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/332+Cleveland+St+Akron%2C+OH%2C+44306/)  
 **Price:** $10,600  
 **List Date:** 7/09/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/14/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/26/2013
 
