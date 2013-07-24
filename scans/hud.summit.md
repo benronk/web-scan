@@ -39,19 +39,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-424355" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-424355)  
-**2132 Beechtree Dr #50 Uniontown, OH, 44685**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-424355), [Google Maps](http://maps.google.com/maps?q=2132+Beechtree+Dr+%2350+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/2132+Beechtree+Dr+%2350+Uniontown%2C+OH%2C+44685/)  
-**Price:** $64,240  
-**List Date:** 7/23/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/4/2013 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/2.10  
-**Bid Open Date:** 07/25/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-563909" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563909)  
 **834 Eastland Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563909), [Google Maps](http://maps.google.com/maps?q=834+Eastland+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/834+Eastland+Ave+Akron%2C+OH%2C+44305/)  
