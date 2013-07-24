@@ -1,5 +1,31 @@
 # Medina County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572465" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572465)  
+**3507 James Blvd Brunswick, OH, 44212**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572465), [Google Maps](http://maps.google.com/maps?q=3507+James+Blvd+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/3507+James+Blvd+Brunswick%2C+OH%2C+44212/)  
+**Price:** $75,000  
+**List Date:** 7/23/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/21/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/02/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-424853" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-424853)  
+**9274 Chippewa Rd Lodi, OH, 44254**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-424853), [Google Maps](http://maps.google.com/maps?q=9274+Chippewa+Rd+Lodi%2C+OH%2C+44254), [Zillow](http://www.zillow.com/homes/9274+Chippewa+Rd+Lodi%2C+OH%2C+44254/)  
+**Price:** $29,000  
+**List Date:** 7/23/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 7/29/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/30/2013
+
+***
+
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582941" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941)  
 **1802 South Carpenter Rd Brunswick, OH, 44212**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941), [Google Maps](http://maps.google.com/maps?q=1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212/)  
