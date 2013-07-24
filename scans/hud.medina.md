@@ -1,5 +1,18 @@
 # Medina County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555029" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555029)  
+**238 Grandview Avenue Wadsworth, OH, 44281**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555029), [Google Maps](http://maps.google.com/maps?q=238+Grandview+Avenue+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/238+Grandview+Avenue+Wadsworth%2C+OH%2C+44281/)  
+**Price:** $45,000  
+**List Date:** 7/24/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/22/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/03/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572465" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572465)  
 **3507 James Blvd Brunswick, OH, 44212**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572465), [Google Maps](http://maps.google.com/maps?q=3507+James+Blvd+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/3507+James+Blvd+Brunswick%2C+OH%2C+44212/)  
@@ -35,7 +48,7 @@
 **Period Deadline:** 8/8/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 07/24/2013
+**Bid Open Date:** 07/25/2013
 
 ***
 
@@ -48,7 +61,7 @@
 **Period Deadline:** 9/23/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 07/24/2013
+**Bid Open Date:** 07/25/2013
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 7/31/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 07/24/2013
+**Bid Open Date:** 07/25/2013
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 7/30/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/24/2013
+**Bid Open Date:** 07/25/2013
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 7/30/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/24/2013
+**Bid Open Date:** 07/25/2013
 
 ***
 
