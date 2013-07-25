@@ -1,13 +1,13 @@
 # Medina County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555029" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555029)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555029" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555029)  
 **238 Grandview Avenue Wadsworth, OH, 44281**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555029), [Google Maps](http://maps.google.com/maps?q=238+Grandview+Avenue+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/238+Grandview+Avenue+Wadsworth%2C+OH%2C+44281/)  
 **Price:** $45,000  
 **List Date:** 7/24/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/22/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/03/2013
 
