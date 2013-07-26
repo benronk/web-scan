@@ -78,19 +78,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537315" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537315)  
-**370 Keith Ave Akron, OH, 44313**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537315), [Google Maps](http://maps.google.com/maps?q=370+Keith+Ave+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/370+Keith+Ave+Akron%2C+OH%2C+44313/)  
-**Price:** $69,000  
-**List Date:** 7/16/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/14/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/27/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-593758" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758)  
 **2652 Albrecht Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758), [Google Maps](http://maps.google.com/maps?q=2652+Albrecht+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2652+Albrecht+Ave+Akron%2C+OH%2C+44312/)  
@@ -203,19 +190,6 @@
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 1/4/2014 11:59:59 PM  CT  
 **Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/27/2013
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-304780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780)  
-**332 Cleveland St Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-304780), [Google Maps](http://maps.google.com/maps?q=332+Cleveland+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/332+Cleveland+St+Akron%2C+OH%2C+44306/)  
-**Price:** $10,600  
-**List Date:** 7/09/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/14/2013 11:59:59 PM  CT  
-**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/27/2013
 
