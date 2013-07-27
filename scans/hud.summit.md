@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-556694" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556694)  
+**956 Concord Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556694), [Google Maps](http://maps.google.com/maps?q=956+Concord+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/956+Concord+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $15,000  
+**List Date:** 7/26/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/24/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/05/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463)  
 **1484 White Ave Akron, OH, 44307**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463), [Google Maps](http://maps.google.com/maps?q=1484+White+Ave+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/1484+White+Ave+Akron%2C+OH%2C+44307/)  
@@ -52,14 +65,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543324" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543324" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324)  
 **1845 Manchester Road Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324), [Google Maps](http://maps.google.com/maps?q=1845+Manchester+Road+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1845+Manchester+Road+Akron%2C+OH%2C+44314/)  
 **Price:** $7,000  
 **List Date:** 7/20/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 7/26/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 07/27/2013
 
