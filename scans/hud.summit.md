@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-573824" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573824)  
+**740 Myrtle Ave Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573824), [Google Maps](http://maps.google.com/maps?q=740+Myrtle+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/740+Myrtle+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $27,000  
+**List Date:** 7/29/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/27/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 08/08/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-556694" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556694)  
 **956 Concord Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556694), [Google Maps](http://maps.google.com/maps?q=956+Concord+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/956+Concord+Ave+Akron%2C+OH%2C+44306/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 9/6/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -35,7 +48,7 @@
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 8/17/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 8/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.10  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 8/10/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 8/7/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 1/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 8/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 8/2/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 12/29/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -243,7 +256,7 @@
 **Period Deadline:** 12/22/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
@@ -256,7 +269,7 @@
 **Period Deadline:** 12/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/30/2013
+**Bid Open Date:** 07/31/2013
 
 ***
 
