@@ -1,5 +1,31 @@
 # Medina County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-524565" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565)  
+**3937 Columbia Rd Medina, OH, 44256**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565), [Google Maps](http://maps.google.com/maps?q=3937+Columbia+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/3937+Columbia+Rd+Medina%2C+OH%2C+44256/)  
+**Price:** $34,500  
+**List Date:** 8/02/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/6/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 08/03/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-489146" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-489146)  
+**4121 Columbia Rd Medina, OH, 44256**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-489146), [Google Maps](http://maps.google.com/maps?q=4121+Columbia+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/4121+Columbia+Rd+Medina%2C+OH%2C+44256/)  
+**Price:** $55,000  
+**List Date:** 8/02/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 8/8/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 08/09/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586492" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586492)  
 **207 Grandview St Lodi, OH, 44254**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586492), [Google Maps](http://maps.google.com/maps?q=207+Grandview+St+Lodi%2C+OH%2C+44254), [Zillow](http://www.zillow.com/homes/207+Grandview+St+Lodi%2C+OH%2C+44254/)  
@@ -48,7 +74,7 @@
 **Period Deadline:** 8/21/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/02/2013
+**Bid Open Date:** 08/03/2013
 
 ***
 
@@ -74,7 +100,7 @@
 **Period Deadline:** 8/8/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 08/02/2013
+**Bid Open Date:** 08/03/2013
 
 ***
 
@@ -87,7 +113,7 @@
 **Period Deadline:** 12/28/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 08/02/2013
+**Bid Open Date:** 08/03/2013
 
 ***
 
@@ -100,7 +126,7 @@
 **Period Deadline:** 12/27/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/02/2013
+**Bid Open Date:** 08/03/2013
 
 ***
 
