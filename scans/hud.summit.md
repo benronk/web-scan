@@ -1,13 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532740" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-639756" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-639756)  
+**11369 Ravenna Rd Twinsburg, OH, 44087**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-639756), [Google Maps](http://maps.google.com/maps?q=11369+Ravenna+Rd+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/11369+Ravenna+Rd+Twinsburg%2C+OH%2C+44087/)  
+**Price:** $92,000  
+**List Date:** 8/01/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/30/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/1.10  
+**Bid Open Date:** 08/11/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532740" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740)  
 **156 Kreiner Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532740), [Google Maps](http://maps.google.com/maps?q=156+Kreiner+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/156+Kreiner+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $52,000  
 **List Date:** 8/01/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/17/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/02/2013
 
@@ -165,6 +178,19 @@
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
+**Bid Open Date:** 08/02/2013
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434013" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013)  
+**1134 E Archwood Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013), [Google Maps](http://maps.google.com/maps?q=1134+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1134+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $19,200  
+**List Date:** 7/10/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/4/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/02/2013
 
 ***
