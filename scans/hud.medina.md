@@ -78,19 +78,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-424853" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-424853)  
-**9274 Chippewa Rd Lodi, OH, 44254**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-424853), [Google Maps](http://maps.google.com/maps?q=9274+Chippewa+Rd+Lodi%2C+OH%2C+44254), [Zillow](http://www.zillow.com/homes/9274+Chippewa+Rd+Lodi%2C+OH%2C+44254/)  
-**Price:** $29,000  
-**List Date:** 7/23/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/18/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582941" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941)  
 **1802 South Carpenter Rd Brunswick, OH, 44212**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941), [Google Maps](http://maps.google.com/maps?q=1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212/)  
