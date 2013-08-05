@@ -91,19 +91,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543324" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324)  
-**1845 Manchester Road Akron, OH, 44314**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543324), [Google Maps](http://maps.google.com/maps?q=1845+Manchester+Road+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1845+Manchester+Road+Akron%2C+OH%2C+44314/)  
-**Price:** $7,000  
-**List Date:** 7/20/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/15/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/06/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-626151" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-626151)  
 **1439 Bruce Rd Macedonia, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-626151), [Google Maps](http://maps.google.com/maps?q=1439+Bruce+Rd+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/1439+Bruce+Rd+Macedonia%2C+OH%2C+44056/)  
