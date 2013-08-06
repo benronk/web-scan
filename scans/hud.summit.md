@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-570524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524)  
+**1855 Hillside Ter Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524), [Google Maps](http://maps.google.com/maps?q=1855+Hillside+Ter+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1855+Hillside+Ter+Akron%2C+OH%2C+44305/)  
+**Price:** $25,200  
+**List Date:** 8/05/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/14/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/06/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-495999" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-495999)  
+**1043 Slosson St Akron, OH, 44320**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-495999), [Google Maps](http://maps.google.com/maps?q=1043+Slosson+St+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/1043+Slosson+St+Akron%2C+OH%2C+44320/)  
+**Price:** $16,000  
+**List Date:** 8/05/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/3/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 08/15/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-639756" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-639756)  
 **11369 Ravenna Rd Twinsburg, OH, 44087**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-639756), [Google Maps](http://maps.google.com/maps?q=11369+Ravenna+Rd+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/11369+Ravenna+Rd+Twinsburg%2C+OH%2C+44087/)  
@@ -230,6 +256,19 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/06/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473986" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986)  
+**592 Robinette Ct Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986), [Google Maps](http://maps.google.com/maps?q=592+Robinette+Ct+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/592+Robinette+Ct+Akron%2C+OH%2C+44310/)  
+**Price:** $19,000  
+**List Date:** 5/21/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/14/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 08/06/2013
 
 ***
