@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463)  
+**1484 White Ave Akron, OH, 44307**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463), [Google Maps](http://maps.google.com/maps?q=1484+White+Ave+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/1484+White+Ave+Akron%2C+OH%2C+44307/)  
+**Price:** $5,500  
+**List Date:** 8/06/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/9/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/07/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558484" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558484)  
+**822 N Firestone Blvd Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558484), [Google Maps](http://maps.google.com/maps?q=822+N+Firestone+Blvd+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/822+N+Firestone+Blvd+Akron%2C+OH%2C+44306/)  
+**Price:** $24,000  
+**List Date:** 8/06/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/4/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/16/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-570524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524)  
 **1855 Hillside Ter Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524), [Google Maps](http://maps.google.com/maps?q=1855+Hillside+Ter+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1855+Hillside+Ter+Akron%2C+OH%2C+44305/)  
@@ -9,7 +35,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -74,7 +100,7 @@
 **Period Deadline:** 8/24/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -87,7 +113,7 @@
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -100,7 +126,7 @@
 **Period Deadline:** 8/20/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 8/17/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 8/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.10  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -152,7 +178,7 @@
 **Period Deadline:** 8/10/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -178,7 +204,7 @@
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 10/4/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 8/7/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -217,7 +243,7 @@
 **Period Deadline:** 1/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -230,7 +256,7 @@
 **Period Deadline:** 12/31/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -243,7 +269,7 @@
 **Period Deadline:** 12/30/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -256,7 +282,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
@@ -269,7 +295,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/06/2013
+**Bid Open Date:** 08/07/2013
 
 ***
 
