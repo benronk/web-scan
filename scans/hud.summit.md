@@ -247,19 +247,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558331" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558331)  
-**2782 Tifft St Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558331), [Google Maps](http://maps.google.com/maps?q=2782+Tifft+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2782+Tifft+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $61,000  
-**List Date:** 7/05/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/31/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/08/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622408" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622408)  
 **9121 Gettysburg Dr Twinsburg, OH, 44087**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622408), [Google Maps](http://maps.google.com/maps?q=9121+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/9121+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087/)  
