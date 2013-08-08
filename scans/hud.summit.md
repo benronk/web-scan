@@ -156,19 +156,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564944)  
-**4214 Watkins Rd Norton, OH, 44203**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564944), [Google Maps](http://maps.google.com/maps?q=4214+Watkins+Rd+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/4214+Watkins+Rd+Norton%2C+OH%2C+44203/)  
-**Price:** $93,000  
-**List Date:** 7/24/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/9/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/09/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-563909" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563909)  
 **834 Eastland Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563909), [Google Maps](http://maps.google.com/maps?q=834+Eastland+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/834+Eastland+Ave+Akron%2C+OH%2C+44305/)  
