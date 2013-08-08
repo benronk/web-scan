@@ -156,19 +156,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-626151" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-626151)  
-**1439 Bruce Rd Macedonia, OH, 44056**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-626151), [Google Maps](http://maps.google.com/maps?q=1439+Bruce+Rd+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/1439+Bruce+Rd+Macedonia%2C+OH%2C+44056/)  
-**Price:** $118,000  
-**List Date:** 7/19/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/17/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/09/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-593758" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758)  
 **2652 Albrecht Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758), [Google Maps](http://maps.google.com/maps?q=2652+Albrecht+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2652+Albrecht+Ave+Akron%2C+OH%2C+44312/)  
