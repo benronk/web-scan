@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540426" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426)  
+**876 Eva Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426), [Google Maps](http://maps.google.com/maps?q=876+Eva+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/876+Eva+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $9,000  
+**List Date:** 8/08/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/12/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 08/09/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-503500" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500)  
+**3000 Hudson Drive Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500), [Google Maps](http://maps.google.com/maps?q=3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $47,600  
+**List Date:** 8/08/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/12/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 08/09/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473986" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986)  
 **592 Robinette Ct Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986), [Google Maps](http://maps.google.com/maps?q=592+Robinette+Ct+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/592+Robinette+Ct+Akron%2C+OH%2C+44310/)  
@@ -9,7 +35,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -22,7 +48,7 @@
 **Period Deadline:** 9/9/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -48,7 +74,7 @@
 **Period Deadline:** 10/4/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -61,7 +87,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 8/27/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 8/24/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -152,7 +178,7 @@
 **Period Deadline:** 8/20/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 8/17/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -178,7 +204,7 @@
 **Period Deadline:** 8/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.10  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 8/10/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -217,7 +243,7 @@
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -230,7 +256,7 @@
 **Period Deadline:** 8/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -239,11 +265,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-605686), [Google Maps](http://maps.google.com/maps?q=1862+Lancaster+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1862+Lancaster+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $56,000  
 **List Date:** 7/09/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/7/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -256,7 +282,7 @@
 **Period Deadline:** 1/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -269,7 +295,7 @@
 **Period Deadline:** 12/30/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
@@ -282,7 +308,7 @@
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/08/2013
+**Bid Open Date:** 08/09/2013
 
 ***
 
