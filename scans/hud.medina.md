@@ -91,14 +91,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-566132" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566132)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-566132" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566132)  
 **3889 Claythorne Pl Brunswick, OH, 44212**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566132), [Google Maps](http://maps.google.com/maps?q=3889+Claythorne+Pl+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/3889+Claythorne+Pl+Brunswick%2C+OH%2C+44212/)  
 **Price:** $156,000  
 **List Date:** 7/02/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 12/28/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 08/08/2013
 

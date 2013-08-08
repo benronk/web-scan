@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473986" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986)  
+**592 Robinette Ct Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473986), [Google Maps](http://maps.google.com/maps?q=592+Robinette+Ct+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/592+Robinette+Ct+Akron%2C+OH%2C+44310/)  
+**Price:** $17,100  
+**List Date:** 8/07/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/14/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 08/08/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463)  
 **1484 White Ave Akron, OH, 44307**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463), [Google Maps](http://maps.google.com/maps?q=1484+White+Ave+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/1484+White+Ave+Akron%2C+OH%2C+44307/)  
@@ -65,14 +78,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-639756" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-639756)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-639756" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-639756)  
 **11369 Ravenna Rd Twinsburg, OH, 44087**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-639756), [Google Maps](http://maps.google.com/maps?q=11369+Ravenna+Rd+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/11369+Ravenna+Rd+Twinsburg%2C+OH%2C+44087/)  
 **Price:** $92,000  
 **List Date:** 8/01/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/30/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.10  
 **Bid Open Date:** 08/11/2013
 
