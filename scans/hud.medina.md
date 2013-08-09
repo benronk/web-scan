@@ -1,5 +1,18 @@
 # Medina County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-448243" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-448243)  
+**9914 Homestead Rd Wadsworth, OH, 44281**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-448243), [Google Maps](http://maps.google.com/maps?q=9914+Homestead+Rd+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/9914+Homestead+Rd+Wadsworth%2C+OH%2C+44281/)  
+**Price:** $82,000  
+**List Date:** 8/09/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/7/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 08/19/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-624687" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-624687)  
 **5161 Fenn Rd Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-624687), [Google Maps](http://maps.google.com/maps?q=5161+Fenn+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/5161+Fenn+Rd+Medina%2C+OH%2C+44256/)  
