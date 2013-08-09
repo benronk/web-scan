@@ -35,7 +35,7 @@
 **Period Deadline:** 9/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/09/2013
+**Bid Open Date:** 08/10/2013
 
 ***
 
@@ -44,11 +44,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-489146), [Google Maps](http://maps.google.com/maps?q=4121+Columbia+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/4121+Columbia+Rd+Medina%2C+OH%2C+44256/)  
 **Price:** $55,000  
 **List Date:** 8/02/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 8/8/2013 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/13/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/09/2013
+**Bid Open Date:** 08/14/2013
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 8/21/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/09/2013
+**Bid Open Date:** 08/10/2013
 
 ***
 
@@ -83,11 +83,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941), [Google Maps](http://maps.google.com/maps?q=1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212/)  
 **Price:** $106,000  
 **List Date:** 7/10/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/8/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 08/09/2013
+**Bid Open Date:** 08/10/2013
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 12/28/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 08/09/2013
+**Bid Open Date:** 08/10/2013
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 12/27/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/09/2013
+**Bid Open Date:** 08/10/2013
 
 ***
 
