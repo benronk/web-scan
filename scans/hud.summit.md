@@ -221,19 +221,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-605686" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-605686)  
-**1862 Lancaster St Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-605686), [Google Maps](http://maps.google.com/maps?q=1862+Lancaster+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1862+Lancaster+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $56,000  
-**List Date:** 7/09/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/4/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 4/1.00  
-**Bid Open Date:** 08/10/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-481127" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127)  
 **1364 Arnold Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127), [Google Maps](http://maps.google.com/maps?q=1364+Arnold+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1364+Arnold+Ave+Akron%2C+OH%2C+44305/)  
