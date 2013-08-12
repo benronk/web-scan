@@ -52,19 +52,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-524565" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565)  
-**3937 Columbia Rd Medina, OH, 44256**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-524565), [Google Maps](http://maps.google.com/maps?q=3937+Columbia+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/3937+Columbia+Rd+Medina%2C+OH%2C+44256/)  
-**Price:** $34,500  
-**List Date:** 8/02/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/24/2013 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/13/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-489146" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-489146)  
 **4121 Columbia Rd Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-489146), [Google Maps](http://maps.google.com/maps?q=4121+Columbia+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/4121+Columbia+Rd+Medina%2C+OH%2C+44256/)  
