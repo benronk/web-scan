@@ -78,19 +78,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582941" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941)  
-**1802 South Carpenter Rd Brunswick, OH, 44212**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582941), [Google Maps](http://maps.google.com/maps?q=1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/1802+South+Carpenter+Rd+Brunswick%2C+OH%2C+44212/)  
-**Price:** $106,000  
-**List Date:** 7/10/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/5/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 4/2.00  
-**Bid Open Date:** 08/14/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-566132" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566132)  
 **3889 Claythorne Pl Brunswick, OH, 44212**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566132), [Google Maps](http://maps.google.com/maps?q=3889+Claythorne+Pl+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/3889+Claythorne+Pl+Brunswick%2C+OH%2C+44212/)  
