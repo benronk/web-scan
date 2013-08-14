@@ -1,5 +1,18 @@
 # Medina County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534668" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534668)  
+**333 N Main St Spencer, OH, 44275**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534668), [Google Maps](http://maps.google.com/maps?q=333+N+Main+St+Spencer%2C+OH%2C+44275), [Zillow](http://www.zillow.com/homes/333+N+Main+St+Spencer%2C+OH%2C+44275/)  
+**Price:** $48,000  
+**List Date:** 8/13/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 8/19/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/20/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-645034" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-645034)  
 **4480 S. Medina Line Rd Norton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-645034), [Google Maps](http://maps.google.com/maps?q=4480+S.+Medina+Line+Rd+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/4480+S.+Medina+Line+Rd+Norton%2C+OH%2C+44203/)  
