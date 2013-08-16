@@ -39,19 +39,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-624687" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-624687)  
-**5161 Fenn Rd Medina, OH, 44256**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-624687), [Google Maps](http://maps.google.com/maps?q=5161+Fenn+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/5161+Fenn+Rd+Medina%2C+OH%2C+44256/)  
-**Price:** $85,000  
-**List Date:** 8/06/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/4/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/17/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586492" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586492)  
 **207 Grandview St Lodi, OH, 44254**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586492), [Google Maps](http://maps.google.com/maps?q=207+Grandview+St+Lodi%2C+OH%2C+44254), [Zillow](http://www.zillow.com/homes/207+Grandview+St+Lodi%2C+OH%2C+44254/)  
