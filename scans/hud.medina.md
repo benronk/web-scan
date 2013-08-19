@@ -13,19 +13,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-645034" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-645034)  
-**4480 S. Medina Line Rd Norton, OH, 44203**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-645034), [Google Maps](http://maps.google.com/maps?q=4480+S.+Medina+Line+Rd+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/4480+S.+Medina+Line+Rd+Norton%2C+OH%2C+44203/)  
-**Price:** $145,000  
-**List Date:** 8/09/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/7/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 08/20/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-448243" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-448243)  
 **9914 Homestead Rd Wadsworth, OH, 44281**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-448243), [Google Maps](http://maps.google.com/maps?q=9914+Homestead+Rd+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/9914+Homestead+Rd+Wadsworth%2C+OH%2C+44281/)  
