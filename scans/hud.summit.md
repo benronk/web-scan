@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-546514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514)  
+**7275 Bristol Ct Northfield, OH, 44067**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514), [Google Maps](http://maps.google.com/maps?q=7275+Bristol+Ct+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/7275+Bristol+Ct+Northfield%2C+OH%2C+44067/)  
+**Price:** $76,000  
+**List Date:** 8/19/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/17/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/29/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-652934" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-652934)  
 **412 Melony Ln Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-652934), [Google Maps](http://maps.google.com/maps?q=412+Melony+Ln+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/412+Melony+Ln+Tallmadge%2C+OH%2C+44278/)  
@@ -52,27 +65,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-615035" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-615035)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-615035" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-615035)  
 **3255 S Bender Ave Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-615035), [Google Maps](http://maps.google.com/maps?q=3255+S+Bender+Ave+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/3255+S+Bender+Ave+Akron%2C+OH%2C+44319/)  
 **Price:** $31,000  
 **List Date:** 8/13/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/11/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 1/1.00  
 **Bid Open Date:** 08/23/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-579913" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579913)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-579913" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579913)  
 **10057 Serene Ct Twinsburg, OH, 44087**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579913), [Google Maps](http://maps.google.com/maps?q=10057+Serene+Ct+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/10057+Serene+Ct+Twinsburg%2C+OH%2C+44087/)  
 **Price:** $88,000  
 **List Date:** 8/13/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/11/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 08/23/2013
 
@@ -117,14 +130,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-503500" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-503500" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500)  
 **3000 Hudson Drive Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500), [Google Maps](http://maps.google.com/maps?q=3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $47,600  
 **List Date:** 8/08/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 1/6/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 08/20/2013
 

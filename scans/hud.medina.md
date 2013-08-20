@@ -1,13 +1,26 @@
 # Medina County HUD Homes
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534668" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534668)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-566132" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566132)  
+**3889 Claythorne Pl Brunswick, OH, 44212**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566132), [Google Maps](http://maps.google.com/maps?q=3889+Claythorne+Pl+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/3889+Claythorne+Pl+Brunswick%2C+OH%2C+44212/)  
+**Price:** $140,400  
+**List Date:** 8/19/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/29/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 08/20/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534668" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534668)  
 **333 N Main St Spencer, OH, 44275**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534668), [Google Maps](http://maps.google.com/maps?q=333+N+Main+St+Spencer%2C+OH%2C+44275), [Zillow](http://www.zillow.com/homes/333+N+Main+St+Spencer%2C+OH%2C+44275/)  
 **Price:** $48,000  
 **List Date:** 8/13/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 8/19/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/20/2013
 
