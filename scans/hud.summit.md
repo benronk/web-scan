@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501411" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411)  
+**3791 Lee Ann Dr Norton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411), [Google Maps](http://maps.google.com/maps?q=3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203/)  
+**Price:** $61,000  
+**List Date:** 8/20/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 8/26/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/27/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-546514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514)  
 **7275 Bristol Ct Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514), [Google Maps](http://maps.google.com/maps?q=7275+Bristol+Ct+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/7275+Bristol+Ct+Northfield%2C+OH%2C+44067/)  
@@ -52,14 +65,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483218" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483218)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483218" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483218)  
 **252 Shawnee Path Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483218), [Google Maps](http://maps.google.com/maps?q=252+Shawnee+Path+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/252+Shawnee+Path+Akron%2C+OH%2C+44305/)  
 **Price:** $18,000  
 **List Date:** 8/14/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 8/20/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/21/2013
 
@@ -130,14 +143,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-503500" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500)  
+[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-503500" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500)  
 **3000 Hudson Drive Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503500), [Google Maps](http://maps.google.com/maps?q=3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3000+Hudson+Drive+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $47,600  
 **List Date:** 8/08/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 1/6/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** Property Pending Sale  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 08/21/2013
 
@@ -208,14 +221,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-593758" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-593758" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758)  
 **2652 Albrecht Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758), [Google Maps](http://maps.google.com/maps?q=2652+Albrecht+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2652+Albrecht+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $42,000  
 **List Date:** 7/15/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 1/10/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.10  
 **Bid Open Date:** 08/21/2013
 
