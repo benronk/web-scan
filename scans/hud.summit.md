@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545354" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354)  
+**131 Pierce Avenue Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354), [Google Maps](http://maps.google.com/maps?q=131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $64,100  
+**List Date:** 8/21/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/19/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/31/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506656" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656)  
+**1350 Andrus Street Akron, OH, 44301**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656), [Google Maps](http://maps.google.com/maps?q=1350+Andrus+Street+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1350+Andrus+Street+Akron%2C+OH%2C+44301/)  
+**Price:** $19,000  
+**List Date:** 8/21/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/19/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 08/31/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501411" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411)  
 **3791 Lee Ann Dr Norton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411), [Google Maps](http://maps.google.com/maps?q=3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203/)  
@@ -52,14 +78,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-513077" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-513077)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-513077" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-513077)  
 **1104 Murray Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-513077), [Google Maps](http://maps.google.com/maps?q=1104+Murray+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1104+Murray+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $20,000  
 **List Date:** 8/15/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/13/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/25/2013
 
@@ -182,14 +208,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-563909" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563909)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-563909" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563909)  
 **834 Eastland Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563909), [Google Maps](http://maps.google.com/maps?q=834+Eastland+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/834+Eastland+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $28,000  
 **List Date:** 7/22/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 1/17/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/22/2013
 
