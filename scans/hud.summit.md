@@ -169,19 +169,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-579913" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579913)  
-**10057 Serene Ct Twinsburg, OH, 44087**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579913), [Google Maps](http://maps.google.com/maps?q=10057+Serene+Ct+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/10057+Serene+Ct+Twinsburg%2C+OH%2C+44087/)  
-**Price:** $88,000  
-**List Date:** 8/13/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/11/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 08/24/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534550" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550)  
 **106 Van Buren Ave Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550), [Google Maps](http://maps.google.com/maps?q=106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -243,19 +230,6 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/24/2013
-
-***
-
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-495999" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-495999)  
-**1043 Slosson St Akron, OH, 44320**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-495999), [Google Maps](http://maps.google.com/maps?q=1043+Slosson+St+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/1043+Slosson+St+Akron%2C+OH%2C+44320/)  
-**Price:** $16,000  
-**List Date:** 8/05/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/9/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 08/24/2013
 
 ***
