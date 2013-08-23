@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-594318" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-594318)  
+**755 Lindsay Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-594318), [Google Maps](http://maps.google.com/maps?q=755+Lindsay+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/755+Lindsay+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $29,000  
+**List Date:** 8/22/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/20/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/01/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-526760" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-526760)  
 **250 Killian Rd Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-526760), [Google Maps](http://maps.google.com/maps?q=250+Killian+Rd+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/250+Killian+Rd+Akron%2C+OH%2C+44319/)  
@@ -8,6 +21,19 @@
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/20/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 09/01/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504115" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504115)  
+**799 E Cassell Ave Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504115), [Google Maps](http://maps.google.com/maps?q=799+E+Cassell+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/799+E+Cassell+Ave+Barberton%2C+OH%2C+44203/)  
+**Price:** $23,300  
+**List Date:** 8/22/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/20/2013 11:59:59 PM  CT  
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/01/2013
 
@@ -65,27 +91,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-652934" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-652934)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-652934" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-652934)  
 **412 Melony Ln Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-652934), [Google Maps](http://maps.google.com/maps?q=412+Melony+Ln+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/412+Melony+Ln+Tallmadge%2C+OH%2C+44278/)  
 **Price:** $70,000  
 **List Date:** 8/16/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/14/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/26/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-481127" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-481127" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127)  
 **1364 Arnold Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127), [Google Maps](http://maps.google.com/maps?q=1364+Arnold+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1364+Arnold+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $19,000  
 **List Date:** 8/16/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/23/2013
 
@@ -204,6 +230,19 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/23/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-495999" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-495999)  
+**1043 Slosson St Akron, OH, 44320**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-495999), [Google Maps](http://maps.google.com/maps?q=1043+Slosson+St+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/1043+Slosson+St+Akron%2C+OH%2C+44320/)  
+**Price:** $16,000  
+**List Date:** 8/05/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/9/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 08/23/2013
 
 ***
