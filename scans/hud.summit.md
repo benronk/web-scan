@@ -247,19 +247,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-563909" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563909)  
-**834 Eastland Ave Akron, OH, 44305**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563909), [Google Maps](http://maps.google.com/maps?q=834+Eastland+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/834+Eastland+Ave+Akron%2C+OH%2C+44305/)  
-**Price:** $28,000  
-**List Date:** 7/22/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/17/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/24/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-593758" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758)  
 **2652 Albrecht Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758), [Google Maps](http://maps.google.com/maps?q=2652+Albrecht+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2652+Albrecht+Ave+Akron%2C+OH%2C+44312/)  
