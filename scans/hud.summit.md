@@ -221,6 +221,19 @@
 
 ***
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-535315" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-535315)  
+**2645 Pelton Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-535315), [Google Maps](http://maps.google.com/maps?q=2645+Pelton+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2645+Pelton+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $23,000  
+**List Date:** 7/29/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/27/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 08/24/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-556694" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556694)  
 **956 Concord Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556694), [Google Maps](http://maps.google.com/maps?q=956+Concord+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/956+Concord+Ave+Akron%2C+OH%2C+44306/)  
@@ -256,6 +269,19 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/24/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-618351" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-618351)  
+**9134 Crestline Dr Macedonia, OH, 44056**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-618351), [Google Maps](http://maps.google.com/maps?q=9134+Crestline+Dr+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9134+Crestline+Dr+Macedonia%2C+OH%2C+44056/)  
+**Price:** $195,000  
+**List Date:** 7/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/10/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/2.00  
 **Bid Open Date:** 08/24/2013
 
 ***
