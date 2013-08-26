@@ -39,19 +39,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534668" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534668)  
-**333 N Main St Spencer, OH, 44275**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534668), [Google Maps](http://maps.google.com/maps?q=333+N+Main+St+Spencer%2C+OH%2C+44275), [Zillow](http://www.zillow.com/homes/333+N+Main+St+Spencer%2C+OH%2C+44275/)  
-**Price:** $48,000  
-**List Date:** 8/13/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/8/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/27/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-448243" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-448243)  
 **9914 Homestead Rd Wadsworth, OH, 44281**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-448243), [Google Maps](http://maps.google.com/maps?q=9914+Homestead+Rd+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/9914+Homestead+Rd+Wadsworth%2C+OH%2C+44281/)  
