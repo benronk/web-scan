@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559768" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768)  
+**407 Sieber Ave Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768), [Google Maps](http://maps.google.com/maps?q=407+Sieber+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/407+Sieber+Ave+Akron%2C+OH%2C+44312/)  
+**Price:** $41,000  
+**List Date:** 8/27/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/31/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 08/28/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
+**127 Marvin Avenue Akron, OH, 44302**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102), [Google Maps](http://maps.google.com/maps?q=127+Marvin+Avenue+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/127+Marvin+Avenue+Akron%2C+OH%2C+44302/)  
+**Price:** $40,000  
+**List Date:** 8/27/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/31/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 08/28/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540426" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426)  
 **876 Eva Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426), [Google Maps](http://maps.google.com/maps?q=876+Eva+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/876+Eva+Ave+Akron%2C+OH%2C+44306/)  
@@ -9,7 +35,7 @@
 **Period Deadline:** 8/28/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -96,11 +122,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411), [Google Maps](http://maps.google.com/maps?q=3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203/)  
 **Price:** $61,000  
 **List Date:** 8/20/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 8/26/2013 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/31/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 09/01/2013
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 2/9/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -152,7 +178,7 @@
 **Period Deadline:** 9/11/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 9/10/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -178,7 +204,7 @@
 **Period Deadline:** 9/10/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 9/9/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -217,7 +243,7 @@
 **Period Deadline:** 8/27/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -230,7 +256,7 @@
 **Period Deadline:** 1/21/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -243,7 +269,7 @@
 **Period Deadline:** 1/10/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.10  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -256,7 +282,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
@@ -269,7 +295,7 @@
 **Period Deadline:** 9/10/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 08/27/2013
+**Bid Open Date:** 08/28/2013
 
 ***
 
