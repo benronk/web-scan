@@ -1,26 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559768" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559768" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768)  
 **407 Sieber Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768), [Google Maps](http://maps.google.com/maps?q=407+Sieber+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/407+Sieber+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $41,000  
 **List Date:** 8/27/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/31/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 08/28/2013
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
 **127 Marvin Avenue Akron, OH, 44302**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102), [Google Maps](http://maps.google.com/maps?q=127+Marvin+Avenue+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/127+Marvin+Avenue+Akron%2C+OH%2C+44302/)  
 **Price:** $40,000  
 **List Date:** 8/27/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/31/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 08/28/2013
 
@@ -91,27 +91,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545354" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545354" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354)  
 **131 Pierce Avenue Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354), [Google Maps](http://maps.google.com/maps?q=131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $64,100  
 **List Date:** 8/21/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/19/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/31/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506656" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506656" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656)  
 **1350 Andrus Street Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656), [Google Maps](http://maps.google.com/maps?q=1350+Andrus+Street+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1350+Andrus+Street+Akron%2C+OH%2C+44301/)  
 **Price:** $19,000  
 **List Date:** 8/21/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/19/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 08/31/2013
 
