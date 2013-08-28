@@ -299,16 +299,3 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-618351" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-618351)  
-**9134 Crestline Dr Macedonia, OH, 44056**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-618351), [Google Maps](http://maps.google.com/maps?q=9134+Crestline+Dr+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9134+Crestline+Dr+Macedonia%2C+OH%2C+44056/)  
-**Price:** $195,000  
-**List Date:** 7/11/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/10/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 4/2.00  
-**Bid Open Date:** 08/29/2013
-
-***
-
