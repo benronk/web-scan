@@ -221,19 +221,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463)  
-**1484 White Ave Akron, OH, 44307**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463), [Google Maps](http://maps.google.com/maps?q=1484+White+Ave+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/1484+White+Ave+Akron%2C+OH%2C+44307/)  
-**Price:** $5,500  
-**List Date:** 8/06/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/9/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/30/2013
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-570524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524)  
 **1855 Hillside Ter Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524), [Google Maps](http://maps.google.com/maps?q=1855+Hillside+Ter+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1855+Hillside+Ter+Akron%2C+OH%2C+44305/)  
