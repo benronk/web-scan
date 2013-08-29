@@ -1,15 +1,41 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-607166" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-607166)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-607166" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-607166)  
 **3141 Dover Dr Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-607166), [Google Maps](http://maps.google.com/maps?q=3141+Dover+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/3141+Dover+Dr+Akron%2C+OH%2C+44312/)  
 **Price:** $100,000  
 **List Date:** 8/28/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/26/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/2.10  
 **Bid Open Date:** 09/07/2013
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568503" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568503)  
+**428 Bell St Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568503), [Google Maps](http://maps.google.com/maps?q=428+Bell+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/428+Bell+St+Barberton%2C+OH%2C+44203/)  
+**Price:** $34,400  
+**List Date:** 8/28/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/24/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/29/2013
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-481127" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127)  
+**1364 Arnold Ave Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127), [Google Maps](http://maps.google.com/maps?q=1364+Arnold+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1364+Arnold+Ave+Akron%2C+OH%2C+44305/)  
+**Price:** $17,100  
+**List Date:** 8/28/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/7/2014 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/29/2013
 
 ***
 
@@ -65,14 +91,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-594318" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-594318)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-594318" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-594318)  
 **755 Lindsay Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-594318), [Google Maps](http://maps.google.com/maps?q=755+Lindsay+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/755+Lindsay+Ave+Akron%2C+OH%2C+44306/)  
 **Price:** $29,000  
 **List Date:** 8/22/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/20/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/01/2013
 
@@ -91,14 +117,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504115" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504115)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504115" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504115)  
 **799 E Cassell Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504115), [Google Maps](http://maps.google.com/maps?q=799+E+Cassell+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/799+E+Cassell+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $23,300  
 **List Date:** 8/22/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/20/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/01/2013
 
