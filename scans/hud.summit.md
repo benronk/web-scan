@@ -221,16 +221,3 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-593758" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758)  
-**2652 Albrecht Ave Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-593758), [Google Maps](http://maps.google.com/maps?q=2652+Albrecht+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2652+Albrecht+Ave+Akron%2C+OH%2C+44312/)  
-**Price:** $42,000  
-**List Date:** 7/15/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/10/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 4/1.10  
-**Bid Open Date:** 08/31/2013
-
-***
-
