@@ -65,19 +65,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-526760" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-526760)  
-**250 Killian Rd Akron, OH, 44319**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-526760), [Google Maps](http://maps.google.com/maps?q=250+Killian+Rd+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/250+Killian+Rd+Akron%2C+OH%2C+44319/)  
-**Price:** $28,000  
-**List Date:** 8/22/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/20/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/04/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504115" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504115)  
 **799 E Cassell Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504115), [Google Maps](http://maps.google.com/maps?q=799+E+Cassell+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/799+E+Cassell+Ave+Barberton%2C+OH%2C+44203/)  
