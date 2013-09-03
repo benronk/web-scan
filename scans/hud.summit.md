@@ -221,16 +221,3 @@
 
 ***
 
-[<img alt="Pending Bid Opening - New bids are still being accepted at this time, but there are bids from previous bid periods that need to be reviewed before your bid can be considered." src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622201" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622201)  
-**1572 Pilgrim St Akron, OH, 44305**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622201), [Google Maps](http://maps.google.com/maps?q=1572+Pilgrim+St+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1572+Pilgrim+St+Akron%2C+OH%2C+44305/)  
-**Price:** $21,000  
-**List Date:** 6/17/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/18/2013 11:59:59 PM  CT  
-**Status:** Pending Bid Opening - New bids are still being accepted at this time, but there are bids from previous bid periods that need to be reviewed before your bid can be considered.  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/04/2013
-
-***
-
