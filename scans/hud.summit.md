@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617140" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140)  
+**1965 Auten Drive Akron, OH, 44320**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140), [Google Maps](http://maps.google.com/maps?q=1965+Auten+Drive+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/1965+Auten+Drive+Akron%2C+OH%2C+44320/)  
+**Price:** $52,000  
+**List Date:** 9/04/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/3/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 09/14/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532122" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532122)  
 **1264 Prospect Street Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532122), [Google Maps](http://maps.google.com/maps?q=1264+Prospect+Street+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1264+Prospect+Street+Barberton%2C+OH%2C+44203/)  
@@ -35,7 +48,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
@@ -48,7 +61,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 12/31/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 9/20/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 9/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 9/17/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 9/11/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.00  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 9/10/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 9/10/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/04/2013
+**Bid Open Date:** 09/05/2013
 
 ***
 
