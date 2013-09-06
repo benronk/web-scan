@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575780)  
+**480 Larkin Ave Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575780), [Google Maps](http://maps.google.com/maps?q=480+Larkin+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/480+Larkin+Ave+Akron%2C+OH%2C+44305/)  
+**Price:** $26,000  
+**List Date:** 9/05/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/4/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 09/15/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-556694" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556694)  
 **956 Concord Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556694), [Google Maps](http://maps.google.com/maps?q=956+Concord+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/956+Concord+Ave+Akron%2C+OH%2C+44306/)  
@@ -47,7 +60,7 @@
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/3/2013 11:59:59 PM  CT  
 **Status:** New Listing  
-**Bed/Bath:** 2/4.00  
+**Bed/Bath:** 4/2.00  
 **Bid Open Date:** 09/14/2013
 
 ***
@@ -85,6 +98,19 @@
 **List Date:** 8/28/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/06/2013
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-481127" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127)  
+**1364 Arnold Ave Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127), [Google Maps](http://maps.google.com/maps?q=1364+Arnold+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1364+Arnold+Ave+Akron%2C+OH%2C+44305/)  
+**Price:** $17,100  
+**List Date:** 8/28/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/06/2013
