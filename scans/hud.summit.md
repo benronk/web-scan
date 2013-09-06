@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463)  
+**1484 White Ave Akron, OH, 44307**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595463), [Google Maps](http://maps.google.com/maps?q=1484+White+Ave+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/1484+White+Ave+Akron%2C+OH%2C+44307/)  
+**Price:** $3,500  
+**List Date:** 9/06/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/17/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 1/1.00  
+**Bid Open Date:** 09/07/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575780)  
 **480 Larkin Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575780), [Google Maps](http://maps.google.com/maps?q=480+Larkin+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/480+Larkin+Ave+Akron%2C+OH%2C+44305/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 9/9/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 1/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 12/31/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 9/20/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 9/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 9/17/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 9/11/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 9/10/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -243,7 +256,7 @@
 **Period Deadline:** 9/10/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
@@ -256,7 +269,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/06/2013
+**Bid Open Date:** 09/07/2013
 
 ***
 
