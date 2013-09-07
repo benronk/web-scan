@@ -260,6 +260,19 @@
 
 ***
 
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434013" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013)  
+**1134 E Archwood Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013), [Google Maps](http://maps.google.com/maps?q=1134+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1134+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $16,800  
+**List Date:** 8/06/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/20/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/07/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-570524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524)  
 **1855 Hillside Ter Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-570524), [Google Maps](http://maps.google.com/maps?q=1855+Hillside+Ter+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1855+Hillside+Ter+Akron%2C+OH%2C+44305/)  
@@ -269,6 +282,32 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/07/2013
+
+***
+
+[<img alt="Pending Bid Opening - New bids are still being accepted at this time, but there are bids from previous bid periods that need to be reviewed before your bid can be considered." src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-622201" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622201)  
+**1572 Pilgrim St Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-622201), [Google Maps](http://maps.google.com/maps?q=1572+Pilgrim+St+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1572+Pilgrim+St+Akron%2C+OH%2C+44305/)  
+**Price:** $21,000  
+**List Date:** 6/17/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/21/2013 11:59:59 PM  CT  
+**Status:** Pending Bid Opening - New bids are still being accepted at this time, but there are bids from previous bid periods that need to be reviewed before your bid can be considered.  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/07/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-410605" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-410605)  
+**1634 Hilda St Lakemore, OH, 44250**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-410605), [Google Maps](http://maps.google.com/maps?q=1634+Hilda+St+Lakemore%2C+OH%2C+44250), [Zillow](http://www.zillow.com/homes/1634+Hilda+St+Lakemore%2C+OH%2C+44250/)  
+**Price:** $28,000  
+**List Date:** 6/03/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/22/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/2.00  
 **Bid Open Date:** 09/07/2013
 
 ***
