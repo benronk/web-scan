@@ -52,14 +52,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-448243" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-448243)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-448243" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-448243)  
 **9914 Homestead Rd Wadsworth, OH, 44281**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-448243), [Google Maps](http://maps.google.com/maps?q=9914+Homestead+Rd+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/9914+Homestead+Rd+Wadsworth%2C+OH%2C+44281/)  
 **Price:** $82,000  
 **List Date:** 8/09/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/4/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 09/09/2013
 
