@@ -91,19 +91,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-607166" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-607166)  
-**3141 Dover Dr Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-607166), [Google Maps](http://maps.google.com/maps?q=3141+Dover+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/3141+Dover+Dr+Akron%2C+OH%2C+44312/)  
-**Price:** $100,000  
-**List Date:** 8/28/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/26/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/2.10  
-**Bid Open Date:** 09/10/2013
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568503" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568503)  
 **428 Bell St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568503), [Google Maps](http://maps.google.com/maps?q=428+Bell+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/428+Bell+St+Barberton%2C+OH%2C+44203/)  
