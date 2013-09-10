@@ -39,19 +39,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-556694" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556694)  
-**956 Concord Ave Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556694), [Google Maps](http://maps.google.com/maps?q=956+Concord+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/956+Concord+Ave+Akron%2C+OH%2C+44306/)  
-**Price:** $15,000  
-**List Date:** 9/05/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/29/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442231" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442231)  
 **605 Roslyn Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442231), [Google Maps](http://maps.google.com/maps?q=605+Roslyn+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/605+Roslyn+Ave+Akron%2C+OH%2C+44320/)  
@@ -139,19 +126,6 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/11/2013
-
-***
-
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540426" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426)  
-**876 Eva Ave Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540426), [Google Maps](http://maps.google.com/maps?q=876+Eva+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/876+Eva+Ave+Akron%2C+OH%2C+44306/)  
-**Price:** $5,000  
-**List Date:** 8/24/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/31/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/11/2013
 
 ***
