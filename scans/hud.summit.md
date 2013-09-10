@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-562106" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562106)  
+**240 Lownsdale Avenue Akron, OH, 44313**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562106), [Google Maps](http://maps.google.com/maps?q=240+Lownsdale+Avenue+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/240+Lownsdale+Avenue+Akron%2C+OH%2C+44313/)  
+**Price:** $45,000  
+**List Date:** 9/09/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 9/15/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 09/16/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-523980" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980)  
 **1119 Chandler Avenu Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980), [Google Maps](http://maps.google.com/maps?q=1119+Chandler+Avenu+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1119+Chandler+Avenu+Akron%2C+OH%2C+44314/)  
@@ -78,14 +91,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532122" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532122)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532122" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532122)  
 **1264 Prospect Street Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532122), [Google Maps](http://maps.google.com/maps?q=1264+Prospect+Street+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1264+Prospect+Street+Barberton%2C+OH%2C+44203/)  
 **Price:** $34,500  
 **List Date:** 9/03/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/2/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/13/2013
 
