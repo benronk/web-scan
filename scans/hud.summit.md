@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559484" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484)  
+**600 Cora Ave Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484), [Google Maps](http://maps.google.com/maps?q=600+Cora+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/600+Cora+Ave+Akron%2C+OH%2C+44312/)  
+**Price:** $81,000  
+**List Date:** 9/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/29/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 09/12/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-549897" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897)  
 **451 Ripley Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897), [Google Maps](http://maps.google.com/maps?q=451+Ripley+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/451+Ripley+Ave+Akron%2C+OH%2C+44312/)  
@@ -113,7 +126,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 9/20/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 9/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 9/11/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.00  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
@@ -200,11 +213,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550), [Google Maps](http://maps.google.com/maps?q=106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $104,000  
 **List Date:** 8/12/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/10/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/7/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
@@ -213,11 +226,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-526258), [Google Maps](http://maps.google.com/maps?q=1070+Breckenridge+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1070+Breckenridge+St+Akron%2C+OH%2C+44314/)  
 **Price:** $26,500  
 **List Date:** 8/12/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/10/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/7/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 10/20/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
@@ -243,7 +256,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
@@ -256,7 +269,7 @@
 **Period Deadline:** 9/22/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/11/2013
+**Bid Open Date:** 09/12/2013
 
 ***
 
