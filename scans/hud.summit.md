@@ -143,19 +143,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559768" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768)  
-**407 Sieber Ave Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559768), [Google Maps](http://maps.google.com/maps?q=407+Sieber+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/407+Sieber+Ave+Akron%2C+OH%2C+44312/)  
-**Price:** $41,000  
-**List Date:** 8/27/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/7/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/13/2013
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
 **127 Marvin Avenue Akron, OH, 44302**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102), [Google Maps](http://maps.google.com/maps?q=127+Marvin+Avenue+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/127+Marvin+Avenue+Akron%2C+OH%2C+44302/)  
