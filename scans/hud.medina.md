@@ -13,19 +13,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-566132" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566132)  
-**3889 Claythorne Pl Brunswick, OH, 44212**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566132), [Google Maps](http://maps.google.com/maps?q=3889+Claythorne+Pl+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/3889+Claythorne+Pl+Brunswick%2C+OH%2C+44212/)  
-**Price:** $140,400  
-**List Date:** 8/19/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/29/2013 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 4/2.00  
-**Bid Open Date:** 09/13/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586492" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586492)  
 **207 Grandview St Lodi, OH, 44254**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586492), [Google Maps](http://maps.google.com/maps?q=207+Grandview+St+Lodi%2C+OH%2C+44254), [Zillow](http://www.zillow.com/homes/207+Grandview+St+Lodi%2C+OH%2C+44254/)  
