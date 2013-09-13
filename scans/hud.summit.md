@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545354" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354)  
+**131 Pierce Avenue Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354), [Google Maps](http://maps.google.com/maps?q=131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $64,100  
+**List Date:** 9/13/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/29/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/14/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-464551" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-464551)  
+**877 E Archwood Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-464551), [Google Maps](http://maps.google.com/maps?q=877+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/877+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $16,000  
+**List Date:** 9/13/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 9/19/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/1.10  
+**Bid Open Date:** 09/20/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173)  
 **384 Lansing Road Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173), [Google Maps](http://maps.google.com/maps?q=384+Lansing+Road+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/384+Lansing+Road+Akron%2C+OH%2C+44312/)  
@@ -35,7 +61,7 @@
 **Period Deadline:** 9/29/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 10/2/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -152,7 +178,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -178,7 +204,7 @@
 **Period Deadline:** 9/20/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 9/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -217,7 +243,7 @@
 **Period Deadline:** 9/18/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -230,7 +256,7 @@
 **Period Deadline:** 2/8/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 1/1.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -243,7 +269,7 @@
 **Period Deadline:** 2/7/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -256,7 +282,7 @@
 **Period Deadline:** 2/7/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -269,7 +295,7 @@
 **Period Deadline:** 10/20/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -282,7 +308,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
@@ -295,7 +321,7 @@
 **Period Deadline:** 9/22/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/13/2013
+**Bid Open Date:** 09/14/2013
 
 ***
 
