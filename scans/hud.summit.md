@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-657164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164)  
+**965 Hunt Street Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164), [Google Maps](http://maps.google.com/maps?q=965+Hunt+Street+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/965+Hunt+Street+Akron%2C+OH%2C+44306/)  
+**Price:** $22,000  
+**List Date:** 9/14/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 9/20/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/21/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545354" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354)  
 **131 Pierce Avenue Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354), [Google Maps](http://maps.google.com/maps?q=131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 9/29/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -22,7 +35,7 @@
 **Period Deadline:** 12/9/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 9/29/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -104,16 +117,16 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-523980" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980)  
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-523980" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980)  
 **1119 Chandler Avenue Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980), [Google Maps](http://maps.google.com/maps?q=1119+Chandler+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1119+Chandler+Avenue+Akron%2C+OH%2C+44314/)  
 **Price:** $13,500  
 **List Date:** 9/07/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 9/13/2013 11:59:59 PM  CT  
-**Status:**   
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/18/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/19/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 10/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 10/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 10/2/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 9/20/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 9/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -243,7 +256,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -256,7 +269,7 @@
 **Period Deadline:** 9/18/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -269,7 +282,7 @@
 **Period Deadline:** 2/8/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 1/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -282,7 +295,7 @@
 **Period Deadline:** 2/7/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -295,7 +308,7 @@
 **Period Deadline:** 2/7/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -308,7 +321,7 @@
 **Period Deadline:** 10/20/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -321,7 +334,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
@@ -334,7 +347,7 @@
 **Period Deadline:** 9/22/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/14/2013
+**Bid Open Date:** 09/15/2013
 
 ***
 
