@@ -234,19 +234,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-615035" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-615035)  
-**3255 S Bender Ave Akron, OH, 44319**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-615035), [Google Maps](http://maps.google.com/maps?q=3255+S+Bender+Ave+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/3255+S+Bender+Ave+Akron%2C+OH%2C+44319/)  
-**Price:** $31,000  
-**List Date:** 8/13/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/8/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 1/1.00  
-**Bid Open Date:** 09/17/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534550" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550)  
 **106 Van Buren Ave Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550), [Google Maps](http://maps.google.com/maps?q=106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
