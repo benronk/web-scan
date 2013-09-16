@@ -130,19 +130,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575780)  
-**480 Larkin Ave Akron, OH, 44305**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575780), [Google Maps](http://maps.google.com/maps?q=480+Larkin+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/480+Larkin+Ave+Akron%2C+OH%2C+44305/)  
-**Price:** $26,000  
-**List Date:** 9/05/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/4/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/17/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442231" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442231)  
 **605 Roslyn Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442231), [Google Maps](http://maps.google.com/maps?q=605+Roslyn+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/605+Roslyn+Ave+Akron%2C+OH%2C+44320/)  
@@ -178,19 +165,6 @@
 **Period Deadline:** 10/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 09/17/2013
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532122" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532122)  
-**1264 Prospect Street Barberton, OH, 44203**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532122), [Google Maps](http://maps.google.com/maps?q=1264+Prospect+Street+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1264+Prospect+Street+Barberton%2C+OH%2C+44203/)  
-**Price:** $34,500  
-**List Date:** 9/03/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/2/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/17/2013
 
 ***
