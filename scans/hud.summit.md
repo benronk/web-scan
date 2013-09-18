@@ -247,19 +247,6 @@
 
 ***
 
-[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-526258" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-526258)  
-**1070 Breckenridge St Akron, OH, 44314**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-526258), [Google Maps](http://maps.google.com/maps?q=1070+Breckenridge+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1070+Breckenridge+St+Akron%2C+OH%2C+44314/)  
-**Price:** $26,500  
-**List Date:** 8/12/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/7/2014 11:59:59 PM  CT  
-**Status:** Property Pending Sale  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/19/2013
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434013" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013)  
 **1134 E Archwood Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013), [Google Maps](http://maps.google.com/maps?q=1134+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1134+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
