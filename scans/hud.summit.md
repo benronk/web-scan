@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
+**62 Canter Ln #B Northfield, OH, 44067**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
+**Price:** $77,000  
+**List Date:** 9/18/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/17/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.10  
+**Bid Open Date:** 09/28/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-657164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164)  
 **965 Hunt Street Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164), [Google Maps](http://maps.google.com/maps?q=965+Hunt+Street+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/965+Hunt+Street+Akron%2C+OH%2C+44306/)  
@@ -52,14 +65,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173)  
 **384 Lansing Road Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173), [Google Maps](http://maps.google.com/maps?q=384+Lansing+Road+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/384+Lansing+Road+Akron%2C+OH%2C+44312/)  
 **Price:** $47,000  
 **List Date:** 9/12/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/11/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/22/2013
 
