@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-561936" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561936)  
+**248 &amp; 250 E York St Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561936), [Google Maps](http://maps.google.com/maps?q=248+%26amp%3B+250+E+York+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/248+%26amp%3B+250+E+York+St+Akron%2C+OH%2C+44310/)  
+**Price:** $36,000  
+**List Date:** 9/19/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 9/25/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 09/26/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
 **62 Canter Ln #B Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
@@ -35,7 +48,7 @@
 **Period Deadline:** 9/29/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -48,7 +61,7 @@
 **Period Deadline:** 12/9/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 9/29/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -135,11 +148,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980), [Google Maps](http://maps.google.com/maps?q=1119+Chandler+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1119+Chandler+Avenue+Akron%2C+OH%2C+44314/)  
 **Price:** $13,500  
 **List Date:** 9/07/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/18/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 10/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 10/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 9/20/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 9/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -239,11 +252,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514), [Google Maps](http://maps.google.com/maps?q=7275+Bristol+Ct+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/7275+Bristol+Ct+Northfield%2C+OH%2C+44067/)  
 **Price:** $76,000  
 **List Date:** 8/19/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/18/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -256,7 +269,7 @@
 **Period Deadline:** 2/7/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -269,7 +282,7 @@
 **Period Deadline:** 10/20/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -282,7 +295,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -295,7 +308,7 @@
 **Period Deadline:** 9/22/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 

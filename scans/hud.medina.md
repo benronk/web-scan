@@ -9,7 +9,7 @@
 **Period Deadline:** 1/28/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -22,7 +22,7 @@
 **Period Deadline:** 9/21/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
@@ -31,11 +31,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-610807), [Google Maps](http://maps.google.com/maps?q=142+E+Walnut+St+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/142+E+Walnut+St+Wadsworth%2C+OH%2C+44281/)  
 **Price:** $30,000  
 **List Date:** 8/20/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/18/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/19/2013
+**Bid Open Date:** 09/20/2013
 
 ***
 
