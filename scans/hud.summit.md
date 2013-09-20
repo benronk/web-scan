@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-561936" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561936)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-561936" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561936)  
 **248 &amp; 250 E York St Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561936), [Google Maps](http://maps.google.com/maps?q=248+%26amp%3B+250+E+York+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/248+%26amp%3B+250+E+York+St+Akron%2C+OH%2C+44310/)  
 **Price:** $36,000  
 **List Date:** 9/19/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 9/25/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 09/26/2013
 
@@ -39,40 +39,40 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545354" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545354" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354)  
 **131 Pierce Avenue Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354), [Google Maps](http://maps.google.com/maps?q=131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $64,100  
 **List Date:** 9/13/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/29/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/20/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540539" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-540539" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539)  
 **78 E Mapledale Ave Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-540539), [Google Maps](http://maps.google.com/maps?q=78+E+Mapledale+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/78+E+Mapledale+Ave+Akron%2C+OH%2C+44301/)  
 **Price:** $14,400  
 **List Date:** 9/13/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 12/9/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/20/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-464551" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-464551)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-464551" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-464551)  
 **877 E Archwood Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-464551), [Google Maps](http://maps.google.com/maps?q=877+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/877+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
 **Price:** $16,000  
 **List Date:** 9/13/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 9/19/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.10  
 **Bid Open Date:** 09/20/2013
 
@@ -247,14 +247,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-546514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-546514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514)  
 **7275 Bristol Ct Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514), [Google Maps](http://maps.google.com/maps?q=7275+Bristol+Ct+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/7275+Bristol+Ct+Northfield%2C+OH%2C+44067/)  
 **Price:** $76,000  
 **List Date:** 8/19/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/20/2013
 
