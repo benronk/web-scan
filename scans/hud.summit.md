@@ -48,7 +48,7 @@
 **Period Deadline:** 9/29/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -61,20 +61,20 @@
 **Period Deadline:** 12/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-464551" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-464551)  
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-464551" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-464551)  
 **877 E Archwood Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-464551), [Google Maps](http://maps.google.com/maps?q=877+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/877+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
 **Price:** $16,000  
 **List Date:** 9/13/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 9/19/2013 11:59:59 PM  CT  
-**Status:**   
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/24/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.10  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/25/2013
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 9/29/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 10/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 10/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 10/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 1/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 9/20/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -226,11 +226,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656), [Google Maps](http://maps.google.com/maps?q=1350+Andrus+Street+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1350+Andrus+Street+Akron%2C+OH%2C+44301/)  
 **Price:** $19,000  
 **List Date:** 8/21/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/19/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 2/7/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -282,7 +282,7 @@
 **Period Deadline:** 10/20/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -295,7 +295,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
@@ -308,7 +308,7 @@
 **Period Deadline:** 9/22/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/20/2013
+**Bid Open Date:** 09/21/2013
 
 ***
 
