@@ -273,16 +273,3 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-410605" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-410605)  
-**1634 Hilda St Lakemore, OH, 44250**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-410605), [Google Maps](http://maps.google.com/maps?q=1634+Hilda+St+Lakemore%2C+OH%2C+44250), [Zillow](http://www.zillow.com/homes/1634+Hilda+St+Lakemore%2C+OH%2C+44250/)  
-**Price:** $28,000  
-**List Date:** 6/03/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/19/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/25/2013
-
-***
-
