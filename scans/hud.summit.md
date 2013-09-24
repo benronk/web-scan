@@ -130,19 +130,6 @@
 
 ***
 
-[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173)  
-**384 Lansing Road Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173), [Google Maps](http://maps.google.com/maps?q=384+Lansing+Road+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/384+Lansing+Road+Akron%2C+OH%2C+44312/)  
-**Price:** $47,000  
-**List Date:** 9/12/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/11/2013 11:59:59 PM  CT  
-**Status:** Property Pending Sale  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/25/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559484" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484)  
 **600 Cora Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484), [Google Maps](http://maps.google.com/maps?q=600+Cora+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/600+Cora+Ave+Akron%2C+OH%2C+44312/)  
