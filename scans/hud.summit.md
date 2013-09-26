@@ -52,14 +52,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-561936" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561936)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-561936" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561936)  
 **248 &amp; 250 E York St Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561936), [Google Maps](http://maps.google.com/maps?q=248+%26amp%3B+250+E+York+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/248+%26amp%3B+250+E+York+St+Akron%2C+OH%2C+44310/)  
 **Price:** $36,000  
 **List Date:** 9/19/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 9/25/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 09/26/2013
 
@@ -182,14 +182,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-546514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-546514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514)  
 **7275 Bristol Ct Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514), [Google Maps](http://maps.google.com/maps?q=7275+Bristol+Ct+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/7275+Bristol+Ct+Northfield%2C+OH%2C+44067/)  
 **Price:** $76,000  
 **List Date:** 8/19/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/26/2013
 
