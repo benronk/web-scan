@@ -143,19 +143,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
-**127 Marvin Avenue Akron, OH, 44302**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102), [Google Maps](http://maps.google.com/maps?q=127+Marvin+Avenue+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/127+Marvin+Avenue+Akron%2C+OH%2C+44302/)  
-**Price:** $40,000  
-**List Date:** 8/27/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/7/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/27/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506656" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656)  
 **1350 Andrus Street Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656), [Google Maps](http://maps.google.com/maps?q=1350+Andrus+Street+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1350+Andrus+Street+Akron%2C+OH%2C+44301/)  
@@ -189,19 +176,6 @@
 **List Date:** 8/19/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/27/2013
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534550" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550)  
-**106 Van Buren Ave Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550), [Google Maps](http://maps.google.com/maps?q=106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $104,000  
-**List Date:** 8/12/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/7/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/27/2013
