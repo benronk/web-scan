@@ -91,19 +91,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-464551" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-464551)  
-**877 E Archwood Ave Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-464551), [Google Maps](http://maps.google.com/maps?q=877+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/877+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
-**Price:** $16,000  
-**List Date:** 9/13/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/11/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 4/1.10  
-**Bid Open Date:** 09/27/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-523980" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980)  
 **1119 Chandler Avenue Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980), [Google Maps](http://maps.google.com/maps?q=1119+Chandler+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1119+Chandler+Avenue+Akron%2C+OH%2C+44314/)  
