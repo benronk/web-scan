@@ -130,14 +130,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506656" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506656" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656)  
 **1350 Andrus Street Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656), [Google Maps](http://maps.google.com/maps?q=1350+Andrus+Street+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1350+Andrus+Street+Akron%2C+OH%2C+44301/)  
 **Price:** $19,000  
 **List Date:** 8/21/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 09/27/2013
 
