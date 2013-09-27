@@ -1,5 +1,18 @@
 # Medina County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-489146" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-489146)  
+**4121 Columbia Rd Medina, OH, 44256**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-489146), [Google Maps](http://maps.google.com/maps?q=4121+Columbia+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/4121+Columbia+Rd+Medina%2C+OH%2C+44256/)  
+**Price:** $55,000  
+**List Date:** 9/27/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/8/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 09/28/2013
+
+***
+
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-660807" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-660807)  
 **1032 Cedarwood Ln Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-660807), [Google Maps](http://maps.google.com/maps?q=1032+Cedarwood+Ln+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/1032+Cedarwood+Ln+Medina%2C+OH%2C+44256/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 1/28/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/27/2013
+**Bid Open Date:** 09/28/2013
 
 ***
 
@@ -35,7 +48,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/27/2013
+**Bid Open Date:** 09/28/2013
 
 ***
 
