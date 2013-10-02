@@ -1,52 +1,65 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559484" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-605299" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-605299)  
+**2959 Williamsburg Circle Stow, OH, 44224**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-605299), [Google Maps](http://maps.google.com/maps?q=2959+Williamsburg+Circle+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2959+Williamsburg+Circle+Stow%2C+OH%2C+44224/)  
+**Price:** $130,000  
+**List Date:** 10/01/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/30/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/2.10  
+**Bid Open Date:** 10/11/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559484" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484)  
 **600 Cora Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484), [Google Maps](http://maps.google.com/maps?q=600+Cora+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/600+Cora+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $81,000  
 **List Date:** 10/01/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/5/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 10/02/2013
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545354" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545354" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354)  
 **131 Pierce Avenue Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545354), [Google Maps](http://maps.google.com/maps?q=131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/131+Pierce+Avenue+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $64,100  
 **List Date:** 10/01/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/5/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/02/2013
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534550" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534550" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550)  
 **106 Van Buren Ave Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550), [Google Maps](http://maps.google.com/maps?q=106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $104,000  
 **List Date:** 10/01/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/5/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/02/2013
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
 **127 Marvin Avenue Akron, OH, 44302**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102), [Google Maps](http://maps.google.com/maps?q=127+Marvin+Avenue+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/127+Marvin+Avenue+Akron%2C+OH%2C+44302/)  
 **Price:** $35,000  
 **List Date:** 10/01/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/5/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 10/02/2013
 
@@ -65,14 +78,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
 **62 Canter Ln #B Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
 **Price:** $77,000  
 **List Date:** 10/01/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/23/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.10  
 **Bid Open Date:** 10/04/2013
 
