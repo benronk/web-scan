@@ -1,5 +1,57 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-602954" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-602954)  
+**2386 Woodacre Dr Hudson, OH, 44236**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-602954), [Google Maps](http://maps.google.com/maps?q=2386+Woodacre+Dr+Hudson%2C+OH%2C+44236), [Zillow](http://www.zillow.com/homes/2386+Woodacre+Dr+Hudson%2C+OH%2C+44236/)  
+**Price:** $158,000  
+**List Date:** 10/02/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/10/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 10/03/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575780)  
+**480 Larkin Ave Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575780), [Google Maps](http://maps.google.com/maps?q=480+Larkin+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/480+Larkin+Ave+Akron%2C+OH%2C+44305/)  
+**Price:** $26,000  
+**List Date:** 10/02/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/6/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 10/07/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173)  
+**384 Lansing Road Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173), [Google Maps](http://maps.google.com/maps?q=384+Lansing+Road+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/384+Lansing+Road+Akron%2C+OH%2C+44312/)  
+**Price:** $47,000  
+**List Date:** 10/02/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/19/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/03/2013
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522346" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522346)  
+**807 Viewpoint Avenue Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522346), [Google Maps](http://maps.google.com/maps?q=807+Viewpoint+Avenue+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/807+Viewpoint+Avenue+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $45,000  
+**List Date:** 10/02/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/31/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/12/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-605299" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-605299)  
 **2959 Williamsburg Circle Stow, OH, 44224**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-605299), [Google Maps](http://maps.google.com/maps?q=2959+Williamsburg+Circle+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2959+Williamsburg+Circle+Stow%2C+OH%2C+44224/)  
@@ -22,7 +74,7 @@
 **Period Deadline:** 10/5/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -35,7 +87,7 @@
 **Period Deadline:** 10/5/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -48,7 +100,7 @@
 **Period Deadline:** 10/5/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -61,7 +113,7 @@
 **Period Deadline:** 10/5/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -113,7 +165,7 @@
 **Period Deadline:** 10/20/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -139,7 +191,7 @@
 **Period Deadline:** 3/17/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -152,7 +204,7 @@
 **Period Deadline:** 3/12/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -165,7 +217,7 @@
 **Period Deadline:** 12/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -178,7 +230,7 @@
 **Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -191,7 +243,7 @@
 **Period Deadline:** 10/3/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -204,7 +256,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -217,7 +269,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -230,7 +282,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
@@ -243,7 +295,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/02/2013
+**Bid Open Date:** 10/03/2013
 
 ***
 
