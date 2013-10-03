@@ -13,19 +13,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-602954" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-602954)  
-**2386 Woodacre Dr Hudson, OH, 44236**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-602954), [Google Maps](http://maps.google.com/maps?q=2386+Woodacre+Dr+Hudson%2C+OH%2C+44236), [Zillow](http://www.zillow.com/homes/2386+Woodacre+Dr+Hudson%2C+OH%2C+44236/)  
-**Price:** $158,000  
-**List Date:** 10/02/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/10/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 4/2.00  
-**Bid Open Date:** 10/04/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575780" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575780)  
 **480 Larkin Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575780), [Google Maps](http://maps.google.com/maps?q=480+Larkin+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/480+Larkin+Ave+Akron%2C+OH%2C+44305/)  
@@ -100,19 +87,6 @@
 **Period Deadline:** 10/5/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/04/2013
-
-***
-
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
-**127 Marvin Avenue Akron, OH, 44302**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102), [Google Maps](http://maps.google.com/maps?q=127+Marvin+Avenue+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/127+Marvin+Avenue+Akron%2C+OH%2C+44302/)  
-**Price:** $35,000  
-**List Date:** 10/01/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/5/2013 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.10  
 **Bid Open Date:** 10/04/2013
 
 ***
