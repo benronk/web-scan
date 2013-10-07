@@ -22,7 +22,7 @@
 **Period Deadline:** 10/7/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -31,11 +31,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575780), [Google Maps](http://maps.google.com/maps?q=480+Larkin+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/480+Larkin+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $26,000  
 **List Date:** 10/02/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/6/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/19/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 10/19/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -87,7 +87,7 @@
 **Period Deadline:** 3/4/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 3/4/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 10/23/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 10/22/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 10/20/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 10/22/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 3/17/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 3/12/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 12/9/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 3/2/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
@@ -282,7 +282,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2013
+**Bid Open Date:** 10/08/2013
 
 ***
 
