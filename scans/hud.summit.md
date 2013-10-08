@@ -45,7 +45,7 @@
 **Price:** $47,000  
 **List Date:** 10/02/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/19/2013 11:59:59   CT  
+**Period Deadline:** 10/19/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/08/2013
@@ -97,7 +97,7 @@
 **Price:** $64,100  
 **List Date:** 10/01/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/4/2014 11:59:59 PM  CT  
+**Period Deadline:** 3/4/2014 11:59:59   CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/08/2013
@@ -149,7 +149,7 @@
 **Price:** $15,600  
 **List Date:** 9/23/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 10/20/2013 11:59:59 PM  CT  
+**Period Deadline:** 10/20/2013 11:59:59   CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/08/2013
@@ -162,7 +162,7 @@
 **Price:** $46,000  
 **List Date:** 9/23/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/22/2013 11:59:59   CT  
+**Period Deadline:** 10/22/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/08/2013
@@ -240,7 +240,7 @@
 **Price:** $34,400  
 **List Date:** 8/28/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 11/24/2013 11:59:59   CT  
+**Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/08/2013
