@@ -110,7 +110,7 @@
 **Price:** $95,000  
 **List Date:** 9/23/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/22/2013 11:59:59 PM  CT  
+**Period Deadline:** 10/22/2013 11:59:59   CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/09/2013
@@ -136,7 +136,7 @@
 **Price:** $46,000  
 **List Date:** 9/23/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/22/2013 11:59:59 PM  CT  
+**Period Deadline:** 10/22/2013 11:59:59   CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/09/2013
