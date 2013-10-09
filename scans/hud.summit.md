@@ -6,7 +6,7 @@
 **Price:** $13,000  
 **List Date:** 10/08/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 10/20/2013 11:59:59   CT  
+**Period Deadline:** 10/20/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/10/2013
@@ -136,7 +136,7 @@
 **Price:** $36,000  
 **List Date:** 9/19/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/17/2014 11:59:59 PM  CT  
+**Period Deadline:** 3/17/2014 11:59:59   CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 10/10/2013
@@ -162,7 +162,7 @@
 **Price:** $13,500  
 **List Date:** 9/07/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/5/2014 11:59:59   CT  
+**Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 10/10/2013
@@ -201,7 +201,7 @@
 **Price:** $19,000  
 **List Date:** 8/21/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/16/2014 11:59:59   CT  
+**Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 10/10/2013
@@ -214,21 +214,8 @@
 **Price:** $61,000  
 **List Date:** 8/20/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/15/2014 11:59:59   CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/10/2013
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-546514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514)  
-**7275 Bristol Ct Northfield, OH, 44067**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514), [Google Maps](http://maps.google.com/maps?q=7275+Bristol+Ct+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/7275+Bristol+Ct+Northfield%2C+OH%2C+44067/)  
-**Price:** $76,000  
-**List Date:** 8/19/2013  
-**Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/10/2013
 
