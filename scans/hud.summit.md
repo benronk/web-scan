@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434013" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013)  
+**1134 E Archwood Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434013), [Google Maps](http://maps.google.com/maps?q=1134+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1134+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $13,000  
+**List Date:** 10/08/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/20/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/09/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-471427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-471427)  
 **832 Caddo Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-471427), [Google Maps](http://maps.google.com/maps?q=832+Caddo+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/832+Caddo+Ave+Akron%2C+OH%2C+44305/)  
@@ -19,34 +32,34 @@
 **Price:** $93,600  
 **List Date:** 10/03/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/13/2014 11:59:59 PM  CT  
+**Period Deadline:** 2/13/2014 11:59:59   CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/09/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173)  
 **384 Lansing Road Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173), [Google Maps](http://maps.google.com/maps?q=384+Lansing+Road+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/384+Lansing+Road+Akron%2C+OH%2C+44312/)  
 **Price:** $47,000  
 **List Date:** 10/02/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/19/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/09/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522346" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522346)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522346" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522346)  
 **807 Viewpoint Avenue Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522346), [Google Maps](http://maps.google.com/maps?q=807+Viewpoint+Avenue+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/807+Viewpoint+Avenue+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $45,000  
 **List Date:** 10/02/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/31/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/12/2013
 
@@ -71,7 +84,7 @@
 **Price:** $28,000  
 **List Date:** 10/01/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/30/2013 11:59:59 PM  CT  
+**Period Deadline:** 10/30/2013 11:59:59   CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/11/2013
@@ -97,7 +110,7 @@
 **Price:** $95,000  
 **List Date:** 9/23/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/22/2013 11:59:59 PM  CT  
+**Period Deadline:** 10/22/2013 11:59:59   CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/09/2013
@@ -149,7 +162,7 @@
 **Price:** $13,500  
 **List Date:** 9/07/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/5/2014 11:59:59   CT  
+**Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 10/09/2013
@@ -162,7 +175,7 @@
 **Price:** $52,000  
 **List Date:** 9/04/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/2/2014 11:59:59   CT  
+**Period Deadline:** 3/2/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 10/09/2013
