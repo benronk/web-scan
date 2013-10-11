@@ -1,14 +1,53 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568503" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568503)  
+**428 Bell St Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568503), [Google Maps](http://maps.google.com/maps?q=428+Bell+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/428+Bell+St+Barberton%2C+OH%2C+44203/)  
+**Price:** $30,100  
+**List Date:** 10/10/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/24/2013 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/11/2013
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506656" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656)  
+**1350 Andrus Street Akron, OH, 44301**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506656), [Google Maps](http://maps.google.com/maps?q=1350+Andrus+Street+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1350+Andrus+Street+Akron%2C+OH%2C+44301/)  
+**Price:** $17,100  
+**List Date:** 10/10/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/17/2014 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 10/11/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504102" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102)  
 **127 Marvin Avenue Akron, OH, 44302**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102), [Google Maps](http://maps.google.com/maps?q=127+Marvin+Avenue+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/127+Marvin+Avenue+Akron%2C+OH%2C+44302/)  
 **Price:** $35,000  
 **List Date:** 10/10/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/14/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
+**Bid Open Date:** 10/11/2013
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501411" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411)  
+**3791 Lee Ann Dr Norton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411), [Google Maps](http://maps.google.com/maps?q=3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203/)  
+**Price:** $54,900  
+**List Date:** 10/10/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/16/2014 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/11/2013
 
 ***
@@ -52,14 +91,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-471427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-471427)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-471427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-471427)  
 **832 Caddo Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-471427), [Google Maps](http://maps.google.com/maps?q=832+Caddo+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/832+Caddo+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $21,000  
 **List Date:** 10/04/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 10/10/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/11/2013
 
@@ -195,14 +234,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617140" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617140" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140)  
 **1965 Auten Drive Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140), [Google Maps](http://maps.google.com/maps?q=1965+Auten+Drive+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/1965+Auten+Drive+Akron%2C+OH%2C+44320/)  
 **Price:** $52,000  
 **List Date:** 9/04/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/2/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 10/11/2013
 
