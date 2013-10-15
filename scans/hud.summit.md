@@ -130,19 +130,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-443990" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-443990)  
-**1371 Easton Drive Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-443990), [Google Maps](http://maps.google.com/maps?q=1371+Easton+Drive+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1371+Easton+Drive+Akron%2C+OH%2C+44310/)  
-**Price:** $28,000  
-**List Date:** 10/01/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/30/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/16/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
 **62 Canter Ln #B Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
@@ -152,19 +139,6 @@
 **Period Deadline:** 10/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 10/16/2013
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-503231" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503231)  
-**2206 Norman Dr Stow, OH, 44224**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503231), [Google Maps](http://maps.google.com/maps?q=2206+Norman+Dr+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2206+Norman+Dr+Stow%2C+OH%2C+44224/)  
-**Price:** $95,000  
-**List Date:** 9/23/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/22/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/16/2013
 
 ***
