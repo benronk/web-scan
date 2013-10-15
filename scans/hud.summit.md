@@ -9,7 +9,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Pending Bid Opening - New bids are still being accepted at this time, but there are bids from previous bid periods that need to be reviewed before your bid can be considered.  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -22,7 +22,7 @@
 **Period Deadline:** 2/17/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -31,11 +31,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504102), [Google Maps](http://maps.google.com/maps?q=127+Marvin+Avenue+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/127+Marvin+Avenue+Akron%2C+OH%2C+44302/)  
 **Price:** $35,000  
 **List Date:** 10/10/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/14/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/19/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -61,7 +61,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 2/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 10/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 10/31/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 10/30/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 10/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 10/22/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 10/23/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 3/17/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 3/12/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 3/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 

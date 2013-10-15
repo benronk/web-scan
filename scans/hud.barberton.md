@@ -9,7 +9,7 @@
 **Period Deadline:** 11/24/2013 11:59:59 PM  CT  
 **Status:** Pending Bid Opening - New bids are still being accepted at this time, but there are bids from previous bid periods that need to be reviewed before your bid can be considered.  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/15/2013
+**Bid Open Date:** 10/16/2013
 
 ***
 
