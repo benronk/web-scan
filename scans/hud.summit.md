@@ -13,19 +13,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-562106" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562106)  
-**240 Lownsdale Avenue Akron, OH, 44313**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-562106), [Google Maps](http://maps.google.com/maps?q=240+Lownsdale+Avenue+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/240+Lownsdale+Avenue+Akron%2C+OH%2C+44313/)  
-**Price:** $45,000  
-**List Date:** 10/16/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/20/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 10/18/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-551428" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551428)  
 **2164 Beechtree Driv Uniontown, OH, 44685**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551428), [Google Maps](http://maps.google.com/maps?q=2164+Beechtree+Driv+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/2164+Beechtree+Driv+Uniontown%2C+OH%2C+44685/)  
