@@ -221,16 +221,3 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617140" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140)  
-**1965 Auten Drive Akron, OH, 44320**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140), [Google Maps](http://maps.google.com/maps?q=1965+Auten+Drive+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/1965+Auten+Drive+Akron%2C+OH%2C+44320/)  
-**Price:** $52,000  
-**List Date:** 9/04/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/2/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/23/2013
-
-***
-
