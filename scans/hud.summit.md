@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617140" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140)  
+**1965 Auten Drive Akron, OH, 44320**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140), [Google Maps](http://maps.google.com/maps?q=1965+Auten+Drive+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/1965+Auten+Drive+Akron%2C+OH%2C+44320/)  
+**Price:** $45,760  
+**List Date:** 10/23/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/4/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 10/24/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558398" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558398)  
 **1973 Sedro St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558398), [Google Maps](http://maps.google.com/maps?q=1973+Sedro+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1973+Sedro+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -87,7 +100,7 @@
 **Period Deadline:** 2/17/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/23/2013
+**Bid Open Date:** 10/24/2013
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/23/2013
+**Bid Open Date:** 10/24/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 11/7/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/23/2013
+**Bid Open Date:** 10/24/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 4/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/23/2013
+**Bid Open Date:** 10/24/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 2/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/23/2013
+**Bid Open Date:** 10/24/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 10/31/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/23/2013
+**Bid Open Date:** 10/24/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 10/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 10/23/2013
+**Bid Open Date:** 10/24/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 3/17/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 10/23/2013
+**Bid Open Date:** 10/24/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 3/12/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/23/2013
+**Bid Open Date:** 10/24/2013
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/23/2013
+**Bid Open Date:** 10/24/2013
 
 ***
 
