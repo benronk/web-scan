@@ -52,27 +52,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-551428" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551428)  
-**2164 Beechtree Driv Uniontown, OH, 44685**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551428), [Google Maps](http://maps.google.com/maps?q=2164+Beechtree+Driv+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/2164+Beechtree+Driv+Uniontown%2C+OH%2C+44685/)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-551428" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551428)  
+**2164 Beechtree Drive #24 Uniontown, OH, 44685**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551428), [Google Maps](http://maps.google.com/maps?q=2164+Beechtree+Drive+%2324+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/2164+Beechtree+Drive+%2324+Uniontown%2C+OH%2C+44685/)  
 **Price:** $66,000  
 **List Date:** 10/16/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 11/14/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.10  
 **Bid Open Date:** 10/26/2013
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501645" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501645)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501645" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501645)  
 **3064 7th St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501645), [Google Maps](http://maps.google.com/maps?q=3064+7th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3064+7th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $55,000  
 **List Date:** 10/16/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 11/14/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/26/2013
 
