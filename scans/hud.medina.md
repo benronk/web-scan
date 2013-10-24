@@ -22,7 +22,7 @@
 **Period Deadline:** 1/29/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 11/6/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 

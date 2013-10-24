@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-549897" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897)  
+**451 Ripley Ave Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897), [Google Maps](http://maps.google.com/maps?q=451+Ripley+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/451+Ripley+Ave+Akron%2C+OH%2C+44312/)  
+**Price:** $45,000  
+**List Date:** 10/24/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 11/12/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 10/25/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617140" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140)  
 **1965 Auten Drive Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140), [Google Maps](http://maps.google.com/maps?q=1965+Auten+Drive+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/1965+Auten+Drive+Akron%2C+OH%2C+44320/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 3/4/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
@@ -39,16 +52,16 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-551451" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551451)  
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-551451" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551451)  
 **1930 High St. Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551451), [Google Maps](http://maps.google.com/maps?q=1930+High+St.+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1930+High+St.+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $26,000  
 **List Date:** 10/17/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 10/23/2013 11:59:59 PM  CT  
-**Status:**   
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/28/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/29/2013
 
 ***
 
@@ -65,16 +78,16 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501307" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501307)  
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501307" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501307)  
 **587 East Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501307), [Google Maps](http://maps.google.com/maps?q=587+East+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/587+East+Ave+Akron%2C+OH%2C+44320/)  
 **Price:** $13,000  
 **List Date:** 10/17/2013  
-**Listing Period:** Lottery (Good Neighbor Next Door Participants Only)  
-**Period Deadline:** 10/23/2013 11:59:59 PM  CT  
-**Status:**   
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 11/22/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 11/03/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 2/17/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 11/7/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 4/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 2/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 10/31/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
@@ -187,11 +200,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
 **Price:** $77,000  
 **List Date:** 10/01/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/23/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/22/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 3/17/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 3/12/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/24/2013
+**Bid Open Date:** 10/25/2013
 
 ***
 
