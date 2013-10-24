@@ -1,13 +1,13 @@
 # Medina County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548023" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548023)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548023" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548023)  
 **510 W Smith Road Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548023), [Google Maps](http://maps.google.com/maps?q=510+W+Smith+Road+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/510+W+Smith+Road+Medina%2C+OH%2C+44256/)  
 **Price:** $55,000  
 **List Date:** 10/23/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 11/21/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 11/02/2013
 

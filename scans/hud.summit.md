@@ -1,15 +1,28 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617140" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617140" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140)  
 **1965 Auten Drive Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140), [Google Maps](http://maps.google.com/maps?q=1965+Auten+Drive+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/1965+Auten+Drive+Akron%2C+OH%2C+44320/)  
 **Price:** $45,760  
 **List Date:** 10/23/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/4/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 10/24/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-531554" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-531554)  
+**537 E Buchtel Ave Akron, OH, 44304**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-531554), [Google Maps](http://maps.google.com/maps?q=537+E+Buchtel+Ave+Akron%2C+OH%2C+44304), [Zillow](http://www.zillow.com/homes/537+E+Buchtel+Ave+Akron%2C+OH%2C+44304/)  
+**Price:** $23,000  
+**List Date:** 10/23/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 10/29/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/3.00  
+**Bid Open Date:** 10/30/2013
 
 ***
 
@@ -26,14 +39,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-551451" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551451)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-551451" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551451)  
 **1930 High St. Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551451), [Google Maps](http://maps.google.com/maps?q=1930+High+St.+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1930+High+St.+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $26,000  
 **List Date:** 10/17/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 10/23/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 10/24/2013
 
@@ -52,14 +65,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501307" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501307)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501307" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501307)  
 **587 East Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501307), [Google Maps](http://maps.google.com/maps?q=587+East+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/587+East+Ave+Akron%2C+OH%2C+44320/)  
 **Price:** $13,000  
 **List Date:** 10/17/2013  
 **Listing Period:** Lottery (Good Neighbor Next Door Participants Only)  
 **Period Deadline:** 10/23/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 10/24/2013
 
