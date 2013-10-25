@@ -1,13 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-549897" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-561854" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561854)  
+**629 Fairwood Road New Franklin, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561854), [Google Maps](http://maps.google.com/maps?q=629+Fairwood+Road+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/629+Fairwood+Road+New+Franklin%2C+OH%2C+44319/)  
+**Price:** $76,000  
+**List Date:** 10/24/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 11/22/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 11/03/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-549897" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897)  
 **451 Ripley Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897), [Google Maps](http://maps.google.com/maps?q=451+Ripley+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/451+Ripley+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $45,000  
 **List Date:** 10/24/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 11/12/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 10/25/2013
 
@@ -39,14 +52,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558398" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558398)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558398" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558398)  
 **1973 Sedro St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558398), [Google Maps](http://maps.google.com/maps?q=1973+Sedro+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1973+Sedro+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $66,000  
 **List Date:** 10/18/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 11/16/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 10/28/2013
 
@@ -195,14 +208,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
 **62 Canter Ln #B Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
 **Price:** $77,000  
 **List Date:** 10/01/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/22/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.10  
 **Bid Open Date:** 10/25/2013
 
