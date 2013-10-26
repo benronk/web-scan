@@ -169,6 +169,19 @@
 
 ***
 
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-546514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514)  
+**7275 Bristol Ct Northfield, OH, 44067**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546514), [Google Maps](http://maps.google.com/maps?q=7275+Bristol+Ct+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/7275+Bristol+Ct+Northfield%2C+OH%2C+44067/)  
+**Price:** $68,400  
+**List Date:** 10/09/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/19/2014 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/26/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-491129" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-491129)  
 **1933 Goodyear Blvd Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-491129), [Google Maps](http://maps.google.com/maps?q=1933+Goodyear+Blvd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1933+Goodyear+Blvd+Akron%2C+OH%2C+44305/)  
