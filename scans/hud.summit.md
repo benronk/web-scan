@@ -104,19 +104,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506204" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506204)  
-**2636 Robindale Ave Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506204), [Google Maps](http://maps.google.com/maps?q=2636+Robindale+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2636+Robindale+Ave+Akron%2C+OH%2C+44312/)  
-**Price:** $25,000  
-**List Date:** 10/17/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 11/15/2013 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/29/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501307" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501307)  
 **587 East Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501307), [Google Maps](http://maps.google.com/maps?q=587+East+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/587+East+Ave+Akron%2C+OH%2C+44320/)  
