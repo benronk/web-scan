@@ -260,16 +260,3 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-657164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164)  
-**965 Hunt Street Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164), [Google Maps](http://maps.google.com/maps?q=965+Hunt+Street+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/965+Hunt+Street+Akron%2C+OH%2C+44306/)  
-**Price:** $22,000  
-**List Date:** 9/14/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/12/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/31/2013
-
-***
-
