@@ -1,18 +1,5 @@
 # Medina County HUD Homes
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534668" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534668)  
-**333 N Main St Spencer, OH, 44275**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534668), [Google Maps](http://maps.google.com/maps?q=333+N+Main+St+Spencer%2C+OH%2C+44275), [Zillow](http://www.zillow.com/homes/333+N+Main+St+Spencer%2C+OH%2C+44275/)  
-**Price:** $48,000  
-**List Date:** 10/26/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 11/1/2013 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/02/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-630463" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-630463)  
 **853 Laurel Glens Dr Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-630463), [Google Maps](http://maps.google.com/maps?q=853+Laurel+Glens+Dr+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/853+Laurel+Glens+Dr+Medina%2C+OH%2C+44256/)  
