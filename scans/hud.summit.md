@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-654959" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654959)  
+**2560 Celia Dr Stow, OH, 44224**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654959), [Google Maps](http://maps.google.com/maps?q=2560+Celia+Dr+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2560+Celia+Dr+Stow%2C+OH%2C+44224/)  
+**Price:** $97,000  
+**List Date:** 11/01/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 11/30/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 11/11/2013
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442231" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442231)  
 **605 Roslyn Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442231), [Google Maps](http://maps.google.com/maps?q=605+Roslyn+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/605+Roslyn+Ave+Akron%2C+OH%2C+44320/)  
@@ -247,14 +260,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522346" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522346)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522346" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522346)  
 **807 Viewpoint Avenue Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522346), [Google Maps](http://maps.google.com/maps?q=807+Viewpoint+Avenue+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/807+Viewpoint+Avenue+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $45,000  
 **List Date:** 10/02/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/30/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 11/02/2013
 
