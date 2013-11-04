@@ -22,7 +22,7 @@
 **Period Deadline:** 11/19/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.10  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 3/14/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -44,11 +44,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554173), [Google Maps](http://maps.google.com/maps?q=384+Lansing+Road+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/384+Lansing+Road+Akron%2C+OH%2C+44312/)  
 **Price:** $47,000  
 **List Date:** 10/30/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 11/3/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/26/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -87,7 +87,7 @@
 **Period Deadline:** 1/31/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 3/7/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 11/22/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 11/12/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 3/4/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -148,11 +148,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-531554), [Google Maps](http://maps.google.com/maps?q=537+E+Buchtel+Ave+Akron%2C+OH%2C+44304), [Zillow](http://www.zillow.com/homes/537+E+Buchtel+Ave+Akron%2C+OH%2C+44304/)  
 **Price:** $23,000  
 **List Date:** 10/23/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 11/3/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 4/20/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/3.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 11/22/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 11/14/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.10  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 2/17/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 2/19/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 11/7/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 4/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 2/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 3/30/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -282,7 +282,7 @@
 **Period Deadline:** 3/22/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
@@ -295,7 +295,7 @@
 **Period Deadline:** 3/17/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 11/04/2013
+**Bid Open Date:** 11/05/2013
 
 ***
 
