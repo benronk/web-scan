@@ -247,16 +247,3 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
-**62 Canter Ln #B Northfield, OH, 44067**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
-**Price:** $77,000  
-**List Date:** 10/01/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/22/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.10  
-**Bid Open Date:** 11/09/2013
-
-***
-
