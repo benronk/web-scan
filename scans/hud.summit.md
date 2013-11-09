@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-579795" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579795)  
+**3195 Wexford Blvd Stow, OH, 44224**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579795), [Google Maps](http://maps.google.com/maps?q=3195+Wexford+Blvd+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/3195+Wexford+Blvd+Stow%2C+OH%2C+44224/)  
+**Price:** $130,000  
+**List Date:** 11/08/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 12/7/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/2.10  
+**Bid Open Date:** 11/18/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-530616" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-530616)  
+**922 Morningstar Dr Akron, OH, 44307**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-530616), [Google Maps](http://maps.google.com/maps?q=922+Morningstar+Dr+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/922+Morningstar+Dr+Akron%2C+OH%2C+44307/)  
+**Price:** $63,000  
+**List Date:** 11/08/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 12/7/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 11/18/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-583651" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-583651)  
 **2069 18th Street SW Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-583651), [Google Maps](http://maps.google.com/maps?q=2069+18th+Street+SW+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2069+18th+Street+SW+Akron%2C+OH%2C+44314/)  
