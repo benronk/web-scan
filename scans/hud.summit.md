@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944)  
+**1286 Sevilla Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944), [Google Maps](http://maps.google.com/maps?q=1286+Sevilla+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1286+Sevilla+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $16,000  
+**List Date:** 11/12/2013  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 11/18/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 11/19/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
 **62 Canter Ln #B Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
@@ -117,14 +130,14 @@
 
 ***
 
-[<img alt="Pending Bid Opening - New bids are still being accepted at this time, but there are bids from previous bid periods that need to be reviewed before your bid can be considered." src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617140" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617140" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140)  
 **1965 Auten Drive Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617140), [Google Maps](http://maps.google.com/maps?q=1965+Auten+Drive+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/1965+Auten+Drive+Akron%2C+OH%2C+44320/)  
 **Price:** $45,760  
 **List Date:** 10/23/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/4/2014 11:59:59 PM  CT  
-**Status:** Pending Bid Opening - New bids are still being accepted at this time, but there are bids from previous bid periods that need to be reviewed before your bid can be considered.  
+**Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 11/13/2013
 
@@ -208,14 +221,14 @@
 
 ***
 
-[<img alt="Pending Bid Opening - New bids are still being accepted at this time, but there are bids from previous bid periods that need to be reviewed before your bid can be considered." src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534550" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534550" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550)  
 **106 Van Buren Ave Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550), [Google Maps](http://maps.google.com/maps?q=106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $93,600  
 **List Date:** 10/03/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/13/2014 11:59:59 PM  CT  
-**Status:** Pending Bid Opening - New bids are still being accepted at this time, but there are bids from previous bid periods that need to be reviewed before your bid can be considered.  
+**Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 11/13/2013
 
@@ -230,6 +243,19 @@
 **Period Deadline:** 3/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
+**Bid Open Date:** 11/13/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564057" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057)  
+**918 Saxon Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057), [Google Maps](http://maps.google.com/maps?q=918+Saxon+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/918+Saxon+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $22,000  
+**List Date:** 9/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 11/29/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 11/13/2013
 
 ***
