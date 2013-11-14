@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-556227" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556227)  
+**414 Celtic Street Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556227), [Google Maps](http://maps.google.com/maps?q=414+Celtic+Street+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/414+Celtic+Street+Akron%2C+OH%2C+44314/)  
+**Price:** $20,000  
+**List Date:** 11/13/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 12/12/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 11/23/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-518037" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-518037)  
+**3832 Hile Rd Stow, OH, 44224**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-518037), [Google Maps](http://maps.google.com/maps?q=3832+Hile+Rd+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/3832+Hile+Rd+Stow%2C+OH%2C+44224/)  
+**Price:** $38,000  
+**List Date:** 11/13/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 12/12/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.10  
+**Bid Open Date:** 11/23/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944)  
 **1286 Sevilla Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944), [Google Maps](http://maps.google.com/maps?q=1286+Sevilla+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1286+Sevilla+Ave+Akron%2C+OH%2C+44314/)  
@@ -52,14 +78,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-583651" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-583651)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-583651" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-583651)  
 **2069 18th Street SW Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-583651), [Google Maps](http://maps.google.com/maps?q=2069+18th+Street+SW+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2069+18th+Street+SW+Akron%2C+OH%2C+44314/)  
 **Price:** $17,000  
 **List Date:** 11/07/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 11/13/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 11/14/2013
 
@@ -104,14 +130,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-549897" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-549897" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897)  
 **451 Ripley Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897), [Google Maps](http://maps.google.com/maps?q=451+Ripley+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/451+Ripley+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $45,000  
 **List Date:** 10/24/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 4/11/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 11/14/2013
 
