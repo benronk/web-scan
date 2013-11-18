@@ -169,19 +169,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-551428" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551428)  
-**2164 Beechtree Drive #24 Uniontown, OH, 44685**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551428), [Google Maps](http://maps.google.com/maps?q=2164+Beechtree+Drive+%2324+Uniontown%2C+OH%2C+44685), [Zillow](http://www.zillow.com/homes/2164+Beechtree+Drive+%2324+Uniontown%2C+OH%2C+44685/)  
-**Price:** $66,000  
-**List Date:** 10/16/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 4/13/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/2.10  
-**Bid Open Date:** 11/18/2013
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501411" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411)  
 **3791 Lee Ann Dr Norton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411), [Google Maps](http://maps.google.com/maps?q=3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203/)  
