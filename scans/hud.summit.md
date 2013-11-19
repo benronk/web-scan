@@ -1,13 +1,39 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554785" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554785)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-625770" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-625770)  
+**2231 Sutton Dr Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-625770), [Google Maps](http://maps.google.com/maps?q=2231+Sutton+Dr+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2231+Sutton+Dr+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $56,000  
+**List Date:** 11/18/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 12/17/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 11/28/2013
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554785" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554785)  
 **88 Ido Avenue Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554785), [Google Maps](http://maps.google.com/maps?q=88+Ido+Avenue+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/88+Ido+Avenue+Akron%2C+OH%2C+44301/)  
 **Price:** $15,000  
 **List Date:** 11/18/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 12/17/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 11/28/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553264" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553264)  
+**2239 SW 25th Street Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553264), [Google Maps](http://maps.google.com/maps?q=2239+SW+25th+Street+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2239+SW+25th+Street+Akron%2C+OH%2C+44314/)  
+**Price:** $22,000  
+**List Date:** 11/18/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 12/17/2013 11:59:59 PM  CT  
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 11/28/2013
 
@@ -65,14 +91,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944)  
 **1286 Sevilla Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944), [Google Maps](http://maps.google.com/maps?q=1286+Sevilla+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1286+Sevilla+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $16,000  
 **List Date:** 11/12/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 11/18/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 11/19/2013
 
@@ -208,14 +234,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564057" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564057" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057)  
 **918 Saxon Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057), [Google Maps](http://maps.google.com/maps?q=918+Saxon+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/918+Saxon+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $22,000  
 **List Date:** 9/11/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 11/29/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 11/19/2013
 
