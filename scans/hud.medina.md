@@ -1,13 +1,13 @@
 # Medina County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516234" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516234)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516234" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516234)  
 **1085 Oakbrooke Drive Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516234), [Google Maps](http://maps.google.com/maps?q=1085+Oakbrooke+Drive+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/1085+Oakbrooke+Drive+Medina%2C+OH%2C+44256/)  
 **Price:** $113,500  
 **List Date:** 11/20/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 12/19/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 11/30/2013
 
