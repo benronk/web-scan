@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-561854" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561854)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-561854" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561854)  
 **629 Fairwood Road New Franklin, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561854), [Google Maps](http://maps.google.com/maps?q=629+Fairwood+Road+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/629+Fairwood+Road+New+Franklin%2C+OH%2C+44319/)  
 **Price:** $76,000  
 **List Date:** 11/23/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 12/2/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 11/24/2013
 
