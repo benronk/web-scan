@@ -130,19 +130,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-503516" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503516)  
-**965 Dan St Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503516), [Google Maps](http://maps.google.com/maps?q=965+Dan+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/965+Dan+St+Akron%2C+OH%2C+44310/)  
-**Price:** $25,000  
-**List Date:** 11/15/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 12/14/2013 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 4/1.10  
-**Bid Open Date:** 11/26/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944)  
 **1286 Sevilla Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944), [Google Maps](http://maps.google.com/maps?q=1286+Sevilla+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1286+Sevilla+Ave+Akron%2C+OH%2C+44314/)  
