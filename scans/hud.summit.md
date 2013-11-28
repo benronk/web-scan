@@ -9,7 +9,7 @@
 **Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 3/8/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 12/14/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.10  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 4/17/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -87,20 +87,20 @@
 **Period Deadline:** 4/2/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-396485" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-396485)  
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-396485" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-396485)  
 **878 Shoshone Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-396485), [Google Maps](http://maps.google.com/maps?q=878+Shoshone+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/878+Shoshone+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $19,000  
 **List Date:** 11/21/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 11/27/2013 11:59:59 PM  CT  
-**Status:**   
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 12/2/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 12/03/2013
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 4/2/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 12/17/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 12/17/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 12/17/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 2/14/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 5/10/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 3/23/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 3/14/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 4/14/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 11/29/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 12/7/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 11/28/2013
+**Bid Open Date:** 11/29/2013
 
 ***
 
