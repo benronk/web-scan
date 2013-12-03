@@ -91,19 +91,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-549897" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897)  
-**451 Ripley Ave Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549897), [Google Maps](http://maps.google.com/maps?q=451+Ripley+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/451+Ripley+Ave+Akron%2C+OH%2C+44312/)  
-**Price:** $45,000  
-**List Date:** 11/21/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 4/17/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 4/1.00  
-**Bid Open Date:** 12/04/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-396485" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-396485)  
 **878 Shoshone Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-396485), [Google Maps](http://maps.google.com/maps?q=878+Shoshone+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/878+Shoshone+Ave+Akron%2C+OH%2C+44305/)  
