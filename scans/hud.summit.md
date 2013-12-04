@@ -91,19 +91,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-503516" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503516)  
-**965 Dan St Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-503516), [Google Maps](http://maps.google.com/maps?q=965+Dan+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/965+Dan+St+Akron%2C+OH%2C+44310/)  
-**Price:** $25,000  
-**List Date:** 11/25/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 5/13/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 4/1.10  
-**Bid Open Date:** 12/05/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-612420" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-612420)  
 **10586 Connecticut St Aurora, OH, 44202**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-612420), [Google Maps](http://maps.google.com/maps?q=10586+Connecticut+St+Aurora%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10586+Connecticut+St+Aurora%2C+OH%2C+44202/)  
