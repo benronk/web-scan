@@ -9,7 +9,7 @@
 **Period Deadline:** 3/14/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 12/7/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
@@ -57,11 +57,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550), [Google Maps](http://maps.google.com/maps?q=106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $75,816  
 **List Date:** 11/30/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 12/4/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 3/8/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 5/20/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 5/19/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 4/2/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 5/16/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 5/10/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 3/23/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 4/28/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/05/2013
+**Bid Open Date:** 12/06/2013
 
 ***
 
