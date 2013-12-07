@@ -195,14 +195,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564057" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564057" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057)  
 **918 Saxon Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057), [Google Maps](http://maps.google.com/maps?q=918+Saxon+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/918+Saxon+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $22,000  
 **List Date:** 9/11/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 4/28/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 12/09/2013
 
