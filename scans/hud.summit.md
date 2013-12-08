@@ -57,8 +57,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501307), [Google Maps](http://maps.google.com/maps?q=587+East+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/587+East+Ave+Akron%2C+OH%2C+44320/)  
 **Price:** $8,000  
 **List Date:** 12/03/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 12/7/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 4/15/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 12/09/2013
