@@ -143,19 +143,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-612420" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-612420)  
-**10586 Connecticut St Aurora, OH, 44202**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-612420), [Google Maps](http://maps.google.com/maps?q=10586+Connecticut+St+Aurora%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10586+Connecticut+St+Aurora%2C+OH%2C+44202/)  
-**Price:** $51,000  
-**List Date:** 11/22/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 5/20/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/11/2013
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522346" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522346)  
 **807 Viewpoint Avenue Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522346), [Google Maps](http://maps.google.com/maps?q=807+Viewpoint+Avenue+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/807+Viewpoint+Avenue+Cuyahoga+Falls%2C+OH%2C+44221/)  
