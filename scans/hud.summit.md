@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622)  
+**2445 Talbot St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622), [Google Maps](http://maps.google.com/maps?q=2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $46,000  
+**List Date:** 12/09/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 12/23/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 12/19/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-653954" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-653954)  
 **537 Wesleyan Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-653954), [Google Maps](http://maps.google.com/maps?q=537+Wesleyan+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/537+Wesleyan+Ave+Barberton%2C+OH%2C+44203/)  
@@ -65,14 +78,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-449983" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-449983)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-449983" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-449983)  
 **116 Donovan Street Mogadore, OH, 44260**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-449983), [Google Maps](http://maps.google.com/maps?q=116+Donovan+Street+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/116+Donovan+Street+Mogadore%2C+OH%2C+44260/)  
 **Price:** $65,000  
 **List Date:** 12/03/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 12/17/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 12/13/2013
 
@@ -156,14 +169,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553264" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553264)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553264" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553264)  
 **2239 SW 25th Street Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553264), [Google Maps](http://maps.google.com/maps?q=2239+SW+25th+Street+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2239+SW+25th+Street+Akron%2C+OH%2C+44314/)  
 **Price:** $22,000  
 **List Date:** 11/18/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 5/16/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 12/10/2013
 
