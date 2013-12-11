@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
+**62 Canter Ln #B Northfield, OH, 44067**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
+**Price:** $62,370  
+**List Date:** 12/11/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 12/15/2013 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.10  
+**Bid Open Date:** 12/12/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622)  
 **2445 Talbot St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622), [Google Maps](http://maps.google.com/maps?q=2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -48,7 +61,7 @@
 **Period Deadline:** 3/14/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/11/2013
+**Bid Open Date:** 12/12/2013
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 4/15/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 12/11/2013
+**Bid Open Date:** 12/12/2013
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/11/2013
+**Bid Open Date:** 12/12/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/11/2013
+**Bid Open Date:** 12/12/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 12/11/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 12/11/2013
+**Bid Open Date:** 12/12/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 3/8/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/11/2013
+**Bid Open Date:** 12/12/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 4/2/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/11/2013
+**Bid Open Date:** 12/12/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 5/16/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/11/2013
+**Bid Open Date:** 12/12/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 5/10/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/11/2013
+**Bid Open Date:** 12/12/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 4/28/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/11/2013
+**Bid Open Date:** 12/12/2013
 
 ***
 
