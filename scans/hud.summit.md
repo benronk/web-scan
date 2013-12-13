@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-551060" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551060)  
+**1294 Kentucky Avenue Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551060), [Google Maps](http://maps.google.com/maps?q=1294+Kentucky+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1294+Kentucky+Avenue+Akron%2C+OH%2C+44314/)  
+**Price:** $25,000  
+**List Date:** 12/13/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 12/27/2013 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 12/23/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559484" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484)  
 **600 Cora Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559484), [Google Maps](http://maps.google.com/maps?q=600+Cora+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/600+Cora+Ave+Akron%2C+OH%2C+44312/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 12/16/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 12/13/2013
+**Bid Open Date:** 12/16/2013
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 12/15/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 12/13/2013
+**Bid Open Date:** 12/16/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 3/14/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/13/2013
+**Bid Open Date:** 12/16/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 12/17/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/13/2013
+**Bid Open Date:** 12/16/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/13/2013
+**Bid Open Date:** 12/16/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/13/2013
+**Bid Open Date:** 12/16/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 5/25/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 12/13/2013
+**Bid Open Date:** 12/16/2013
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 3/8/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/13/2013
+**Bid Open Date:** 12/16/2013
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 5/10/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/13/2013
+**Bid Open Date:** 12/16/2013
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 4/28/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/13/2013
+**Bid Open Date:** 12/16/2013
 
 ***
 
