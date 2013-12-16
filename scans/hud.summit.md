@@ -48,7 +48,7 @@
 **Period Deadline:** 12/16/2013 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 12/16/2013
+**Bid Open Date:** 12/17/2013
 
 ***
 
@@ -96,11 +96,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
 **Price:** $62,370  
 **List Date:** 12/11/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 12/15/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/24/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 12/16/2013
+**Bid Open Date:** 12/17/2013
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 12/19/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 12/16/2013
+**Bid Open Date:** 12/17/2013
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 3/14/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/16/2013
+**Bid Open Date:** 12/17/2013
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 12/18/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 12/16/2013
+**Bid Open Date:** 12/17/2013
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 2/15/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/16/2013
+**Bid Open Date:** 12/17/2013
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 2/16/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/16/2013
+**Bid Open Date:** 12/17/2013
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 5/25/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 12/16/2013
+**Bid Open Date:** 12/17/2013
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 3/8/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/16/2013
+**Bid Open Date:** 12/17/2013
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 5/10/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/16/2013
+**Bid Open Date:** 12/17/2013
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 4/28/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/16/2013
+**Bid Open Date:** 12/17/2013
 
 ***
 
