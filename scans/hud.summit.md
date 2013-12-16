@@ -104,14 +104,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622)  
 **2445 Talbot St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622), [Google Maps](http://maps.google.com/maps?q=2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $46,000  
 **List Date:** 12/09/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 12/23/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 12/19/2013
 
