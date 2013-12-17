@@ -31,11 +31,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-653954), [Google Maps](http://maps.google.com/maps?q=537+Wesleyan+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/537+Wesleyan+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $22,000  
 **List Date:** 12/05/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 12/16/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 6/2/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/17/2013
+**Bid Open Date:** 12/18/2013
 
 ***
 
