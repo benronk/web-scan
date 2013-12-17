@@ -169,19 +169,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534550" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550)  
-**106 Van Buren Ave Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534550), [Google Maps](http://maps.google.com/maps?q=106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/106+Van+Buren+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $75,816  
-**List Date:** 11/30/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/15/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/18/2013
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
 **1153 S Munroe Rd Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
