@@ -1,13 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384781" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384781)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564057" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057)  
+**918 Saxon Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057), [Google Maps](http://maps.google.com/maps?q=918+Saxon+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/918+Saxon+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $19,800  
+**List Date:** 12/18/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 4/28/2014 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 12/19/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384781" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384781)  
 **421 Dayton St Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384781), [Google Maps](http://maps.google.com/maps?q=421+Dayton+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/421+Dayton+St+Akron%2C+OH%2C+44310/)  
 **Price:** $17,000  
 **List Date:** 12/18/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 12/24/2013 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 12/26/2013
 
@@ -104,14 +117,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555243" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555243)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555243" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555243)  
 **46 24th St NW Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555243), [Google Maps](http://maps.google.com/maps?q=46+24th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/46+24th+St+NW+Barberton%2C+OH%2C+44203/)  
 **Price:** $23,000  
 **List Date:** 12/12/2013  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 12/26/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 12/23/2013
 
@@ -195,14 +208,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
 **1153 S Munroe Rd Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
 **Price:** $131,000  
 **List Date:** 11/27/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 5/25/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 12/19/2013
 
@@ -216,6 +229,19 @@
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/8/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 12/19/2013
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944)  
+**1286 Sevilla Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944), [Google Maps](http://maps.google.com/maps?q=1286+Sevilla+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1286+Sevilla+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $16,000  
+**List Date:** 11/12/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 5/11/2014 11:59:59 PM  CT  
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 12/19/2013
 
