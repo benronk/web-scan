@@ -9,7 +9,7 @@
 **Period Deadline:** 4/28/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/19/2013
+**Bid Open Date:** 12/20/2013
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 5/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 12/19/2013
+**Bid Open Date:** 12/20/2013
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 3/24/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 12/19/2013
+**Bid Open Date:** 12/20/2013
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 12/23/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/19/2013
+**Bid Open Date:** 12/20/2013
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 6/2/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/19/2013
+**Bid Open Date:** 12/20/2013
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 3/14/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/19/2013
+**Bid Open Date:** 12/20/2013
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 5/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 12/19/2013
+**Bid Open Date:** 12/20/2013
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 3/8/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/19/2013
+**Bid Open Date:** 12/20/2013
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 5/11/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/19/2013
+**Bid Open Date:** 12/20/2013
 
 ***
 
