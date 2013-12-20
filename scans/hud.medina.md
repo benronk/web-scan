@@ -5,11 +5,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573487), [Google Maps](http://maps.google.com/maps?q=1077+E+Smith+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/1077+E+Smith+Rd+Medina%2C+OH%2C+44256/)  
 **Price:** $104,000  
 **List Date:** 12/05/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 12/19/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 6/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 12/20/2013
+**Bid Open Date:** 12/23/2013
 
 ***
 
@@ -22,7 +22,7 @@
 **Period Deadline:** 4/7/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/20/2013
+**Bid Open Date:** 12/23/2013
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 5/18/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/20/2013
+**Bid Open Date:** 12/23/2013
 
 ***
 
