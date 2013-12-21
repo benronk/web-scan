@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-493582" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-493582)  
+**374 E Catawba Ave Akron, OH, 44301**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-493582), [Google Maps](http://maps.google.com/maps?q=374+E+Catawba+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/374+E+Catawba+Ave+Akron%2C+OH%2C+44301/)  
+**Price:** $37,000  
+**List Date:** 12/20/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 1/3/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 12/30/2013
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564057" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057)  
 **918 Saxon Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564057), [Google Maps](http://maps.google.com/maps?q=918+Saxon+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/918+Saxon+Ave+Akron%2C+OH%2C+44314/)  
