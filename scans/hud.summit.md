@@ -26,14 +26,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384781" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384781)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384781" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384781)  
 **421 Dayton St Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384781), [Google Maps](http://maps.google.com/maps?q=421+Dayton+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/421+Dayton+St+Akron%2C+OH%2C+44310/)  
 **Price:** $17,000  
 **List Date:** 12/18/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 12/24/2013 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 12/26/2013
 
@@ -130,6 +130,32 @@
 
 ***
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622)  
+**2445 Talbot St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622), [Google Maps](http://maps.google.com/maps?q=2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $46,000  
+**List Date:** 12/09/2013  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 12/28/2013 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 12/26/2013
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501411" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411)  
+**3791 Lee Ann Dr Norton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411), [Google Maps](http://maps.google.com/maps?q=3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203/)  
+**Price:** $48,800  
+**List Date:** 11/29/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/22/2014 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 12/26/2013
+
+***
+
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
 **1153 S Munroe Rd Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
@@ -143,14 +169,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483944" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944)  
 **1286 Sevilla Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483944), [Google Maps](http://maps.google.com/maps?q=1286+Sevilla+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1286+Sevilla+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $16,000  
 **List Date:** 11/12/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 5/11/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 12/26/2013
 
