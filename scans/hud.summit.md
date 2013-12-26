@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-523980" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980)  
+**1119 Chandler Avenue Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980), [Google Maps](http://maps.google.com/maps?q=1119+Chandler+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1119+Chandler+Avenue+Akron%2C+OH%2C+44314/)  
+**Price:** $8,775  
+**List Date:** 12/26/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/9/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 12/27/2013
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-493582" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-493582)  
 **374 E Catawba Ave Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-493582), [Google Maps](http://maps.google.com/maps?q=374+E+Catawba+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/374+E+Catawba+Ave+Akron%2C+OH%2C+44301/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 4/28/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/26/2013
+**Bid Open Date:** 12/27/2013
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 12/30/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 12/26/2013
+**Bid Open Date:** 12/27/2013
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 12/27/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/26/2013
+**Bid Open Date:** 12/27/2013
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 5/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 12/26/2013
+**Bid Open Date:** 12/27/2013
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 12/26/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/26/2013
+**Bid Open Date:** 12/27/2013
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 12/28/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/26/2013
+**Bid Open Date:** 12/27/2013
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 2/22/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/26/2013
+**Bid Open Date:** 12/27/2013
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 5/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 12/26/2013
+**Bid Open Date:** 12/27/2013
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 5/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/26/2013
+**Bid Open Date:** 12/27/2013
 
 ***
 
