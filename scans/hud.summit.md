@@ -9,7 +9,7 @@
 **Period Deadline:** 3/9/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/27/2013
+**Bid Open Date:** 12/30/2013
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 4/28/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/27/2013
+**Bid Open Date:** 12/30/2013
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 12/31/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/27/2013
+**Bid Open Date:** 12/30/2013
 
 ***
 
@@ -87,7 +87,7 @@
 **Period Deadline:** 12/31/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/27/2013
+**Bid Open Date:** 12/30/2013
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 12/27/2013 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/27/2013
+**Bid Open Date:** 12/30/2013
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 5/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 12/27/2013
+**Bid Open Date:** 12/30/2013
 
 ***
 
@@ -135,11 +135,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555243), [Google Maps](http://maps.google.com/maps?q=46+24th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/46+24th+St+NW+Barberton%2C+OH%2C+44203/)  
 **Price:** $23,000  
 **List Date:** 12/12/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 12/26/2013 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 6/9/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/27/2013
+**Bid Open Date:** 12/30/2013
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 12/28/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/27/2013
+**Bid Open Date:** 12/30/2013
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 2/22/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/27/2013
+**Bid Open Date:** 12/30/2013
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 5/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 12/27/2013
+**Bid Open Date:** 12/30/2013
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 5/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/27/2013
+**Bid Open Date:** 12/30/2013
 
 ***
 
