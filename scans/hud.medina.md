@@ -1,18 +1,5 @@
 # Medina County HUD Homes
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-644562" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-644562)  
-**7233 Bear Swamp Road Wadsworth, OH, 44281**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-644562), [Google Maps](http://maps.google.com/maps?q=7233+Bear+Swamp+Road+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/7233+Bear+Swamp+Road+Wadsworth%2C+OH%2C+44281/)  
-**Price:** $51,000  
-**List Date:** 12/26/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 4/8/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/30/2013
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-573487" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573487)  
 **1077 E Smith Rd Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573487), [Google Maps](http://maps.google.com/maps?q=1077+E+Smith+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/1077+E+Smith+Rd+Medina%2C+OH%2C+44256/)  
