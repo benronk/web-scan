@@ -39,19 +39,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-501411" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411)  
-**3791 Lee Ann Dr Norton, OH, 44203**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-501411), [Google Maps](http://maps.google.com/maps?q=3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/3791+Lee+Ann+Dr+Norton%2C+OH%2C+44203/)  
-**Price:** $42,700  
-**List Date:** 12/27/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/22/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/31/2013
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-523980" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980)  
 **1119 Chandler Avenue Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-523980), [Google Maps](http://maps.google.com/maps?q=1119+Chandler+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1119+Chandler+Avenue+Akron%2C+OH%2C+44314/)  
@@ -152,19 +139,6 @@
 **Period Deadline:** 5/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 12/31/2013
-
-***
-
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555243" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555243)  
-**46 24th St NW Barberton, OH, 44203**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555243), [Google Maps](http://maps.google.com/maps?q=46+24th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/46+24th+St+NW+Barberton%2C+OH%2C+44203/)  
-**Price:** $23,000  
-**List Date:** 12/12/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 6/9/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
 **Bid Open Date:** 12/31/2013
 
 ***
