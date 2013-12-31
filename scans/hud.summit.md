@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-657164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164)  
+**965 Hunt Street Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164), [Google Maps](http://maps.google.com/maps?q=965+Hunt+Street+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/965+Hunt+Street+Akron%2C+OH%2C+44306/)  
+**Price:** $16,500  
+**List Date:** 12/31/2013  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/25/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 01/02/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488516" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488516)  
 **2995 Walbridge Dr Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488516), [Google Maps](http://maps.google.com/maps?q=2995+Walbridge+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/2995+Walbridge+Dr+Akron%2C+OH%2C+44319/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 5/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/31/2013
+**Bid Open Date:** 01/02/2014
 
 ***
 
@@ -48,7 +61,7 @@
 **Period Deadline:** 12/31/2013 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 12/31/2013
+**Bid Open Date:** 01/02/2014
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 3/9/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/31/2013
+**Bid Open Date:** 01/02/2014
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 6/15/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/31/2013
+**Bid Open Date:** 01/02/2014
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 12/31/2013 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 12/31/2013
+**Bid Open Date:** 01/02/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 1/3/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 12/31/2013
+**Bid Open Date:** 01/02/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 5/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 12/31/2013
+**Bid Open Date:** 01/02/2014
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 12/31/2013
+**Bid Open Date:** 01/02/2014
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 5/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 12/31/2013
+**Bid Open Date:** 01/02/2014
 
 ***
 
