@@ -156,19 +156,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-482395" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-482395)  
-**2222 Norman Dr Stow, OH, 44224**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-482395), [Google Maps](http://maps.google.com/maps?q=2222+Norman+Dr+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2222+Norman+Dr+Stow%2C+OH%2C+44224/)  
-**Price:** $87,000  
-**List Date:** 12/17/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 6/14/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/03/2014
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-480161" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-480161)  
 **53 Beck Ave Akron, OH, 44302**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-480161), [Google Maps](http://maps.google.com/maps?q=53+Beck+Ave+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/53+Beck+Ave+Akron%2C+OH%2C+44302/)  
