@@ -13,19 +13,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-551898" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551898)  
-**3829 Herbert St Mogadore, OH, 44260**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-551898), [Google Maps](http://maps.google.com/maps?q=3829+Herbert+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3829+Herbert+St+Mogadore%2C+OH%2C+44260/)  
-**Price:** $44,000  
-**List Date:** 1/01/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/2/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/03/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
 **62 Canter Ln #B Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
@@ -91,19 +78,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553230" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553230)  
-**904 Kellar Avenue Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553230), [Google Maps](http://maps.google.com/maps?q=904+Kellar+Avenue+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/904+Kellar+Avenue+Akron%2C+OH%2C+44312/)  
-**Price:** $60,000  
-**List Date:** 12/28/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 6/14/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 01/03/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442922" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922)  
 **733 Columbus Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922), [Google Maps](http://maps.google.com/maps?q=733+Columbus+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/733+Columbus+Ave+Akron%2C+OH%2C+44306/)  
@@ -152,19 +126,6 @@
 **Period Deadline:** 6/15/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/03/2014
-
-***
-
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-480161" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-480161)  
-**53 Beck Ave Akron, OH, 44302**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-480161), [Google Maps](http://maps.google.com/maps?q=53+Beck+Ave+Akron%2C+OH%2C+44302), [Zillow](http://www.zillow.com/homes/53+Beck+Ave+Akron%2C+OH%2C+44302/)  
-**Price:** $21,000  
-**List Date:** 12/13/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/3/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 3/2.00  
 **Bid Open Date:** 01/03/2014
 
 ***
