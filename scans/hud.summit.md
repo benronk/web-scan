@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-519912" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-519912)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-519912" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-519912)  
 **3478 Carper Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-519912), [Google Maps](http://maps.google.com/maps?q=3478+Carper+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/3478+Carper+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $30,000  
 **List Date:** 1/02/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 1/16/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 01/13/2014
 
