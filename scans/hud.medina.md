@@ -1,5 +1,18 @@
 # Medina County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587354" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587354)  
+**225 Ivy Hill Lane Unit 45-c Medina, OH, 44256**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587354), [Google Maps](http://maps.google.com/maps?q=225+Ivy+Hill+Lane+Unit+45-c+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/225+Ivy+Hill+Lane+Unit+45-c+Medina%2C+OH%2C+44256/)  
+**Price:** $49,000  
+**List Date:** 1/03/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 1/9/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 01/10/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-547942" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547942)  
 **3763 Nathan Ct Brunswick, OH, 44212**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547942), [Google Maps](http://maps.google.com/maps?q=3763+Nathan+Ct+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/3763+Nathan+Ct+Brunswick%2C+OH%2C+44212/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 6/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 01/03/2014
+**Bid Open Date:** 01/06/2014
 
 ***
 
@@ -35,7 +48,7 @@
 **Period Deadline:** 5/18/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/03/2014
+**Bid Open Date:** 01/06/2014
 
 ***
 
