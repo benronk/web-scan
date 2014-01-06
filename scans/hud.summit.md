@@ -39,14 +39,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488516" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488516)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488516" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488516)  
 **2995 Walbridge Dr Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488516), [Google Maps](http://maps.google.com/maps?q=2995+Walbridge+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/2995+Walbridge+Dr+Akron%2C+OH%2C+44319/)  
 **Price:** $45,000  
 **List Date:** 12/30/2013  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 1/5/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 01/06/2014
 
