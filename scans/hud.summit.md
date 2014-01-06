@@ -18,11 +18,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
 **Price:** $62,370  
 **List Date:** 1/01/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/5/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 4/1/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 01/06/2014
+**Bid Open Date:** 01/07/2014
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 3/25/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/06/2014
+**Bid Open Date:** 01/07/2014
 
 ***
 
@@ -44,11 +44,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488516), [Google Maps](http://maps.google.com/maps?q=2995+Walbridge+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/2995+Walbridge+Dr+Akron%2C+OH%2C+44319/)  
 **Price:** $45,000  
 **List Date:** 12/30/2013  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 1/5/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 1/10/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/06/2014
+**Bid Open Date:** 01/13/2014
 
 ***
 
@@ -87,7 +87,7 @@
 **Period Deadline:** 3/9/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/06/2014
+**Bid Open Date:** 01/07/2014
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 1/9/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/06/2014
+**Bid Open Date:** 01/07/2014
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 6/15/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/06/2014
+**Bid Open Date:** 01/07/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 5/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 01/06/2014
+**Bid Open Date:** 01/07/2014
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/06/2014
+**Bid Open Date:** 01/07/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 5/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 01/06/2014
+**Bid Open Date:** 01/07/2014
 
 ***
 
