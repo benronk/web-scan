@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-662670" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-662670)  
+**555 Mohawk Avenue Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-662670), [Google Maps](http://maps.google.com/maps?q=555+Mohawk+Avenue+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/555+Mohawk+Avenue+Akron%2C+OH%2C+44305/)  
+**Price:** $20,000  
+**List Date:** 1/11/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 1/17/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.10  
+**Bid Open Date:** 01/21/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-657164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164)  
 **965 Hunt Street Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164), [Google Maps](http://maps.google.com/maps?q=965+Hunt+Street+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/965+Hunt+Street+Akron%2C+OH%2C+44306/)  
@@ -109,8 +122,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488516), [Google Maps](http://maps.google.com/maps?q=2995+Walbridge+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/2995+Walbridge+Dr+Akron%2C+OH%2C+44319/)  
 **Price:** $45,000  
 **List Date:** 12/30/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/10/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 01/13/2014
