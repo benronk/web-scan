@@ -13,19 +13,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-657164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164)  
-**965 Hunt Street Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164), [Google Maps](http://maps.google.com/maps?q=965+Hunt+Street+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/965+Hunt+Street+Akron%2C+OH%2C+44306/)  
-**Price:** $17,600  
-**List Date:** 1/10/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/26/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/14/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-499076" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-499076)  
 **1968 Springfield Center Road Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-499076), [Google Maps](http://maps.google.com/maps?q=1968+Springfield+Center+Road+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1968+Springfield+Center+Road+Akron%2C+OH%2C+44312/)  
