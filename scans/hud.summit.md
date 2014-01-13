@@ -22,7 +22,7 @@
 **Period Deadline:** 3/26/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/13/2014
+**Bid Open Date:** 01/14/2014
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 1/16/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/13/2014
+**Bid Open Date:** 01/14/2014
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 4/1/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 01/13/2014
+**Bid Open Date:** 01/14/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/13/2014
+**Bid Open Date:** 01/14/2014
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 6/25/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/13/2014
+**Bid Open Date:** 01/14/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 6/25/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/13/2014
+**Bid Open Date:** 01/14/2014
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 6/23/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/13/2014
+**Bid Open Date:** 01/14/2014
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 6/15/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/13/2014
+**Bid Open Date:** 01/14/2014
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 5/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 01/13/2014
+**Bid Open Date:** 01/14/2014
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/13/2014
+**Bid Open Date:** 01/14/2014
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 5/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 01/13/2014
+**Bid Open Date:** 01/14/2014
 
 ***
 
