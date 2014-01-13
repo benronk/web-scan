@@ -117,19 +117,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488516" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488516)  
-**2995 Walbridge Dr Akron, OH, 44319**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488516), [Google Maps](http://maps.google.com/maps?q=2995+Walbridge+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/2995+Walbridge+Dr+Akron%2C+OH%2C+44319/)  
-**Price:** $45,000  
-**List Date:** 12/30/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 6/27/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/14/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558440" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440)  
 **1033 Liberty Avenue Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440), [Google Maps](http://maps.google.com/maps?q=1033+Liberty+Avenue+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1033+Liberty+Avenue+Barberton%2C+OH%2C+44203/)  
