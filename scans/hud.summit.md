@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
+**1153 S Munroe Rd Tallmadge, OH, 44278**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
+**Price:** $115,280  
+**List Date:** 1/15/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 5/26/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 01/16/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-505269" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505269)  
+**1066 Winston St Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505269), [Google Maps](http://maps.google.com/maps?q=1066+Winston+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1066+Winston+St+Akron%2C+OH%2C+44314/)  
+**Price:** $47,000  
+**List Date:** 1/15/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 1/29/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 01/27/2014
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-657164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164)  
 **965 Hunt Street Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-657164), [Google Maps](http://maps.google.com/maps?q=965+Hunt+Street+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/965+Hunt+Street+Akron%2C+OH%2C+44306/)  
@@ -9,7 +35,7 @@
 **Period Deadline:** 3/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/15/2014
+**Bid Open Date:** 01/16/2014
 
 ***
 
@@ -152,7 +178,7 @@
 **Period Deadline:** 1/16/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/15/2014
+**Bid Open Date:** 01/16/2014
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 4/1/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 01/15/2014
+**Bid Open Date:** 01/16/2014
 
 ***
 
@@ -178,7 +204,7 @@
 **Period Deadline:** 6/25/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/15/2014
+**Bid Open Date:** 01/16/2014
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 6/25/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/15/2014
+**Bid Open Date:** 01/16/2014
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 6/23/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/15/2014
+**Bid Open Date:** 01/16/2014
 
 ***
 
@@ -217,7 +243,7 @@
 **Period Deadline:** 6/15/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/15/2014
+**Bid Open Date:** 01/16/2014
 
 ***
 
@@ -230,7 +256,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/15/2014
+**Bid Open Date:** 01/16/2014
 
 ***
 

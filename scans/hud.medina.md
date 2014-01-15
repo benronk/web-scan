@@ -9,7 +9,7 @@
 **Period Deadline:** 5/19/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/15/2014
+**Bid Open Date:** 01/16/2014
 
 ***
 
@@ -31,11 +31,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587354), [Google Maps](http://maps.google.com/maps?q=225+Ivy+Hill+Lane+Unit+45-c+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/225+Ivy+Hill+Lane+Unit+45-c+Medina%2C+OH%2C+44256/)  
 **Price:** $49,000  
 **List Date:** 1/03/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/14/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/1/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/15/2014
+**Bid Open Date:** 01/16/2014
 
 ***
 
@@ -44,11 +44,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547942), [Google Maps](http://maps.google.com/maps?q=3763+Nathan+Ct+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/3763+Nathan+Ct+Brunswick%2C+OH%2C+44212/)  
 **Price:** $95,000  
 **List Date:** 12/31/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/14/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 6/28/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/15/2014
+**Bid Open Date:** 01/16/2014
 
 ***
 
