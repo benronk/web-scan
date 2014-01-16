@@ -1,26 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
 **1153 S Munroe Rd Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
 **Price:** $115,280  
 **List Date:** 1/15/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 5/26/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 01/16/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-505269" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505269)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-505269" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505269)  
 **1066 Winston St Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505269), [Google Maps](http://maps.google.com/maps?q=1066+Winston+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1066+Winston+St+Akron%2C+OH%2C+44314/)  
 **Price:** $47,000  
 **List Date:** 1/15/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 1/29/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 01/27/2014
 
@@ -117,27 +117,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575406" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575406" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406)  
 **3225 7th St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406), [Google Maps](http://maps.google.com/maps?q=3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $67,000  
 **List Date:** 1/09/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 1/23/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 01/21/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-491488" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-491488)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-491488" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-491488)  
 **4633 Shriver Rd North Canton, OH, 44720**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-491488), [Google Maps](http://maps.google.com/maps?q=4633+Shriver+Rd+North+Canton%2C+OH%2C+44720), [Zillow](http://www.zillow.com/homes/4633+Shriver+Rd+North+Canton%2C+OH%2C+44720/)  
 **Price:** $70,000  
 **List Date:** 1/09/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 1/23/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 01/21/2014
 
@@ -195,14 +195,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442922" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442922" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922)  
 **733 Columbus Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922), [Google Maps](http://maps.google.com/maps?q=733+Columbus+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/733+Columbus+Ave+Akron%2C+OH%2C+44306/)  
 **Price:** $16,000  
 **List Date:** 12/28/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 6/25/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 01/16/2014
 
