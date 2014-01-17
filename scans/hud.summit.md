@@ -1,18 +1,5 @@
 # Summit County HUD Homes
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573)  
-**62 Canter Ln #B Northfield, OH, 44067**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408573), [Google Maps](http://maps.google.com/maps?q=62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/62+Canter+Ln+%23B+Northfield%2C+OH%2C+44067/)  
-**Price:** $56,133  
-**List Date:** 1/16/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/20/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 2/1.10  
-**Bid Open Date:** 01/21/2014
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
 **1153 S Munroe Rd Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
