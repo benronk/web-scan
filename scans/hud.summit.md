@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-450079" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-450079)  
+**871 Ewart Road Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-450079), [Google Maps](http://maps.google.com/maps?q=871+Ewart+Road+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/871+Ewart+Road+Akron%2C+OH%2C+44312/)  
+**Price:** $12,000  
+**List Date:** 1/17/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 1/31/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 01/27/2014
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
 **1153 S Munroe Rd Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
@@ -91,14 +104,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-662670" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-662670)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-662670" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-662670)  
 **555 Mohawk Avenue Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-662670), [Google Maps](http://maps.google.com/maps?q=555+Mohawk+Avenue+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/555+Mohawk+Avenue+Akron%2C+OH%2C+44305/)  
 **Price:** $20,000  
 **List Date:** 1/11/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 1/17/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.10  
 **Bid Open Date:** 01/21/2014
 
