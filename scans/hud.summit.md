@@ -91,14 +91,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524)  
 **3650 Marcella Avenue Stow, OH, 44224**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524), [Google Maps](http://maps.google.com/maps?q=3650+Marcella+Avenue+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/3650+Marcella+Avenue+Stow%2C+OH%2C+44224/)  
 **Price:** $70,000  
 **List Date:** 1/13/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 1/27/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 01/23/2014
 
