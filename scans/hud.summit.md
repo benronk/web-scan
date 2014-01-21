@@ -143,19 +143,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-491488" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-491488)  
-**4633 Shriver Rd North Canton, OH, 44720**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-491488), [Google Maps](http://maps.google.com/maps?q=4633+Shriver+Rd+North+Canton%2C+OH%2C+44720), [Zillow](http://www.zillow.com/homes/4633+Shriver+Rd+North+Canton%2C+OH%2C+44720/)  
-**Price:** $70,000  
-**List Date:** 1/09/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/23/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/22/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-502877" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-502877)  
 **3780 Argonne Street Mogadore, OH, 44260**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-502877), [Google Maps](http://maps.google.com/maps?q=3780+Argonne+Street+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3780+Argonne+Street+Mogadore%2C+OH%2C+44260/)  
