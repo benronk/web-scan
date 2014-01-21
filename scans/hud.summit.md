@@ -22,7 +22,7 @@
 **Period Deadline:** 5/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 3/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
@@ -70,11 +70,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488015), [Google Maps](http://maps.google.com/maps?q=947+Dan+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/947+Dan+St+Akron%2C+OH%2C+44310/)  
 **Price:** $17,000  
 **List Date:** 1/14/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 1/20/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 1/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/27/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 1/24/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 1/23/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 1/23/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
@@ -161,11 +161,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-502877), [Google Maps](http://maps.google.com/maps?q=3780+Argonne+Street+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3780+Argonne+Street+Mogadore%2C+OH%2C+44260/)  
 **Price:** $70,000  
 **List Date:** 1/06/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/20/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
@@ -174,11 +174,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-362951), [Google Maps](http://maps.google.com/maps?q=943+Erskine+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/943+Erskine+Ave+Akron%2C+OH%2C+44306/)  
 **Price:** $22,000  
 **List Date:** 1/06/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/20/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/4/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 6/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 6/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 6/23/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 6/15/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/21/2014
+**Bid Open Date:** 01/22/2014
 
 ***
 
