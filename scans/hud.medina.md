@@ -1,18 +1,5 @@
 # Medina County HUD Homes
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516234" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516234)  
-**1085 Oakbrooke Drive Medina, OH, 44256**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516234), [Google Maps](http://maps.google.com/maps?q=1085+Oakbrooke+Drive+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/1085+Oakbrooke+Drive+Medina%2C+OH%2C+44256/)  
-**Price:** $99,880  
-**List Date:** 1/09/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 5/19/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/23/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586176" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586176)  
 **8025 Wooster Pike Rd Seville, OH, 44273**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586176), [Google Maps](http://maps.google.com/maps?q=8025+Wooster+Pike+Rd+Seville%2C+OH%2C+44273), [Zillow](http://www.zillow.com/homes/8025+Wooster+Pike+Rd+Seville%2C+OH%2C+44273/)  
