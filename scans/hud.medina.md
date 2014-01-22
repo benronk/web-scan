@@ -9,7 +9,7 @@
 **Period Deadline:** 5/19/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/22/2014
+**Bid Open Date:** 01/23/2014
 
 ***
 
@@ -18,11 +18,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586176), [Google Maps](http://maps.google.com/maps?q=8025+Wooster+Pike+Rd+Seville%2C+OH%2C+44273), [Zillow](http://www.zillow.com/homes/8025+Wooster+Pike+Rd+Seville%2C+OH%2C+44273/)  
 **Price:** $80,000  
 **List Date:** 1/07/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/21/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 01/22/2014
+**Bid Open Date:** 01/23/2014
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 7/1/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/22/2014
+**Bid Open Date:** 01/23/2014
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 6/28/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/22/2014
+**Bid Open Date:** 01/23/2014
 
 ***
 
