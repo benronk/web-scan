@@ -26,14 +26,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-505269" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505269)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-505269" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505269)  
 **1066 Winston St Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505269), [Google Maps](http://maps.google.com/maps?q=1066+Winston+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1066+Winston+St+Akron%2C+OH%2C+44314/)  
 **Price:** $47,000  
 **List Date:** 1/15/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 1/29/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 01/27/2014
 
@@ -65,14 +65,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488015" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488015)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488015" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488015)  
 **947 Dan St Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488015), [Google Maps](http://maps.google.com/maps?q=947+Dan+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/947+Dan+St+Akron%2C+OH%2C+44310/)  
 **Price:** $17,000  
 **List Date:** 1/14/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 1/25/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 01/27/2014
 
@@ -117,14 +117,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-502877" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-502877)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-502877" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-502877)  
 **3780 Argonne Street Mogadore, OH, 44260**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-502877), [Google Maps](http://maps.google.com/maps?q=3780+Argonne+Street+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3780+Argonne+Street+Mogadore%2C+OH%2C+44260/)  
 **Price:** $70,000  
 **List Date:** 1/06/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 7/4/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 01/22/2014
 
