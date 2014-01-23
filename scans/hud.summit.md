@@ -117,19 +117,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-502877" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-502877)  
-**3780 Argonne Street Mogadore, OH, 44260**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-502877), [Google Maps](http://maps.google.com/maps?q=3780+Argonne+Street+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3780+Argonne+Street+Mogadore%2C+OH%2C+44260/)  
-**Price:** $70,000  
-**List Date:** 1/06/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/4/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/24/2014
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-362951" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-362951)  
 **943 Erskine Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-362951), [Google Maps](http://maps.google.com/maps?q=943+Erskine+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/943+Erskine+Ave+Akron%2C+OH%2C+44306/)  
