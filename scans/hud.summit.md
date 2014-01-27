@@ -91,19 +91,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-662670" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-662670)  
-**555 Mohawk Avenue Akron, OH, 44305**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-662670), [Google Maps](http://maps.google.com/maps?q=555+Mohawk+Avenue+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/555+Mohawk+Avenue+Akron%2C+OH%2C+44305/)  
-**Price:** $20,000  
-**List Date:** 1/11/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/9/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 2/1.10  
-**Bid Open Date:** 01/28/2014
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-362951" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-362951)  
 **943 Erskine Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-362951), [Google Maps](http://maps.google.com/maps?q=943+Erskine+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/943+Erskine+Ave+Akron%2C+OH%2C+44306/)  
