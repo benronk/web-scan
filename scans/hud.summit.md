@@ -65,19 +65,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488015" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488015)  
-**947 Dan St Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488015), [Google Maps](http://maps.google.com/maps?q=947+Dan+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/947+Dan+St+Akron%2C+OH%2C+44310/)  
-**Price:** $17,000  
-**List Date:** 1/14/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/12/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/28/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-407133" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407133)  
 **212 Marguerite Ave Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407133), [Google Maps](http://maps.google.com/maps?q=212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
