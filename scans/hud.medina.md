@@ -39,14 +39,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-573487" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573487)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-573487" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573487)  
 **1077 E Smith Rd Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573487), [Google Maps](http://maps.google.com/maps?q=1077+E+Smith+Rd+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/1077+E+Smith+Rd+Medina%2C+OH%2C+44256/)  
 **Price:** $104,000  
 **List Date:** 12/05/2013  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 6/18/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 01/29/2014
 
