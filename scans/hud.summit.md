@@ -169,16 +169,3 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-518037" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-518037)  
-**3832 Hile Rd Stow, OH, 44224**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-518037), [Google Maps](http://maps.google.com/maps?q=3832+Hile+Rd+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/3832+Hile+Rd+Stow%2C+OH%2C+44224/)  
-**Price:** $38,000  
-**List Date:** 11/13/2013  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/30/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 2/1.10  
-**Bid Open Date:** 01/30/2014
-
-***
-
