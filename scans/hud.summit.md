@@ -48,7 +48,7 @@
 **Period Deadline:** 5/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 01/29/2014
+**Bid Open Date:** 01/30/2014
 
 ***
 
@@ -61,7 +61,7 @@
 **Period Deadline:** 1/29/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 01/29/2014
+**Bid Open Date:** 01/30/2014
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 3/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/29/2014
+**Bid Open Date:** 01/30/2014
 
 ***
 
@@ -83,11 +83,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554014), [Google Maps](http://maps.google.com/maps?q=578+Essex+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/578+Essex+St+Akron%2C+OH%2C+44306/)  
 **Price:** $29,000  
 **List Date:** 1/14/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/28/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/12/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/29/2014
+**Bid Open Date:** 01/30/2014
 
 ***
 
@@ -96,11 +96,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407133), [Google Maps](http://maps.google.com/maps?q=212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $56,000  
 **List Date:** 1/14/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/28/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/12/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/29/2014
+**Bid Open Date:** 01/30/2014
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 7/4/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 01/29/2014
+**Bid Open Date:** 01/30/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 6/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/29/2014
+**Bid Open Date:** 01/30/2014
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 6/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/29/2014
+**Bid Open Date:** 01/30/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 6/15/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/29/2014
+**Bid Open Date:** 01/30/2014
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/29/2014
+**Bid Open Date:** 01/30/2014
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 1/30/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 01/29/2014
+**Bid Open Date:** 01/30/2014
 
 ***
 
