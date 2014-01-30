@@ -156,19 +156,6 @@
 
 ***
 
-[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-362951" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-362951)  
-**943 Erskine Ave Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-362951), [Google Maps](http://maps.google.com/maps?q=943+Erskine+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/943+Erskine+Ave+Akron%2C+OH%2C+44306/)  
-**Price:** $22,000  
-**List Date:** 1/06/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/4/2014 11:59:59 PM  CT  
-**Status:** Property Pending Sale  
-**Bed/Bath:** 2/2.00  
-**Bid Open Date:** 01/31/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558440" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440)  
 **1033 Liberty Avenue Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440), [Google Maps](http://maps.google.com/maps?q=1033+Liberty+Avenue+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1033+Liberty+Avenue+Barberton%2C+OH%2C+44203/)  
