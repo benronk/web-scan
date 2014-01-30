@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-561854" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561854)  
+**629 Fairwood Road New Franklin, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561854), [Google Maps](http://maps.google.com/maps?q=629+Fairwood+Road+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/629+Fairwood+Road+New+Franklin%2C+OH%2C+44319/)  
+**Price:** $76,000  
+**List Date:** 1/30/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 2/3/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 01/31/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-615242" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-615242)  
 **4507 Honeymoon Dr North Canton, OH, 44720**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-615242), [Google Maps](http://maps.google.com/maps?q=4507+Honeymoon+Dr+North+Canton%2C+OH%2C+44720), [Zillow](http://www.zillow.com/homes/4507+Honeymoon+Dr+North+Canton%2C+OH%2C+44720/)  
@@ -87,7 +100,7 @@
 **Period Deadline:** 5/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 01/30/2014
+**Bid Open Date:** 01/31/2014
 
 ***
 
@@ -96,11 +109,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505269), [Google Maps](http://maps.google.com/maps?q=1066+Winston+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1066+Winston+St+Akron%2C+OH%2C+44314/)  
 **Price:** $47,000  
 **List Date:** 1/15/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 1/29/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/13/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 01/30/2014
+**Bid Open Date:** 01/31/2014
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 3/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/30/2014
+**Bid Open Date:** 01/31/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 7/12/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/30/2014
+**Bid Open Date:** 01/31/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 7/12/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/30/2014
+**Bid Open Date:** 01/31/2014
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 7/4/2014 11:59:59 PM  CT  
 **Status:** Property Pending Sale  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 01/30/2014
+**Bid Open Date:** 01/31/2014
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 6/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/30/2014
+**Bid Open Date:** 01/31/2014
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 6/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/30/2014
+**Bid Open Date:** 01/31/2014
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 6/15/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 01/30/2014
+**Bid Open Date:** 01/31/2014
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 01/30/2014
+**Bid Open Date:** 01/31/2014
 
 ***
 
