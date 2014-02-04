@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-529772" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-529772)  
+**1843 Hanover St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-529772), [Google Maps](http://maps.google.com/maps?q=1843+Hanover+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1843+Hanover+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $56,000  
+**List Date:** 2/03/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 2/17/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 02/13/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-500095" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-500095)  
 **691 Hogue Avenue Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-500095), [Google Maps](http://maps.google.com/maps?q=691+Hogue+Avenue+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/691+Hogue+Avenue+Akron%2C+OH%2C+44310/)  
