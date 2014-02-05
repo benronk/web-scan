@@ -78,19 +78,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-561854" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561854)  
-**629 Fairwood Road New Franklin, OH, 44319**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561854), [Google Maps](http://maps.google.com/maps?q=629+Fairwood+Road+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/629+Fairwood+Road+New+Franklin%2C+OH%2C+44319/)  
-**Price:** $76,000  
-**List Date:** 1/30/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/4/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 02/06/2014
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537629" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537629)  
 **1753 Hemlock St Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537629), [Google Maps](http://maps.google.com/maps?q=1753+Hemlock+St+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1753+Hemlock+St+Akron%2C+OH%2C+44301/)  
