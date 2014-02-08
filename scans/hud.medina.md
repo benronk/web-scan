@@ -18,8 +18,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-612332), [Google Maps](http://maps.google.com/maps?q=1005+Countryside+Dr+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/1005+Countryside+Dr+Medina%2C+OH%2C+44256/)  
 **Price:** $170,000  
 **List Date:** 1/24/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/7/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/22/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.10  
 **Bid Open Date:** 02/10/2014
