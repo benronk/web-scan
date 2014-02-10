@@ -169,19 +169,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-615242" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-615242)  
-**4507 Honeymoon Dr North Canton, OH, 44720**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-615242), [Google Maps](http://maps.google.com/maps?q=4507+Honeymoon+Dr+North+Canton%2C+OH%2C+44720), [Zillow](http://www.zillow.com/homes/4507+Honeymoon+Dr+North+Canton%2C+OH%2C+44720/)  
-**Price:** $85,000  
-**List Date:** 1/29/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/12/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 02/11/2014
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
 **1153 S Munroe Rd Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
