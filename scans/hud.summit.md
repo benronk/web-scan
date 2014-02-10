@@ -104,19 +104,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-500095" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-500095)  
-**691 Hogue Avenue Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-500095), [Google Maps](http://maps.google.com/maps?q=691+Hogue+Avenue+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/691+Hogue+Avenue+Akron%2C+OH%2C+44310/)  
-**Price:** $53,000  
-**List Date:** 2/01/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/12/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 02/11/2014
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622)  
 **2445 Talbot St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622), [Google Maps](http://maps.google.com/maps?q=2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
