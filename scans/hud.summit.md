@@ -156,19 +156,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-641588" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-641588)  
-**447 Celia Ave Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-641588), [Google Maps](http://maps.google.com/maps?q=447+Celia+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/447+Celia+Ave+Akron%2C+OH%2C+44312/)  
-**Price:** $45,000  
-**List Date:** 2/04/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/18/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 02/18/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543101" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543101)  
 **2638 Edwin Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543101), [Google Maps](http://maps.google.com/maps?q=2638+Edwin+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2638+Edwin+Ave+Akron%2C+OH%2C+44314/)  
