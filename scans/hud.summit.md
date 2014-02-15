@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384781" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384781)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384781" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384781)  
 **421 Dayton St Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384781), [Google Maps](http://maps.google.com/maps?q=421+Dayton+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/421+Dayton+St+Akron%2C+OH%2C+44310/)  
 **Price:** $14,960  
 **List Date:** 2/14/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 6/18/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 02/18/2014
 
@@ -182,14 +182,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-492019" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492019)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-492019" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492019)  
 **563 Evans Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492019), [Google Maps](http://maps.google.com/maps?q=563+Evans+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/563+Evans+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $19,700  
 **List Date:** 1/30/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 7/28/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 02/18/2014
 
