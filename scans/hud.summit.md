@@ -19,7 +19,7 @@
 **Price:** $14,960  
 **List Date:** 2/14/2014  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 6/18/2014 11:59:59 PM  CT  
+**Period Deadline:** 6/18/2014 11:59:59   CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 02/19/2014
@@ -35,19 +35,6 @@
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 02/19/2014
-
-***
-
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
-**1153 S Munroe Rd Tallmadge, OH, 44278**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
-**Price:** $104,800  
-**List Date:** 2/13/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 5/27/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 4/2.00  
 **Bid Open Date:** 02/19/2014
 
 ***
@@ -110,7 +97,7 @@
 **Price:** $130,000  
 **List Date:** 2/10/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/24/2014 11:59:59   CT  
+**Period Deadline:** 2/24/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 02/20/2014
@@ -175,7 +162,7 @@
 **Price:** $34,000  
 **List Date:** 2/04/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/18/2014 11:59:59   CT  
+**Period Deadline:** 2/18/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 02/19/2014
@@ -190,19 +177,6 @@
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 02/19/2014
-
-***
-
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-492019" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492019)  
-**563 Evans Ave Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492019), [Google Maps](http://maps.google.com/maps?q=563+Evans+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/563+Evans+Ave+Akron%2C+OH%2C+44310/)  
-**Price:** $19,700  
-**List Date:** 1/30/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/28/2014 11:59:59   CT  
-**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 02/19/2014
 
