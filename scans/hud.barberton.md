@@ -9,20 +9,20 @@
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 02/18/2014
+**Bid Open Date:** 02/19/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559853" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559853)  
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559853" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559853)  
 **865 Brady Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559853), [Google Maps](http://maps.google.com/maps?q=865+Brady+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/865+Brady+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $17,000  
 **List Date:** 2/11/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 2/17/2014 11:59:59   CT  
-**Status:**   
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 2/22/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 02/18/2014
+**Bid Open Date:** 02/24/2014
 
 ***
 

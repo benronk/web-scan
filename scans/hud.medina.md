@@ -35,7 +35,7 @@
 **Period Deadline:** 6/18/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 02/18/2014
+**Bid Open Date:** 02/19/2014
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 7/22/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.10  
-**Bid Open Date:** 02/18/2014
+**Bid Open Date:** 02/19/2014
 
 ***
 
@@ -61,7 +61,7 @@
 **Period Deadline:** 7/1/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 02/18/2014
+**Bid Open Date:** 02/19/2014
 
 ***
 
@@ -71,10 +71,10 @@
 **Price:** $95,000  
 **List Date:** 12/31/2013  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 6/28/2014 11:59:59   CT  
+**Period Deadline:** 6/28/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 02/18/2014
+**Bid Open Date:** 02/19/2014
 
 ***
 
