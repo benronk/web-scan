@@ -6,7 +6,7 @@
 **Price:** $55,000  
 **List Date:** 2/14/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/28/2014 11:59:59   CT  
+**Period Deadline:** 2/28/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 02/24/2014
@@ -45,22 +45,9 @@
 **Price:** $170,000  
 **List Date:** 1/24/2014  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/22/2014 11:59:59   CT  
+**Period Deadline:** 7/22/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.10  
-**Bid Open Date:** 02/19/2014
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587354" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587354)  
-**225 Ivy Hill Lane Unit 45-c Medina, OH, 44256**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587354), [Google Maps](http://maps.google.com/maps?q=225+Ivy+Hill+Lane+Unit+45-c+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/225+Ivy+Hill+Lane+Unit+45-c+Medina%2C+OH%2C+44256/)  
-**Price:** $49,000  
-**List Date:** 1/03/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/1/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 02/19/2014
 
 ***
