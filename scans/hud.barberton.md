@@ -19,7 +19,7 @@
 **Price:** $17,000  
 **List Date:** 2/11/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 2/17/2014 11:59:59 PM  CT  
+**Period Deadline:** 2/17/2014 11:59:59   CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 02/18/2014
