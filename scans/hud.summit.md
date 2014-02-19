@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-573026" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573026)  
+**1027 Berwin St Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573026), [Google Maps](http://maps.google.com/maps?q=1027+Berwin+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1027+Berwin+St+Akron%2C+OH%2C+44310/)  
+**Price:** $34,000  
+**List Date:** 2/18/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/4/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 02/28/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524)  
 **3650 Marcella Avenue Stow, OH, 44224**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524), [Google Maps](http://maps.google.com/maps?q=3650+Marcella+Avenue+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/3650+Marcella+Avenue+Stow%2C+OH%2C+44224/)  
@@ -84,7 +97,7 @@
 **Price:** $44,000  
 **List Date:** 2/11/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/25/2014 11:59:59   CT  
+**Period Deadline:** 2/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
 **Bid Open Date:** 02/21/2014
@@ -149,7 +162,7 @@
 **Price:** $34,000  
 **List Date:** 2/04/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/18/2014 11:59:59   CT  
+**Period Deadline:** 2/18/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 02/19/2014
@@ -162,9 +175,22 @@
 **Price:** $41,400  
 **List Date:** 1/30/2014  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 6/11/2014 11:59:59   CT  
+**Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
+**Bid Open Date:** 02/19/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-492841" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492841)  
+**216 24th St NW Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492841), [Google Maps](http://maps.google.com/maps?q=216+24th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/216+24th+St+NW+Barberton%2C+OH%2C+44203/)  
+**Price:** $52,000  
+**List Date:** 1/30/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/31/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/2.00  
 **Bid Open Date:** 02/19/2014
 
 ***
@@ -175,7 +201,7 @@
 **Price:** $29,000  
 **List Date:** 1/14/2014  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/12/2014 11:59:59 PM  CT  
+**Period Deadline:** 7/12/2014 11:59:59   CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 02/19/2014

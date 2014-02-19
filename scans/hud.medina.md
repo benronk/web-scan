@@ -1,5 +1,18 @@
 # Medina County HUD Homes
 
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-547942" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547942)  
+**3763 Nathan Ct Brunswick, OH, 44212**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547942), [Google Maps](http://maps.google.com/maps?q=3763+Nathan+Ct+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/3763+Nathan+Ct+Brunswick%2C+OH%2C+44212/)  
+**Price:** $85,500  
+**List Date:** 2/18/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 6/28/2014 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 02/19/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-563009" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563009)  
 **174 Humbolt Ave Wadsworth, OH, 44281**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563009), [Google Maps](http://maps.google.com/maps?q=174+Humbolt+Ave+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/174+Humbolt+Ave+Wadsworth%2C+OH%2C+44281/)  
@@ -19,7 +32,7 @@
 **Price:** $42,000  
 **List Date:** 2/11/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/25/2014 11:59:59   CT  
+**Period Deadline:** 2/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 02/21/2014
@@ -48,19 +61,6 @@
 **Period Deadline:** 7/22/2014 11:59:59   CT  
 **Status:**   
 **Bed/Bath:** 4/2.10  
-**Bid Open Date:** 02/19/2014
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-547942" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547942)  
-**3763 Nathan Ct Brunswick, OH, 44212**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547942), [Google Maps](http://maps.google.com/maps?q=3763+Nathan+Ct+Brunswick%2C+OH%2C+44212), [Zillow](http://www.zillow.com/homes/3763+Nathan+Ct+Brunswick%2C+OH%2C+44212/)  
-**Price:** $95,000  
-**List Date:** 12/31/2013  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 6/28/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 02/19/2014
 
 ***
