@@ -6,7 +6,7 @@
 **Price:** $43,120  
 **List Date:** 2/19/2014  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/2/2014 11:59:59   CT  
+**Period Deadline:** 7/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 02/20/2014
