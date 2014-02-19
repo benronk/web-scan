@@ -71,7 +71,7 @@
 **Price:** $17,000  
 **List Date:** 2/11/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/22/2014 11:59:59   CT  
+**Period Deadline:** 2/22/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 02/24/2014
@@ -97,7 +97,7 @@
 **Price:** $130,000  
 **List Date:** 2/10/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/24/2014 11:59:59   CT  
+**Period Deadline:** 2/24/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 02/20/2014
@@ -123,7 +123,7 @@
 **Price:** $32,000  
 **List Date:** 2/06/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/20/2014 11:59:59 PM  CT  
+**Period Deadline:** 2/20/2014 11:59:59   CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 02/20/2014
@@ -149,7 +149,7 @@
 **Price:** $34,000  
 **List Date:** 2/04/2014  
 **Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 8/2/2014 11:59:59 PM  CT  
+**Period Deadline:** 8/2/2014 11:59:59   CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 02/20/2014
