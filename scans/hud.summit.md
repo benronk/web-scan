@@ -1,5 +1,44 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-647233" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-647233)  
+**1133 Fenn Rd Tallmadge, OH, 44278**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-647233), [Google Maps](http://maps.google.com/maps?q=1133+Fenn+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1133+Fenn+Rd+Tallmadge%2C+OH%2C+44278/)  
+**Price:** $128,000  
+**List Date:** 2/19/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/5/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 03/03/2014
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-514742" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-514742)  
+**1189 Ada St Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-514742), [Google Maps](http://maps.google.com/maps?q=1189+Ada+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1189+Ada+St+Akron%2C+OH%2C+44306/)  
+**Price:** $22,000  
+**List Date:** 2/19/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/5/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 03/03/2014
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-447996" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-447996)  
+**519 Parkdale Dr Akron, OH, 44307**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-447996), [Google Maps](http://maps.google.com/maps?q=519+Parkdale+Dr+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/519+Parkdale+Dr+Akron%2C+OH%2C+44307/)  
+**Price:** $8,000  
+**List Date:** 2/19/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/5/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 03/03/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-573026" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573026)  
 **1027 Berwin St Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-573026), [Google Maps](http://maps.google.com/maps?q=1027+Berwin+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1027+Berwin+St+Akron%2C+OH%2C+44310/)  
@@ -39,14 +78,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-499011" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-499011)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-499011" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-499011)  
 **1979 13th St SW Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-499011), [Google Maps](http://maps.google.com/maps?q=1979+13th+St+SW+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1979+13th+St+SW+Akron%2C+OH%2C+44314/)  
 **Price:** $23,000  
 **List Date:** 2/13/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 2/19/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 02/20/2014
 
@@ -143,14 +182,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543101" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543101)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543101" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543101)  
 **2638 Edwin Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543101), [Google Maps](http://maps.google.com/maps?q=2638+Edwin+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2638+Edwin+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $34,000  
 **List Date:** 2/04/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/2/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 02/20/2014
 
