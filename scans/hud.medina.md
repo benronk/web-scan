@@ -13,14 +13,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-563009" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563009)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-563009" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563009)  
 **174 Humbolt Ave Wadsworth, OH, 44281**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-563009), [Google Maps](http://maps.google.com/maps?q=174+Humbolt+Ave+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/174+Humbolt+Ave+Wadsworth%2C+OH%2C+44281/)  
 **Price:** $55,000  
 **List Date:** 2/14/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 2/28/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 02/24/2014
 
