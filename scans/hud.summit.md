@@ -117,19 +117,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-546494" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546494)  
-**900 Graham Rd Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546494), [Google Maps](http://maps.google.com/maps?q=900+Graham+Rd+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/900+Graham+Rd+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $44,000  
-**List Date:** 2/11/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/25/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 4/1.00  
-**Bid Open Date:** 02/24/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555151" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151)  
 **1800 Twinsburg Rd Twinsburg, OH, 44087**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151), [Google Maps](http://maps.google.com/maps?q=1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087/)  
