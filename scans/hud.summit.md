@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617467" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617467)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-617467" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617467)  
 **3780 N Neitz Dr Norton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-617467), [Google Maps](http://maps.google.com/maps?q=3780+N+Neitz+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/3780+N+Neitz+Dr+Norton%2C+OH%2C+44203/)  
 **Price:** $68,000  
 **List Date:** 2/22/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 2/26/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 02/24/2014
 
