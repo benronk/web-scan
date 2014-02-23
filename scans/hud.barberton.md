@@ -18,8 +18,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559853), [Google Maps](http://maps.google.com/maps?q=865+Brady+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/865+Brady+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $17,000  
 **List Date:** 2/11/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/22/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/9/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 02/24/2014
