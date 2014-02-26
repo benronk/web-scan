@@ -5,11 +5,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-581579), [Google Maps](http://maps.google.com/maps?q=156+Simcox+St+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/156+Simcox+St+Wadsworth%2C+OH%2C+44281/)  
 **Price:** $42,000  
 **List Date:** 2/11/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 2/25/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/9/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 02/26/2014
+**Bid Open Date:** 02/27/2014
 
 ***
 
@@ -22,7 +22,7 @@
 **Period Deadline:** 7/22/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.10  
-**Bid Open Date:** 02/26/2014
+**Bid Open Date:** 02/27/2014
 
 ***
 
