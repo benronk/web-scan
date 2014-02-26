@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558624" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624)  
+**637 Killian Road Akron, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624), [Google Maps](http://maps.google.com/maps?q=637+Killian+Road+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/637+Killian+Road+Akron%2C+OH%2C+44319/)  
+**Price:** $78,000  
+**List Date:** 2/25/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/11/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 03/07/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587601" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587601)  
 **1086 Mount Vernon Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587601), [Google Maps](http://maps.google.com/maps?q=1086+Mount+Vernon+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1086+Mount+Vernon+Ave+Akron%2C+OH%2C+44310/)  
@@ -26,14 +39,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-647233" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-647233)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-647233" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-647233)  
 **1133 Fenn Rd Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-647233), [Google Maps](http://maps.google.com/maps?q=1133+Fenn+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1133+Fenn+Rd+Tallmadge%2C+OH%2C+44278/)  
 **Price:** $128,000  
 **List Date:** 2/19/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/5/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 03/03/2014
 
@@ -143,14 +156,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555151" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555151" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151)  
 **1800 Twinsburg Rd Twinsburg, OH, 44087**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151), [Google Maps](http://maps.google.com/maps?q=1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087/)  
 **Price:** $130,000  
 **List Date:** 2/10/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 02/26/2014
 
@@ -182,14 +195,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543101" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543101)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543101" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543101)  
 **2638 Edwin Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543101), [Google Maps](http://maps.google.com/maps?q=2638+Edwin+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2638+Edwin+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $34,000  
 **List Date:** 2/04/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/2/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 02/26/2014
 
