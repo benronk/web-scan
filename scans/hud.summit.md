@@ -221,19 +221,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543101" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543101)  
-**2638 Edwin Ave Akron, OH, 44314**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543101), [Google Maps](http://maps.google.com/maps?q=2638+Edwin+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2638+Edwin+Ave+Akron%2C+OH%2C+44314/)  
-**Price:** $34,000  
-**List Date:** 2/04/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 8/2/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/03/2014
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622)  
 **2445 Talbot St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622), [Google Maps](http://maps.google.com/maps?q=2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
