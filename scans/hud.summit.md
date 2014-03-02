@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-465671" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-465671)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-465671" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-465671)  
 **2383 &amp; 2385 Eastwood Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-465671), [Google Maps](http://maps.google.com/maps?q=2383+%26amp%3B+2385+Eastwood+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/2383+%26amp%3B+2385+Eastwood+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $63,000  
 **List Date:** 3/01/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/15/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/3.00  
 **Bid Open Date:** 03/11/2014
 
