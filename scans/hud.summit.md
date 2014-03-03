@@ -221,29 +221,3 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554014" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554014)  
-**578 Essex St Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554014), [Google Maps](http://maps.google.com/maps?q=578+Essex+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/578+Essex+St+Akron%2C+OH%2C+44306/)  
-**Price:** $29,000  
-**List Date:** 1/14/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/12/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/04/2014
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-407133" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407133)  
-**212 Marguerite Ave Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407133), [Google Maps](http://maps.google.com/maps?q=212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $56,000  
-**List Date:** 1/14/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/12/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/04/2014
-
-***
-
