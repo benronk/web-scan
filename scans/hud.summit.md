@@ -78,32 +78,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-561600" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561600)  
-**236 Prairie Dr Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-561600), [Google Maps](http://maps.google.com/maps?q=236+Prairie+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/236+Prairie+Dr+Akron%2C+OH%2C+44312/)  
-**Price:** $21,000  
-**List Date:** 2/21/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/7/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/04/2014
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-647233" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-647233)  
-**1133 Fenn Rd Tallmadge, OH, 44278**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-647233), [Google Maps](http://maps.google.com/maps?q=1133+Fenn+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1133+Fenn+Rd+Tallmadge%2C+OH%2C+44278/)  
-**Price:** $128,000  
-**List Date:** 2/19/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/5/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 03/04/2014
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-514742" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-514742)  
 **1189 Ada St Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-514742), [Google Maps](http://maps.google.com/maps?q=1189+Ada+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1189+Ada+St+Akron%2C+OH%2C+44306/)  
