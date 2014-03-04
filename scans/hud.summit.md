@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650588" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588)  
+**134 S Main St #B11 Munroe Falls, OH, 44262**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588), [Google Maps](http://maps.google.com/maps?q=134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262), [Zillow](http://www.zillow.com/homes/134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262/)  
+**Price:** $60,000  
+**List Date:** 3/03/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/17/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 03/13/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-465671" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-465671)  
 **2383 &amp; 2385 Eastwood Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-465671), [Google Maps](http://maps.google.com/maps?q=2383+%26amp%3B+2385+Eastwood+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/2383+%26amp%3B+2385+Eastwood+Ave+Akron%2C+OH%2C+44305/)  
@@ -52,27 +65,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558624" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558624" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624)  
 **637 Killian Road Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624), [Google Maps](http://maps.google.com/maps?q=637+Killian+Road+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/637+Killian+Road+Akron%2C+OH%2C+44319/)  
 **Price:** $78,000  
 **List Date:** 2/25/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/11/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 03/07/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587601" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587601)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587601" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587601)  
 **1086 Mount Vernon Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587601), [Google Maps](http://maps.google.com/maps?q=1086+Mount+Vernon+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1086+Mount+Vernon+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $20,000  
 **List Date:** 2/24/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/7/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/10/2014
 
@@ -130,14 +143,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-499011" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-499011)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-499011" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-499011)  
 **1979 13th St SW Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-499011), [Google Maps](http://maps.google.com/maps?q=1979+13th+St+SW+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1979+13th+St+SW+Akron%2C+OH%2C+44314/)  
 **Price:** $23,000  
 **List Date:** 2/13/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/11/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 03/04/2014
 
@@ -169,14 +182,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555151" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555151" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151)  
 **1800 Twinsburg Rd Twinsburg, OH, 44087**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151), [Google Maps](http://maps.google.com/maps?q=1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087/)  
 **Price:** $130,000  
 **List Date:** 2/10/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 03/04/2014
 
