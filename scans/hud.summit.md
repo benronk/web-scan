@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554014" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554014)  
+**578 Essex St Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554014), [Google Maps](http://maps.google.com/maps?q=578+Essex+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/578+Essex+St+Akron%2C+OH%2C+44306/)  
+**Price:** $25,520  
+**List Date:** 3/04/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/13/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 03/05/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-407133" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407133)  
+**212 Marguerite Ave Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407133), [Google Maps](http://maps.google.com/maps?q=212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $49,280  
+**List Date:** 3/04/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/13/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 03/05/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650588" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588)  
 **134 S Main St #B11 Munroe Falls, OH, 44262**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588), [Google Maps](http://maps.google.com/maps?q=134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262), [Zillow](http://www.zillow.com/homes/134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262/)  
@@ -35,7 +61,7 @@
 **Period Deadline:** 8/14/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
@@ -100,7 +126,7 @@
 **Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 3/5/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 7/29/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
@@ -152,7 +178,7 @@
 **Period Deadline:** 8/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
@@ -178,7 +204,7 @@
 **Period Deadline:** 8/9/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
@@ -217,7 +243,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
@@ -230,7 +256,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/04/2014
+**Bid Open Date:** 03/05/2014
 
 ***
 
