@@ -143,19 +143,6 @@
 
 ***
 
-[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-447996" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-447996)  
-**519 Parkdale Dr Akron, OH, 44307**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-447996), [Google Maps](http://maps.google.com/maps?q=519+Parkdale+Dr+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/519+Parkdale+Dr+Akron%2C+OH%2C+44307/)  
-**Price:** $8,000  
-**List Date:** 2/19/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/5/2014 11:59:59 PM  CT  
-**Status:** Property Pending Sale  
-**Bed/Bath:** 4/1.00  
-**Bid Open Date:** 03/06/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524)  
 **3650 Marcella Avenue Stow, OH, 44224**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524), [Google Maps](http://maps.google.com/maps?q=3650+Marcella+Avenue+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/3650+Marcella+Avenue+Stow%2C+OH%2C+44224/)  
