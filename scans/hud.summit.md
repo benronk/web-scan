@@ -1,5 +1,44 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575406" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406)  
+**3225 7th St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406), [Google Maps](http://maps.google.com/maps?q=3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $67,000  
+**List Date:** 3/06/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/8/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 03/07/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-544546" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-544546)  
+**1592 Tritts Mill Dr Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-544546), [Google Maps](http://maps.google.com/maps?q=1592+Tritts+Mill+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1592+Tritts+Mill+Dr+Akron%2C+OH%2C+44312/)  
+**Price:** $55,000  
+**List Date:** 3/06/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/20/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 03/17/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537707" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707)  
+**63 19th St NW Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707), [Google Maps](http://maps.google.com/maps?q=63+19th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/63+19th+St+NW+Barberton%2C+OH%2C+44203/)  
+**Price:** $2,000  
+**List Date:** 3/06/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 3/12/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 0/0.00  
+**Bid Open Date:** 03/13/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586544" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544)  
 **376 Catalina Dr Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544), [Google Maps](http://maps.google.com/maps?q=376+Catalina+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/376+Catalina+Dr+Akron%2C+OH%2C+44319/)  
@@ -22,7 +61,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
@@ -48,7 +87,7 @@
 **Period Deadline:** 7/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
@@ -61,7 +100,7 @@
 **Period Deadline:** 7/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
@@ -100,20 +139,20 @@
 **Period Deadline:** 8/14/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-635002" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-635002)  
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-635002" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-635002)  
 **1259 Tampa Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-635002), [Google Maps](http://maps.google.com/maps?q=1259+Tampa+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1259+Tampa+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $12,500  
 **List Date:** 2/27/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 3/5/2014 11:59:59 PM  CT  
-**Status:**   
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/10/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/11/2014
 
 ***
 
@@ -161,11 +200,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-514742), [Google Maps](http://maps.google.com/maps?q=1189+Ada+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1189+Ada+St+Akron%2C+OH%2C+44306/)  
 **Price:** $22,000  
 **List Date:** 2/19/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/5/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/17/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
@@ -178,7 +217,7 @@
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
@@ -191,7 +230,7 @@
 **Period Deadline:** 8/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
@@ -204,7 +243,7 @@
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
@@ -217,7 +256,7 @@
 **Period Deadline:** 8/9/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
@@ -230,7 +269,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
@@ -243,7 +282,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
@@ -256,7 +295,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
@@ -269,7 +308,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/06/2014
+**Bid Open Date:** 03/07/2014
 
 ***
 
