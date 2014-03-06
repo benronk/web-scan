@@ -52,19 +52,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
-**1153 S Munroe Rd Tallmadge, OH, 44278**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
-**Price:** $104,800  
-**List Date:** 3/05/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 6/11/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/07/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542349" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542349)  
 **1625 Seminola Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542349), [Google Maps](http://maps.google.com/maps?q=1625+Seminola+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1625+Seminola+Ave+Akron%2C+OH%2C+44305/)  
@@ -230,19 +217,6 @@
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/07/2014
-
-***
-
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559853" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559853)  
-**865 Brady Ave Barberton, OH, 44203**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559853), [Google Maps](http://maps.google.com/maps?q=865+Brady+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/865+Brady+Ave+Barberton%2C+OH%2C+44203/)  
-**Price:** $17,000  
-**List Date:** 2/11/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 8/9/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 03/07/2014
 
 ***
