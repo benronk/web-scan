@@ -169,19 +169,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-514742" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-514742)  
-**1189 Ada St Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-514742), [Google Maps](http://maps.google.com/maps?q=1189+Ada+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1189+Ada+St+Akron%2C+OH%2C+44306/)  
-**Price:** $22,000  
-**List Date:** 2/19/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 8/17/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/10/2014
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558440" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440)  
 **1033 Liberty Avenue Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440), [Google Maps](http://maps.google.com/maps?q=1033+Liberty+Avenue+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1033+Liberty+Avenue+Barberton%2C+OH%2C+44203/)  
