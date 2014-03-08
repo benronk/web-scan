@@ -187,8 +187,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587601), [Google Maps](http://maps.google.com/maps?q=1086+Mount+Vernon+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1086+Mount+Vernon+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $20,000  
 **List Date:** 2/24/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/7/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/22/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/10/2014
