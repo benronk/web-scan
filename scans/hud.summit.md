@@ -182,19 +182,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587601" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587601)  
-**1086 Mount Vernon Ave Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587601), [Google Maps](http://maps.google.com/maps?q=1086+Mount+Vernon+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1086+Mount+Vernon+Ave+Akron%2C+OH%2C+44310/)  
-**Price:** $20,000  
-**List Date:** 2/24/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 8/22/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/11/2014
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558440" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440)  
 **1033 Liberty Avenue Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440), [Google Maps](http://maps.google.com/maps?q=1033+Liberty+Avenue+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1033+Liberty+Avenue+Barberton%2C+OH%2C+44203/)  
@@ -204,19 +191,6 @@
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/11/2014
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-499011" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-499011)  
-**1979 13th St SW Akron, OH, 44314**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-499011), [Google Maps](http://maps.google.com/maps?q=1979+13th+St+SW+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1979+13th+St+SW+Akron%2C+OH%2C+44314/)  
-**Price:** $23,000  
-**List Date:** 2/13/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 8/11/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 4/2.00  
 **Bid Open Date:** 03/11/2014
 
 ***
