@@ -1,5 +1,18 @@
 # Medina County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-612332" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-612332)  
+**1005 Countryside Dr Medina, OH, 44256**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-612332), [Google Maps](http://maps.google.com/maps?q=1005+Countryside+Dr+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/1005+Countryside+Dr+Medina%2C+OH%2C+44256/)  
+**Price:** $149,600  
+**List Date:** 3/12/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/23/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.10  
+**Bid Open Date:** 03/13/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-630900" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-630900)  
 **5731 Rosemont Way Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-630900), [Google Maps](http://maps.google.com/maps?q=5731+Rosemont+Way+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/5731+Rosemont+Way+Medina%2C+OH%2C+44256/)  
@@ -35,7 +48,7 @@
 **Period Deadline:** 8/9/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/12/2014
+**Bid Open Date:** 03/13/2014
 
 ***
 
