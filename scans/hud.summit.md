@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559164)  
+**104 Robinwood Boulevard Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559164), [Google Maps](http://maps.google.com/maps?q=104+Robinwood+Boulevard+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/104+Robinwood+Boulevard+Akron%2C+OH%2C+44312/)  
+**Price:** $34,000  
+**List Date:** 3/11/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/21/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 03/17/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-642473" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-642473)  
 **1442 Forest Dr Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-642473), [Google Maps](http://maps.google.com/maps?q=1442+Forest+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1442+Forest+Dr+Akron%2C+OH%2C+44312/)  
@@ -65,27 +78,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586544" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586544" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544)  
 **376 Catalina Dr Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544), [Google Maps](http://maps.google.com/maps?q=376+Catalina+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/376+Catalina+Dr+Akron%2C+OH%2C+44319/)  
 **Price:** $67,000  
 **List Date:** 3/05/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/19/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 03/17/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542349" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542349)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542349" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542349)  
 **1625 Seminola Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542349), [Google Maps](http://maps.google.com/maps?q=1625+Seminola+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1625+Seminola+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $32,000  
 **List Date:** 3/05/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/19/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/17/2014
 
