@@ -1,26 +1,26 @@
 # Medina County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-612332" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-612332)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-612332" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-612332)  
 **1005 Countryside Dr Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-612332), [Google Maps](http://maps.google.com/maps?q=1005+Countryside+Dr+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/1005+Countryside+Dr+Medina%2C+OH%2C+44256/)  
 **Price:** $149,600  
 **List Date:** 3/12/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 7/23/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 4/2.10  
 **Bid Open Date:** 03/13/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-630900" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-630900)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-630900" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-630900)  
 **5731 Rosemont Way Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-630900), [Google Maps](http://maps.google.com/maps?q=5731+Rosemont+Way+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/5731+Rosemont+Way+Medina%2C+OH%2C+44256/)  
 **Price:** $136,000  
 **List Date:** 3/06/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/20/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 03/17/2014
 
@@ -39,14 +39,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-581579" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-581579)  
+[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-581579" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-581579)  
 **156 Simcox St Wadsworth, OH, 44281**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-581579), [Google Maps](http://maps.google.com/maps?q=156+Simcox+St+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/156+Simcox+St+Wadsworth%2C+OH%2C+44281/)  
 **Price:** $42,000  
 **List Date:** 2/11/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/9/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** Property Pending Sale  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/13/2014
 

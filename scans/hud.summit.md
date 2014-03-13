@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-550201" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550201)  
+**1637 Cottonwood Dr North Canton, OH, 44720**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550201), [Google Maps](http://maps.google.com/maps?q=1637+Cottonwood+Dr+North+Canton%2C+OH%2C+44720), [Zillow](http://www.zillow.com/homes/1637+Cottonwood+Dr+North+Canton%2C+OH%2C+44720/)  
+**Price:** $130,000  
+**List Date:** 3/12/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 3/18/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 5/2.00  
+**Bid Open Date:** 03/19/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559164)  
 **104 Robinwood Boulevard Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559164), [Google Maps](http://maps.google.com/maps?q=104+Robinwood+Boulevard+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/104+Robinwood+Boulevard+Akron%2C+OH%2C+44312/)  
@@ -52,35 +65,35 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-544546" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-544546)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-544546" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-544546)  
 **1592 Tritts Mill Dr Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-544546), [Google Maps](http://maps.google.com/maps?q=1592+Tritts+Mill+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1592+Tritts+Mill+Dr+Akron%2C+OH%2C+44312/)  
 **Price:** $55,000  
 **List Date:** 3/06/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/20/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/17/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537707" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537707" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707)  
 **63 19th St NW Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707), [Google Maps](http://maps.google.com/maps?q=63+19th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/63+19th+St+NW+Barberton%2C+OH%2C+44203/)  
 **Price:** $2,000  
 **List Date:** 3/06/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 3/12/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 0/0.00  
 **Bid Open Date:** 03/13/2014
 
 ***
 
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586544" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544)  
-**376 Catalina Dr Akron, OH, 44319**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544), [Google Maps](http://maps.google.com/maps?q=376+Catalina+Dr+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/376+Catalina+Dr+Akron%2C+OH%2C+44319/)  
+**376 Catalina Dr New Franklin, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544), [Google Maps](http://maps.google.com/maps?q=376+Catalina+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/376+Catalina+Dr+New+Franklin%2C+OH%2C+44319/)  
 **Price:** $67,000  
 **List Date:** 3/05/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
