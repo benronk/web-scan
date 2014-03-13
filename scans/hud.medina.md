@@ -9,7 +9,7 @@
 **Period Deadline:** 7/23/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/2.10  
-**Bid Open Date:** 03/13/2014
+**Bid Open Date:** 03/14/2014
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 8/9/2014 11:59:59 PM  CT  
 **Status:** Property Pending Sale  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/13/2014
+**Bid Open Date:** 03/14/2014
 
 ***
 
