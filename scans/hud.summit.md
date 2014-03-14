@@ -13,14 +13,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-446299" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-446299)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-446299" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-446299)  
 **1197 Carey Avenue Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-446299), [Google Maps](http://maps.google.com/maps?q=1197+Carey+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1197+Carey+Avenue+Akron%2C+OH%2C+44314/)  
 **Price:** $19,000  
 **List Date:** 3/13/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 3/19/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/20/2014
 
@@ -52,14 +52,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-642473" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-642473)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-642473" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-642473)  
 **1442 Forest Dr Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-642473), [Google Maps](http://maps.google.com/maps?q=1442+Forest+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1442+Forest+Dr+Akron%2C+OH%2C+44312/)  
 **Price:** $69,000  
 **List Date:** 3/07/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/21/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 03/17/2014
 
@@ -169,14 +169,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427)  
 **9903 Shepard Road Twinsburg, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427), [Google Maps](http://maps.google.com/maps?q=9903+Shepard+Road+Twinsburg%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9903+Shepard+Road+Twinsburg%2C+OH%2C+44056/)  
 **Price:** $62,000  
 **List Date:** 2/26/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/24/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/14/2014
 
@@ -234,14 +234,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
 **380 Rexford St Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
 **Price:** $30,000  
 **List Date:** 2/06/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/14/2014
 
