@@ -1,15 +1,28 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524)  
 **3650 Marcella Avenue Stow, OH, 44224**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524), [Google Maps](http://maps.google.com/maps?q=3650+Marcella+Avenue+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/3650+Marcella+Avenue+Stow%2C+OH%2C+44224/)  
 **Price:** $70,000  
 **List Date:** 3/14/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/18/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/17/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488809" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488809)  
+**963 Ada St Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488809), [Google Maps](http://maps.google.com/maps?q=963+Ada+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/963+Ada+St+Akron%2C+OH%2C+44306/)  
+**Price:** $18,000  
+**List Date:** 3/14/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 3/20/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 03/21/2014
 
 ***
 
