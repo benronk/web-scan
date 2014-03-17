@@ -26,19 +26,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-447996" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-447996)  
-**519 Parkdale Dr Akron, OH, 44307**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-447996), [Google Maps](http://maps.google.com/maps?q=519+Parkdale+Dr+Akron%2C+OH%2C+44307), [Zillow](http://www.zillow.com/homes/519+Parkdale+Dr+Akron%2C+OH%2C+44307/)  
-**Price:** $8,000  
-**List Date:** 3/13/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 8/25/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 4/1.00  
-**Bid Open Date:** 03/18/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-446299" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-446299)  
 **1197 Carey Avenue Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-446299), [Google Maps](http://maps.google.com/maps?q=1197+Carey+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1197+Carey+Avenue+Akron%2C+OH%2C+44314/)  
