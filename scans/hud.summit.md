@@ -104,19 +104,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-544546" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-544546)  
-**1592 Tritts Mill Dr Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-544546), [Google Maps](http://maps.google.com/maps?q=1592+Tritts+Mill+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1592+Tritts+Mill+Dr+Akron%2C+OH%2C+44312/)  
-**Price:** $55,000  
-**List Date:** 3/06/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/20/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/18/2014
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537707" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707)  
 **63 19th St NW Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707), [Google Maps](http://maps.google.com/maps?q=63+19th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/63+19th+St+NW+Barberton%2C+OH%2C+44203/)  
