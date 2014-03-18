@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442922" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922)  
+**733 Columbus Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922), [Google Maps](http://maps.google.com/maps?q=733+Columbus+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/733+Columbus+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $12,800  
+**List Date:** 3/18/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 6/27/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 03/19/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524)  
 **3650 Marcella Avenue Stow, OH, 44224**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524), [Google Maps](http://maps.google.com/maps?q=3650+Marcella+Avenue+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/3650+Marcella+Avenue+Stow%2C+OH%2C+44224/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 3/18/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 3/21/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 3/21/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 8/20/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -96,11 +109,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707), [Google Maps](http://maps.google.com/maps?q=63+19th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/63+19th+St+NW+Barberton%2C+OH%2C+44203/)  
 **Price:** $2,000  
 **List Date:** 3/06/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/17/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 3/19/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 7/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -135,11 +148,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588), [Google Maps](http://maps.google.com/maps?q=134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262), [Zillow](http://www.zillow.com/homes/134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262/)  
 **Price:** $60,000  
 **List Date:** 3/03/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/17/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/18/2014
+**Bid Open Date:** 03/19/2014
 
 ***
 
