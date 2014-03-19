@@ -1,13 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442922" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622)  
+**2445 Talbot St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622), [Google Maps](http://maps.google.com/maps?q=2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $36,800  
+**List Date:** 3/18/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 6/11/2014 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 03/19/2014
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442922" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922)  
 **733 Columbus Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922), [Google Maps](http://maps.google.com/maps?q=733+Columbus+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/733+Columbus+Ave+Akron%2C+OH%2C+44306/)  
 **Price:** $12,800  
 **List Date:** 3/18/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/19/2014
 
@@ -52,14 +65,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-550201" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550201)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-550201" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550201)  
 **1637 Cottonwood Dr North Canton, OH, 44720**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550201), [Google Maps](http://maps.google.com/maps?q=1637+Cottonwood+Dr+North+Canton%2C+OH%2C+44720), [Zillow](http://www.zillow.com/homes/1637+Cottonwood+Dr+North+Canton%2C+OH%2C+44720/)  
 **Price:** $130,000  
 **List Date:** 3/12/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 3/18/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 5/2.00  
 **Bid Open Date:** 03/19/2014
 
@@ -130,14 +143,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650588" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650588" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588)  
 **134 S Main St #B11 Munroe Falls, OH, 44262**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588), [Google Maps](http://maps.google.com/maps?q=134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262), [Zillow](http://www.zillow.com/homes/134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262/)  
 **Price:** $60,000  
 **List Date:** 3/03/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 03/19/2014
 
