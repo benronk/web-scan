@@ -1,5 +1,44 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558440" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440)  
+**1033 Liberty Avenue Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440), [Google Maps](http://maps.google.com/maps?q=1033+Liberty+Avenue+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1033+Liberty+Avenue+Barberton%2C+OH%2C+44203/)  
+**Price:** $32,000  
+**List Date:** 3/19/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 6/27/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 03/20/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-436171" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-436171)  
+**1269 Bailey Rd Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-436171), [Google Maps](http://maps.google.com/maps?q=1269+Bailey+Rd+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1269+Bailey+Rd+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $53,000  
+**List Date:** 3/19/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/2/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.10  
+**Bid Open Date:** 03/20/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-420257" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-420257)  
+**914 Dan Street Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-420257), [Google Maps](http://maps.google.com/maps?q=914+Dan+Street+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/914+Dan+Street+Akron%2C+OH%2C+44310/)  
+**Price:** $20,000  
+**List Date:** 3/19/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/2/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 03/31/2014
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622)  
 **2445 Talbot St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622), [Google Maps](http://maps.google.com/maps?q=2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -9,7 +48,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
@@ -22,7 +61,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
@@ -31,11 +70,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524), [Google Maps](http://maps.google.com/maps?q=3650+Marcella+Avenue+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/3650+Marcella+Avenue+Stow%2C+OH%2C+44224/)  
 **Price:** $70,000  
 **List Date:** 3/14/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/18/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/7/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
@@ -70,11 +109,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550201), [Google Maps](http://maps.google.com/maps?q=1637+Cottonwood+Dr+North+Canton%2C+OH%2C+44720), [Zillow](http://www.zillow.com/homes/1637+Cottonwood+Dr+North+Canton%2C+OH%2C+44720/)  
 **Price:** $130,000  
 **List Date:** 3/12/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 3/18/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/23/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 5/2.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -87,7 +126,7 @@
 **Period Deadline:** 3/21/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
@@ -100,7 +139,7 @@
 **Period Deadline:** 8/20/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
@@ -113,7 +152,7 @@
 **Period Deadline:** 9/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
@@ -126,7 +165,7 @@
 **Period Deadline:** 3/19/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
@@ -139,7 +178,7 @@
 **Period Deadline:** 7/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
@@ -152,7 +191,7 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
@@ -165,7 +204,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
@@ -178,7 +217,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
@@ -191,7 +230,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/19/2014
+**Bid Open Date:** 03/20/2014
 
 ***
 
