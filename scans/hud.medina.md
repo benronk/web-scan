@@ -9,7 +9,7 @@
 **Period Deadline:** 3/22/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -18,11 +18,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-632948), [Google Maps](http://maps.google.com/maps?q=832+Wadsworth+Rd+%23A2+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/832+Wadsworth+Rd+%23A2+Medina%2C+OH%2C+44256/)  
 **Price:** $50,000  
 **List Date:** 3/05/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/19/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/31/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 

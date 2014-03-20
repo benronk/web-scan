@@ -9,7 +9,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -22,7 +22,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.10  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -61,7 +61,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 8/7/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -96,11 +96,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-446299), [Google Maps](http://maps.google.com/maps?q=1197+Carey+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1197+Carey+Avenue+Akron%2C+OH%2C+44314/)  
 **Price:** $19,000  
 **List Date:** 3/13/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 3/19/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/24/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/25/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 3/21/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 8/20/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 9/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 7/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/20/2014
+**Bid Open Date:** 03/21/2014
 
 ***
 
