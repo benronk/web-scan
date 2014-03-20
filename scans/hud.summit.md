@@ -13,19 +13,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-436171" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-436171)  
-**1269 Bailey Rd Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-436171), [Google Maps](http://maps.google.com/maps?q=1269+Bailey+Rd+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/1269+Bailey+Rd+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $53,000  
-**List Date:** 3/19/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/2/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 2/1.10  
-**Bid Open Date:** 03/21/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-420257" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-420257)  
 **914 Dan Street Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-420257), [Google Maps](http://maps.google.com/maps?q=914+Dan+Street+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/914+Dan+Street+Akron%2C+OH%2C+44310/)  
