@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559164)  
+**104 Robinwood Boulevard Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559164), [Google Maps](http://maps.google.com/maps?q=104+Robinwood+Boulevard+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/104+Robinwood+Boulevard+Akron%2C+OH%2C+44312/)  
+**Price:** $34,000  
+**List Date:** 3/21/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/24/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 03/24/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-498375" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-498375)  
 **1126 Collinwood Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-498375), [Google Maps](http://maps.google.com/maps?q=1126+Collinwood+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1126+Collinwood+Ave+Akron%2C+OH%2C+44310/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -48,7 +61,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 8/7/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -83,11 +96,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488809), [Google Maps](http://maps.google.com/maps?q=963+Ada+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/963+Ada+St+Akron%2C+OH%2C+44306/)  
 **Price:** $18,000  
 **List Date:** 3/14/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 3/20/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 3/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/26/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 3/21/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 8/20/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 9/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 7/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/21/2014
+**Bid Open Date:** 03/24/2014
 
 ***
 
