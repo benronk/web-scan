@@ -161,8 +161,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-642473), [Google Maps](http://maps.google.com/maps?q=1442+Forest+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1442+Forest+Dr+Akron%2C+OH%2C+44312/)  
 **Price:** $69,000  
 **List Date:** 3/07/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/21/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 03/24/2014
