@@ -1,15 +1,41 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559164)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559164)  
 **104 Robinwood Boulevard Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559164), [Google Maps](http://maps.google.com/maps?q=104+Robinwood+Boulevard+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/104+Robinwood+Boulevard+Akron%2C+OH%2C+44312/)  
 **Price:** $34,000  
 **List Date:** 3/21/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/24/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/24/2014
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-550895" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550895)  
+**1133 Collinwood Ave Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550895), [Google Maps](http://maps.google.com/maps?q=1133+Collinwood+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1133+Collinwood+Ave+Akron%2C+OH%2C+44310/)  
+**Price:** $20,000  
+**List Date:** 3/21/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/4/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 03/31/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516291" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516291)  
+**1343 Rowe St Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516291), [Google Maps](http://maps.google.com/maps?q=1343+Rowe+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1343+Rowe+St+Akron%2C+OH%2C+44306/)  
+**Price:** $24,000  
+**List Date:** 3/21/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/4/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 03/31/2014
 
 ***
 
@@ -91,14 +117,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488809" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488809)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488809" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488809)  
 **963 Ada St Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488809), [Google Maps](http://maps.google.com/maps?q=963+Ada+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/963+Ada+St+Akron%2C+OH%2C+44306/)  
 **Price:** $18,000  
 **List Date:** 3/14/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 3/25/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 03/26/2014
 
@@ -191,6 +217,19 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
+**Bid Open Date:** 03/24/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427)  
+**9903 Shepard Road Twinsburg, OH, 44056**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427), [Google Maps](http://maps.google.com/maps?q=9903+Shepard+Road+Twinsburg%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9903+Shepard+Road+Twinsburg%2C+OH%2C+44056/)  
+**Price:** $62,000  
+**List Date:** 2/26/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/31/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/24/2014
 
 ***
