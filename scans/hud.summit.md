@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516291" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516291)  
+**1343 Rowe St Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516291), [Google Maps](http://maps.google.com/maps?q=1343+Rowe+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1343+Rowe+St+Akron%2C+OH%2C+44306/)  
+**Price:** $24,000  
+**List Date:** 3/24/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/4/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 03/31/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-481127" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127)  
+**1364 Arnold Ave Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127), [Google Maps](http://maps.google.com/maps?q=1364+Arnold+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1364+Arnold+Ave+Akron%2C+OH%2C+44305/)  
+**Price:** $17,100  
+**List Date:** 3/24/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/26/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 03/25/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559164" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559164)  
 **104 Robinwood Boulevard Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559164), [Google Maps](http://maps.google.com/maps?q=104+Robinwood+Boulevard+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/104+Robinwood+Boulevard+Akron%2C+OH%2C+44312/)  
@@ -195,14 +221,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650588" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650588" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588)  
 **134 S Main St #B11 Munroe Falls, OH, 44262**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588), [Google Maps](http://maps.google.com/maps?q=134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262), [Zillow](http://www.zillow.com/homes/134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262/)  
 **Price:** $60,000  
 **List Date:** 3/03/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 03/25/2014
 
