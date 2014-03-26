@@ -169,19 +169,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488809" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488809)  
-**963 Ada St Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488809), [Google Maps](http://maps.google.com/maps?q=963+Ada+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/963+Ada+St+Akron%2C+OH%2C+44306/)  
-**Price:** $18,000  
-**List Date:** 3/14/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/9/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/27/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-446299" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-446299)  
 **1197 Carey Avenue Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-446299), [Google Maps](http://maps.google.com/maps?q=1197+Carey+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1197+Carey+Avenue+Akron%2C+OH%2C+44314/)  
@@ -191,19 +178,6 @@
 **Period Deadline:** 9/8/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/27/2014
-
-***
-
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-550201" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550201)  
-**1637 Cottonwood Dr North Canton, OH, 44720**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550201), [Google Maps](http://maps.google.com/maps?q=1637+Cottonwood+Dr+North+Canton%2C+OH%2C+44720), [Zillow](http://www.zillow.com/homes/1637+Cottonwood+Dr+North+Canton%2C+OH%2C+44720/)  
-**Price:** $130,000  
-**List Date:** 3/12/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/7/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 5/2.00  
 **Bid Open Date:** 03/27/2014
 
 ***
