@@ -61,7 +61,7 @@
 **Period Deadline:** 7/26/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 9/5/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 8/7/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -174,11 +174,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488809), [Google Maps](http://maps.google.com/maps?q=963+Ada+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/963+Ada+St+Akron%2C+OH%2C+44306/)  
 **Price:** $18,000  
 **List Date:** 3/14/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 3/25/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/9/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 9/8/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 9/7/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 5/2.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 8/20/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 9/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 7/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -282,7 +282,7 @@
 **Period Deadline:** 8/31/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -295,7 +295,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
@@ -308,7 +308,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 03/26/2014
+**Bid Open Date:** 03/27/2014
 
 ***
 
