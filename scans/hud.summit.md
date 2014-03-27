@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-526540" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-526540)  
+**1193 Tampa Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-526540), [Google Maps](http://maps.google.com/maps?q=1193+Tampa+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1193+Tampa+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $15,000  
+**List Date:** 3/26/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/9/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 04/07/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-724684" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-724684)  
 **1005 Hilbish Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-724684), [Google Maps](http://maps.google.com/maps?q=1005+Hilbish+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1005+Hilbish+Ave+Akron%2C+OH%2C+44312/)  
@@ -91,14 +104,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-498375" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-498375)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-498375" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-498375)  
 **1126 Collinwood Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-498375), [Google Maps](http://maps.google.com/maps?q=1126+Collinwood+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1126+Collinwood+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $19,000  
 **List Date:** 3/20/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 4/3/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 03/31/2014
 
