@@ -91,14 +91,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-481127" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-481127" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127)  
 **1364 Arnold Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-481127), [Google Maps](http://maps.google.com/maps?q=1364+Arnold+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1364+Arnold+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $17,100  
 **List Date:** 3/24/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 7/26/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 03/31/2014
 
