@@ -221,19 +221,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555151" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151)  
-**1800 Twinsburg Rd Twinsburg, OH, 44087**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151), [Google Maps](http://maps.google.com/maps?q=1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087/)  
-**Price:** $130,000  
-**List Date:** 2/10/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 8/8/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/01/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
 **380 Rexford St Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
