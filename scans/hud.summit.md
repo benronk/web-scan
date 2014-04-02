@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-515260" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515260)  
+**2869 Progress Park Dr Stow, OH, 44224**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515260), [Google Maps](http://maps.google.com/maps?q=2869+Progress+Park+Dr+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2869+Progress+Park+Dr+Stow%2C+OH%2C+44224/)  
+**Price:** $90,000  
+**List Date:** 4/02/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/16/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 04/14/2014
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555151" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151)  
 **1800 Twinsburg Rd Twinsburg, OH, 44087**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151), [Google Maps](http://maps.google.com/maps?q=1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -22,7 +35,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 4/4/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 4/4/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 4/3/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 9/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 7/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 8/31/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
@@ -243,7 +256,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/02/2014
+**Bid Open Date:** 04/03/2014
 
 ***
 
