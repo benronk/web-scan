@@ -247,19 +247,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-407133" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407133)  
-**212 Marguerite Ave Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407133), [Google Maps](http://maps.google.com/maps?q=212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $49,280  
-**List Date:** 3/04/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 7/13/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/04/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-650588" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588)  
 **134 S Main St #B11 Munroe Falls, OH, 44262**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-650588), [Google Maps](http://maps.google.com/maps?q=134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262), [Zillow](http://www.zillow.com/homes/134+S+Main+St+%23B11+Munroe+Falls%2C+OH%2C+44262/)  
