@@ -1,13 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-515260" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515260)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-629020" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-629020)  
+**106 S Pershing Ave Akron, OH, 44313**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-629020), [Google Maps](http://maps.google.com/maps?q=106+S+Pershing+Ave+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/106+S+Pershing+Ave+Akron%2C+OH%2C+44313/)  
+**Price:** $54,000  
+**List Date:** 4/02/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/16/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 04/14/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-515260" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515260)  
 **2869 Progress Park Dr Stow, OH, 44224**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515260), [Google Maps](http://maps.google.com/maps?q=2869+Progress+Park+Dr+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2869+Progress+Park+Dr+Stow%2C+OH%2C+44224/)  
 **Price:** $90,000  
 **List Date:** 4/02/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 4/16/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/14/2014
 
@@ -39,14 +52,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473507" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473507)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473507" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473507)  
 **608 East Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473507), [Google Maps](http://maps.google.com/maps?q=608+East+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/608+East+Ave+Akron%2C+OH%2C+44320/)  
 **Price:** $28,000  
 **List Date:** 3/27/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 4/2/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/03/2014
 
