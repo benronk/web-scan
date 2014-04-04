@@ -117,19 +117,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-724684" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-724684)  
-**1005 Hilbish Ave Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-724684), [Google Maps](http://maps.google.com/maps?q=1005+Hilbish+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/1005+Hilbish+Ave+Akron%2C+OH%2C+44312/)  
-**Price:** $73,000  
-**List Date:** 3/25/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/8/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 04/07/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-688836" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-688836)  
 **337 Geraldine Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-688836), [Google Maps](http://maps.google.com/maps?q=337+Geraldine+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/337+Geraldine+Ave+Akron%2C+OH%2C+44310/)  
