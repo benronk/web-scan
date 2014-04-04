@@ -1,26 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553033" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553033)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553033" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553033)  
 **465 Stanley Rd Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553033), [Google Maps](http://maps.google.com/maps?q=465+Stanley+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/465+Stanley+Rd+Akron%2C+OH%2C+44312/)  
 **Price:** $44,000  
 **List Date:** 4/03/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 4/17/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/14/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-500095" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-500095)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-500095" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-500095)  
 **691 Hogue Avenue Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-500095), [Google Maps](http://maps.google.com/maps?q=691+Hogue+Avenue+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/691+Hogue+Avenue+Akron%2C+OH%2C+44310/)  
 **Price:** $53,000  
 **List Date:** 4/03/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 9/11/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/04/2014
 
@@ -78,14 +78,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473507" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473507)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-473507" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473507)  
 **608 East Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473507), [Google Maps](http://maps.google.com/maps?q=608+East+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/608+East+Ave+Akron%2C+OH%2C+44320/)  
 **Price:** $28,000  
 **List Date:** 3/27/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 4/7/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/08/2014
 
