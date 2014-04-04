@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516041" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516041)  
+**930 E Archwood Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516041), [Google Maps](http://maps.google.com/maps?q=930+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/930+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $22,000  
+**List Date:** 4/04/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/18/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 04/14/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553033" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553033)  
 **465 Stanley Rd Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553033), [Google Maps](http://maps.google.com/maps?q=465+Stanley+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/465+Stanley+Rd+Akron%2C+OH%2C+44312/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 9/11/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 4/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 4/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 4/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 4/4/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 4/4/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -174,11 +187,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-498375), [Google Maps](http://maps.google.com/maps?q=1126+Collinwood+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1126+Collinwood+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $19,000  
 **List Date:** 3/20/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/3/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/15/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -243,7 +256,7 @@
 **Period Deadline:** 9/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -256,7 +269,7 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -269,7 +282,7 @@
 **Period Deadline:** 8/31/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
@@ -282,7 +295,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/04/2014
+**Bid Open Date:** 04/07/2014
 
 ***
 
