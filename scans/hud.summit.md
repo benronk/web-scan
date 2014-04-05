@@ -161,8 +161,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516291), [Google Maps](http://maps.google.com/maps?q=1343+Rowe+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1343+Rowe+St+Akron%2C+OH%2C+44306/)  
 **Price:** $24,000  
 **List Date:** 3/24/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/4/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/16/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/07/2014
