@@ -169,19 +169,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622)  
-**2445 Talbot St Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568622), [Google Maps](http://maps.google.com/maps?q=2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2445+Talbot+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $36,800  
-**List Date:** 3/18/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 6/11/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/09/2014
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442922" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922)  
 **733 Columbus Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922), [Google Maps](http://maps.google.com/maps?q=733+Columbus+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/733+Columbus+Ave+Akron%2C+OH%2C+44306/)  
