@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575406" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406)  
+**3225 7th St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406), [Google Maps](http://maps.google.com/maps?q=3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $58,500  
+**List Date:** 4/08/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/12/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 04/09/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-407133" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407133)  
+**212 Marguerite Ave Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-407133), [Google Maps](http://maps.google.com/maps?q=212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/212+Marguerite+Ave+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $44,800  
+**List Date:** 4/08/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 7/18/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 04/09/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-535581" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-535581)  
 **6406 Southview Dr New Franklin, OH, 44216**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-535581), [Google Maps](http://maps.google.com/maps?q=6406+Southview+Dr+New+Franklin%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/6406+Southview+Dr+New+Franklin%2C+OH%2C+44216/)  
@@ -48,7 +74,7 @@
 **Period Deadline:** 9/11/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -87,7 +113,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -96,11 +122,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-473507), [Google Maps](http://maps.google.com/maps?q=608+East+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/608+East+Ave+Akron%2C+OH%2C+44320/)  
 **Price:** $28,000  
 **List Date:** 3/27/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/7/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/22/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 4/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 4/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 9/16/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -152,7 +178,7 @@
 **Period Deadline:** 6/11/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -178,7 +204,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 9/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -217,7 +243,7 @@
 **Period Deadline:** 8/31/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
@@ -230,7 +256,7 @@
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/08/2014
+**Bid Open Date:** 04/09/2014
 
 ***
 
