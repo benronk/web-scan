@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568724" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568724)  
+**5777 Harter Home Dr New Franklin, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568724), [Google Maps](http://maps.google.com/maps?q=5777+Harter+Home+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/5777+Harter+Home+Dr+New+Franklin%2C+OH%2C+44319/)  
+**Price:** $80,000  
+**List Date:** 4/09/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/23/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 04/21/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
+**380 Rexford St Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
+**Price:** $30,000  
+**List Date:** 4/09/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/5/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 04/10/2014
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575406" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406)  
 **3225 7th St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406), [Google Maps](http://maps.google.com/maps?q=3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -9,7 +35,7 @@
 **Period Deadline:** 4/12/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -22,7 +48,7 @@
 **Period Deadline:** 7/18/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -74,7 +100,7 @@
 **Period Deadline:** 9/11/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 9/22/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -135,11 +161,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-688836), [Google Maps](http://maps.google.com/maps?q=337+Geraldine+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/337+Geraldine+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $37,000  
 **List Date:** 3/25/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/8/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/20/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -148,11 +174,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654365), [Google Maps](http://maps.google.com/maps?q=2654+Maplewood+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2654+Maplewood+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $70,000  
 **List Date:** 3/25/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/8/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/20/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 9/16/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -178,7 +204,7 @@
 **Period Deadline:** 6/27/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 9/1/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -217,7 +243,7 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
@@ -230,7 +256,7 @@
 **Period Deadline:** 8/31/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/09/2014
+**Bid Open Date:** 04/10/2014
 
 ***
 
