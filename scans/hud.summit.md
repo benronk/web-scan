@@ -91,19 +91,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-500095" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-500095)  
-**691 Hogue Avenue Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-500095), [Google Maps](http://maps.google.com/maps?q=691+Hogue+Avenue+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/691+Hogue+Avenue+Akron%2C+OH%2C+44310/)  
-**Price:** $53,000  
-**List Date:** 4/03/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/11/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/11/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-629020" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-629020)  
 **106 S Pershing Ave Akron, OH, 44313**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-629020), [Google Maps](http://maps.google.com/maps?q=106+S+Pershing+Ave+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/106+S+Pershing+Ave+Akron%2C+OH%2C+44313/)  
