@@ -78,19 +78,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-535581" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-535581)  
-**6406 Southview Dr New Franklin, OH, 44216**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-535581), [Google Maps](http://maps.google.com/maps?q=6406+Southview+Dr+New+Franklin%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/6406+Southview+Dr+New+Franklin%2C+OH%2C+44216/)  
-**Price:** $60,000  
-**List Date:** 4/04/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/18/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/15/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516041" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516041)  
 **930 E Archwood Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516041), [Google Maps](http://maps.google.com/maps?q=930+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/930+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
@@ -121,19 +108,6 @@
 **106 S Pershing Ave Akron, OH, 44313**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-629020), [Google Maps](http://maps.google.com/maps?q=106+S+Pershing+Ave+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/106+S+Pershing+Ave+Akron%2C+OH%2C+44313/)  
 **Price:** $54,000  
-**List Date:** 4/02/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/16/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/15/2014
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-515260" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515260)  
-**2869 Progress Park Dr Stow, OH, 44224**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515260), [Google Maps](http://maps.google.com/maps?q=2869+Progress+Park+Dr+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/2869+Progress+Park+Dr+Stow%2C+OH%2C+44224/)  
-**Price:** $90,000  
 **List Date:** 4/02/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 4/16/2014 11:59:59 PM  CT  
