@@ -26,27 +26,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568724" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568724)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568724" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568724)  
 **5777 Harter Home Dr New Franklin, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568724), [Google Maps](http://maps.google.com/maps?q=5777+Harter+Home+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/5777+Harter+Home+Dr+New+Franklin%2C+OH%2C+44319/)  
 **Price:** $80,000  
 **List Date:** 4/09/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 4/23/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 04/21/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
 **380 Rexford St Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
 **Price:** $30,000  
 **List Date:** 4/09/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 8/5/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/16/2014
 
@@ -117,27 +117,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-688836" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-688836)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-688836" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-688836)  
 **337 Geraldine Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-688836), [Google Maps](http://maps.google.com/maps?q=337+Geraldine+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/337+Geraldine+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $37,000  
 **List Date:** 3/25/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 9/20/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/16/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-654365" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654365)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-654365" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654365)  
 **2654 Maplewood St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654365), [Google Maps](http://maps.google.com/maps?q=2654+Maplewood+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2654+Maplewood+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $70,000  
 **List Date:** 3/25/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 9/20/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/16/2014
 
