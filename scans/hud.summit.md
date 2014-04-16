@@ -117,19 +117,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-555151" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151)  
-**1800 Twinsburg Rd Twinsburg, OH, 44087**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-555151), [Google Maps](http://maps.google.com/maps?q=1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/1800+Twinsburg+Rd+Twinsburg%2C+OH%2C+44087/)  
-**Price:** $117,000  
-**List Date:** 3/31/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 8/8/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/17/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-688836" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-688836)  
 **337 Geraldine Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-688836), [Google Maps](http://maps.google.com/maps?q=337+Geraldine+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/337+Geraldine+Ave+Akron%2C+OH%2C+44310/)  
