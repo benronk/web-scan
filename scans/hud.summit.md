@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434307" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434307)  
+**505 Bacon Ave Akron, OH, 44320**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434307), [Google Maps](http://maps.google.com/maps?q=505+Bacon+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/505+Bacon+Ave+Akron%2C+OH%2C+44320/)  
+**Price:** $17,000  
+**List Date:** 4/17/2014  
+**Listing Period:** Lottery (Good Neighbor Next Door Participants Only)  
+**Period Deadline:** 4/23/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 04/24/2014
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442922" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922)  
 **733 Columbus Ave Akron, OH, 44306**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922), [Google Maps](http://maps.google.com/maps?q=733+Columbus+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/733+Columbus+Ave+Akron%2C+OH%2C+44306/)  
@@ -104,14 +117,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-629020" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-629020)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-629020" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-629020)  
 **106 S Pershing Ave Akron, OH, 44313**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-629020), [Google Maps](http://maps.google.com/maps?q=106+S+Pershing+Ave+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/106+S+Pershing+Ave+Akron%2C+OH%2C+44313/)  
 **Price:** $54,000  
 **List Date:** 4/02/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 9/28/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/18/2014
 
