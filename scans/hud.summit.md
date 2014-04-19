@@ -26,27 +26,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558440" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558440" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440)  
 **1033 Liberty Avenue Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558440), [Google Maps](http://maps.google.com/maps?q=1033+Liberty+Avenue+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1033+Liberty+Avenue+Barberton%2C+OH%2C+44203/)  
 **Price:** $32,000  
 **List Date:** 4/12/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 7/5/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/21/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543159" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543159)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543159" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543159)  
 **1466 Goodyear Blvd Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543159), [Google Maps](http://maps.google.com/maps?q=1466+Goodyear+Blvd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1466+Goodyear+Blvd+Akron%2C+OH%2C+44305/)  
 **Price:** $19,000  
 **List Date:** 4/12/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 4/18/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/21/2014
 
@@ -91,14 +91,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553033" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553033)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553033" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553033)  
 **465 Stanley Rd Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553033), [Google Maps](http://maps.google.com/maps?q=465+Stanley+Rd+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/465+Stanley+Rd+Akron%2C+OH%2C+44312/)  
 **Price:** $44,000  
 **List Date:** 4/03/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 9/29/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/21/2014
 
