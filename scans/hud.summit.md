@@ -156,16 +156,3 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586544" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544)  
-**376 Catalina Dr New Franklin, OH, 44319**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544), [Google Maps](http://maps.google.com/maps?q=376+Catalina+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/376+Catalina+Dr+New+Franklin%2C+OH%2C+44319/)  
-**Price:** $67,000  
-**List Date:** 3/05/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/23/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 04/23/2014
-
-***
-
