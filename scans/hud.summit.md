@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568724" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568724)  
+**5777 Harter Home Dr New Franklin, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568724), [Google Maps](http://maps.google.com/maps?q=5777+Harter+Home+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/5777+Harter+Home+Dr+New+Franklin%2C+OH%2C+44319/)  
+**Price:** $80,000  
+**List Date:** 4/23/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/25/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 04/24/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427)  
+**9903 Shepard Road Twinsburg, OH, 44056**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427), [Google Maps](http://maps.google.com/maps?q=9903+Shepard+Road+Twinsburg%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9903+Shepard+Road+Twinsburg%2C+OH%2C+44056/)  
+**Price:** $54,560  
+**List Date:** 4/23/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/1/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 04/24/2014
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537707" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707)  
 **63 19th St NW Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707), [Google Maps](http://maps.google.com/maps?q=63+19th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/63+19th+St+NW+Barberton%2C+OH%2C+44203/)  
@@ -9,7 +35,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 04/23/2014
+**Bid Open Date:** 04/24/2014
 
 ***
 
@@ -22,7 +48,7 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/23/2014
+**Bid Open Date:** 04/24/2014
 
 ***
 
@@ -74,7 +100,7 @@
 **Period Deadline:** 6/28/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/23/2014
+**Bid Open Date:** 04/24/2014
 
 ***
 
@@ -87,7 +113,7 @@
 **Period Deadline:** 7/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/23/2014
+**Bid Open Date:** 04/24/2014
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 8/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/23/2014
+**Bid Open Date:** 04/24/2014
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 7/18/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/23/2014
+**Bid Open Date:** 04/24/2014
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 9/20/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/23/2014
+**Bid Open Date:** 04/24/2014
 
 ***
 
@@ -152,7 +178,7 @@
 **Period Deadline:** 9/20/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/23/2014
+**Bid Open Date:** 04/24/2014
 
 ***
 
