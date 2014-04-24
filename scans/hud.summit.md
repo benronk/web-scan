@@ -1,26 +1,39 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568724" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568724)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-568724" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568724)  
 **5777 Harter Home Dr New Franklin, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568724), [Google Maps](http://maps.google.com/maps?q=5777+Harter+Home+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/5777+Harter+Home+Dr+New+Franklin%2C+OH%2C+44319/)  
 **Price:** $80,000  
 **List Date:** 4/23/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 4/25/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 04/24/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-539167" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-539167)  
+**975 Perry Ave Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-539167), [Google Maps](http://maps.google.com/maps?q=975+Perry+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/975+Perry+Ave+Barberton%2C+OH%2C+44203/)  
+**Price:** $46,000  
+**List Date:** 4/23/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 4/29/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 04/30/2014
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427)  
 **9903 Shepard Road Twinsburg, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427), [Google Maps](http://maps.google.com/maps?q=9903+Shepard+Road+Twinsburg%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9903+Shepard+Road+Twinsburg%2C+OH%2C+44056/)  
 **Price:** $54,560  
 **List Date:** 4/23/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 9/1/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/24/2014
 
@@ -78,14 +91,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434307" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434307)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434307" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434307)  
 **505 Bacon Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434307), [Google Maps](http://maps.google.com/maps?q=505+Bacon+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/505+Bacon+Ave+Akron%2C+OH%2C+44320/)  
 **Price:** $17,000  
 **List Date:** 4/17/2014  
 **Listing Period:** Lottery (Good Neighbor Next Door Participants Only)  
 **Period Deadline:** 4/23/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/24/2014
 
