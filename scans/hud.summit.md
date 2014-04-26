@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575406" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406)  
+**3225 7th St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406), [Google Maps](http://maps.google.com/maps?q=3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $58,500  
+**List Date:** 4/26/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/30/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 04/28/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542349" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542349)  
+**1625 Seminola Ave Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542349), [Google Maps](http://maps.google.com/maps?q=1625+Seminola+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1625+Seminola+Ave+Akron%2C+OH%2C+44305/)  
+**Price:** $32,000  
+**List Date:** 4/26/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/26/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 04/28/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-552300" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552300)  
 **162 Glenn St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552300), [Google Maps](http://maps.google.com/maps?q=162+Glenn+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/162+Glenn+St+Barberton%2C+OH%2C+44203/)  
@@ -44,8 +70,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-568724), [Google Maps](http://maps.google.com/maps?q=5777+Harter+Home+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/5777+Harter+Home+Dr+New+Franklin%2C+OH%2C+44319/)  
 **Price:** $80,000  
 **List Date:** 4/23/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/25/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/7/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 04/28/2014
@@ -109,11 +135,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559770), [Google Maps](http://maps.google.com/maps?q=1815+Hillside+Terrace+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1815+Hillside+Terrace+Akron%2C+OH%2C+44305/)  
 **Price:** $27,000  
 **List Date:** 4/19/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 4/25/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 4/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/28/2014
+**Bid Open Date:** 05/01/2014
 
 ***
 
