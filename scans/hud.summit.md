@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-552300" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552300)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-552300" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552300)  
 **162 Glenn St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552300), [Google Maps](http://maps.google.com/maps?q=162+Glenn+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/162+Glenn+St+Barberton%2C+OH%2C+44203/)  
 **Price:** $15,000  
 **List Date:** 4/25/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 5/1/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 1/1.00  
 **Bid Open Date:** 05/02/2014
 
@@ -104,14 +104,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559770" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559770)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559770" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559770)  
 **1815 Hillside Terrace Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559770), [Google Maps](http://maps.google.com/maps?q=1815+Hillside+Terrace+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1815+Hillside+Terrace+Akron%2C+OH%2C+44305/)  
 **Price:** $27,000  
 **List Date:** 4/19/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 4/25/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 04/28/2014
 
