@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-613896" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-613896)  
+**927 Woodward Avenue Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-613896), [Google Maps](http://maps.google.com/maps?q=927+Woodward+Avenue+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/927+Woodward+Avenue+Akron%2C+OH%2C+44310/)  
+**Price:** $55,000  
+**List Date:** 4/29/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 5/13/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 05/09/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
+**1153 S Munroe Rd Tallmadge, OH, 44278**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
+**Price:** $104,800  
+**List Date:** 4/29/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/4/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 04/30/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-575406" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406)  
 **3225 7th St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-575406), [Google Maps](http://maps.google.com/maps?q=3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/3225+7th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -9,7 +35,7 @@
 **Period Deadline:** 4/30/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2014
+**Bid Open Date:** 04/30/2014
 
 ***
 
@@ -22,7 +48,7 @@
 **Period Deadline:** 10/8/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2014
+**Bid Open Date:** 04/30/2014
 
 ***
 
@@ -48,7 +74,7 @@
 **Period Deadline:** 7/6/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2014
+**Bid Open Date:** 04/30/2014
 
 ***
 
@@ -74,7 +100,7 @@
 **Period Deadline:** 10/7/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 04/29/2014
+**Bid Open Date:** 04/30/2014
 
 ***
 
@@ -100,7 +126,7 @@
 **Period Deadline:** 9/1/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2014
+**Bid Open Date:** 04/30/2014
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 04/29/2014
+**Bid Open Date:** 04/30/2014
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 04/29/2014
+**Bid Open Date:** 04/30/2014
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 6/28/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2014
+**Bid Open Date:** 04/30/2014
 
 ***
 
@@ -178,7 +204,7 @@
 **Period Deadline:** 8/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2014
+**Bid Open Date:** 04/30/2014
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 9/20/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2014
+**Bid Open Date:** 04/30/2014
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 9/20/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/29/2014
+**Bid Open Date:** 04/30/2014
 
 ***
 
