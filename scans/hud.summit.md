@@ -221,16 +221,3 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-654365" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654365)  
-**2654 Maplewood St Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654365), [Google Maps](http://maps.google.com/maps?q=2654+Maplewood+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2654+Maplewood+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $70,000  
-**List Date:** 3/25/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/20/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/01/2014
-
-***
-
