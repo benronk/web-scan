@@ -182,16 +182,3 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-688836" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-688836)  
-**337 Geraldine Ave Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-688836), [Google Maps](http://maps.google.com/maps?q=337+Geraldine+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/337+Geraldine+Ave+Akron%2C+OH%2C+44310/)  
-**Price:** $37,000  
-**List Date:** 3/25/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/20/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/01/2014
-
-***
-
