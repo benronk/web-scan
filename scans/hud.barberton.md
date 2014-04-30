@@ -22,7 +22,7 @@
 **Period Deadline:** 7/6/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 04/30/2014
+**Bid Open Date:** 05/01/2014
 
 ***
 
@@ -31,11 +31,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-539167), [Google Maps](http://maps.google.com/maps?q=975+Perry+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/975+Perry+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $46,000  
 **List Date:** 4/23/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 4/29/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 5/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 04/30/2014
+**Bid Open Date:** 05/05/2014
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 04/30/2014
+**Bid Open Date:** 05/01/2014
 
 ***
 
