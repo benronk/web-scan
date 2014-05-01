@@ -35,7 +35,7 @@
 **Period Deadline:** 10/8/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/01/2014
+**Bid Open Date:** 05/02/2014
 
 ***
 
@@ -61,7 +61,7 @@
 **Period Deadline:** 7/6/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/01/2014
+**Bid Open Date:** 05/02/2014
 
 ***
 
@@ -70,11 +70,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515106), [Google Maps](http://maps.google.com/maps?q=1194+Magnolia+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1194+Magnolia+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $18,000  
 **List Date:** 4/24/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 4/30/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 5/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/01/2014
+**Bid Open Date:** 05/06/2014
 
 ***
 
@@ -87,7 +87,7 @@
 **Period Deadline:** 10/7/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 05/01/2014
+**Bid Open Date:** 05/02/2014
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 05/01/2014
+**Bid Open Date:** 05/02/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 8/29/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 05/01/2014
+**Bid Open Date:** 05/02/2014
 
 ***
 
@@ -135,11 +135,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559770), [Google Maps](http://maps.google.com/maps?q=1815+Hillside+Terrace+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1815+Hillside+Terrace+Akron%2C+OH%2C+44305/)  
 **Price:** $27,000  
 **List Date:** 4/19/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 4/30/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/15/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/01/2014
+**Bid Open Date:** 05/02/2014
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 6/28/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/01/2014
+**Bid Open Date:** 05/02/2014
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 8/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/01/2014
+**Bid Open Date:** 05/02/2014
 
 ***
 
