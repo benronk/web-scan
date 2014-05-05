@@ -117,19 +117,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-559770" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559770)  
-**1815 Hillside Terrace Akron, OH, 44305**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-559770), [Google Maps](http://maps.google.com/maps?q=1815+Hillside+Terrace+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1815+Hillside+Terrace+Akron%2C+OH%2C+44305/)  
-**Price:** $27,000  
-**List Date:** 4/19/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 10/15/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/06/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434307" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434307)  
 **505 Bacon Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434307), [Google Maps](http://maps.google.com/maps?q=505+Bacon+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/505+Bacon+Ave+Akron%2C+OH%2C+44320/)  
