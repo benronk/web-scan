@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564955" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564955)  
+**1446 Union St Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564955), [Google Maps](http://maps.google.com/maps?q=1446+Union+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1446+Union+St+Barberton%2C+OH%2C+44203/)  
+**Price:** $28,000  
+**List Date:** 5/05/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 5/19/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 05/15/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427)  
 **9903 Shepard Road Twinsburg, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427), [Google Maps](http://maps.google.com/maps?q=9903+Shepard+Road+Twinsburg%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9903+Shepard+Road+Twinsburg%2C+OH%2C+44056/)  
@@ -26,27 +39,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-613896" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-613896)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-613896" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-613896)  
 **927 Woodward Avenue Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-613896), [Google Maps](http://maps.google.com/maps?q=927+Woodward+Avenue+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/927+Woodward+Avenue+Akron%2C+OH%2C+44310/)  
 **Price:** $55,000  
 **List Date:** 4/29/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 5/13/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 05/09/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542349" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542349)  
+[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542349" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542349)  
 **1625 Seminola Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542349), [Google Maps](http://maps.google.com/maps?q=1625+Seminola+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1625+Seminola+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $32,000  
 **List Date:** 4/26/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 10/8/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** Property Pending Sale  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 05/06/2014
 
