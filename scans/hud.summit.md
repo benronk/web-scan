@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
+**1153 S Munroe Rd Tallmadge, OH, 44278**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
+**Price:** $104,800  
+**List Date:** 5/08/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 8/12/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 05/09/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442922" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922)  
+**733 Columbus Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922), [Google Maps](http://maps.google.com/maps?q=733+Columbus+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/733+Columbus+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $9,999  
+**List Date:** 5/08/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 6/30/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 05/09/2014
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-564955" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564955)  
 **1446 Union St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-564955), [Google Maps](http://maps.google.com/maps?q=1446+Union+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/1446+Union+St+Barberton%2C+OH%2C+44203/)  
@@ -22,7 +48,7 @@
 **Period Deadline:** 9/4/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/08/2014
+**Bid Open Date:** 05/09/2014
 
 ***
 
@@ -61,7 +87,7 @@
 **Period Deadline:** 10/21/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 1/1.00  
-**Bid Open Date:** 05/08/2014
+**Bid Open Date:** 05/09/2014
 
 ***
 
@@ -74,7 +100,7 @@
 **Period Deadline:** 10/7/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 05/08/2014
+**Bid Open Date:** 05/09/2014
 
 ***
 
@@ -87,7 +113,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 05/08/2014
+**Bid Open Date:** 05/09/2014
 
 ***
 
@@ -100,7 +126,7 @@
 **Period Deadline:** 5/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/08/2014
+**Bid Open Date:** 05/09/2014
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 8/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/08/2014
+**Bid Open Date:** 05/09/2014
 
 ***
 
