@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543702" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543702)  
+**2641 Edwin Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543702), [Google Maps](http://maps.google.com/maps?q=2641+Edwin+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2641+Edwin+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $28,000  
+**List Date:** 5/13/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 5/27/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 05/23/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
 **1153 S Munroe Rd Tallmadge, OH, 44278**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 8/12/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 05/13/2014
+**Bid Open Date:** 05/14/2014
 
 ***
 
@@ -22,7 +35,7 @@
 **Period Deadline:** 6/30/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/13/2014
+**Bid Open Date:** 05/14/2014
 
 ***
 
@@ -48,7 +61,7 @@
 **Period Deadline:** 10/21/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 1/1.00  
-**Bid Open Date:** 05/13/2014
+**Bid Open Date:** 05/14/2014
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 10/7/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 05/13/2014
+**Bid Open Date:** 05/14/2014
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 9/2/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 05/13/2014
+**Bid Open Date:** 05/14/2014
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 10/13/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/13/2014
+**Bid Open Date:** 05/14/2014
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 8/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/13/2014
+**Bid Open Date:** 05/14/2014
 
 ***
 
