@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543702" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543702)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543702" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543702)  
 **2641 Edwin Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543702), [Google Maps](http://maps.google.com/maps?q=2641+Edwin+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2641+Edwin+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $28,000  
 **List Date:** 5/13/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 5/27/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 05/23/2014
 
@@ -52,14 +52,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-552300" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552300)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-552300" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552300)  
 **162 Glenn St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552300), [Google Maps](http://maps.google.com/maps?q=162+Glenn+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/162+Glenn+St+Barberton%2C+OH%2C+44203/)  
 **Price:** $15,000  
 **List Date:** 4/25/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 10/21/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 1/1.00  
 **Bid Open Date:** 05/14/2014
 
