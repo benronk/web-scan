@@ -13,14 +13,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-556898" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556898)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-556898" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556898)  
 **3114 Cleveland Massillon Rd Norton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556898), [Google Maps](http://maps.google.com/maps?q=3114+Cleveland+Massillon+Rd+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/3114+Cleveland+Massillon+Rd+Norton%2C+OH%2C+44203/)  
 **Price:** $90,000  
 **List Date:** 5/15/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 5/29/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/3.00  
 **Bid Open Date:** 05/27/2014
 
