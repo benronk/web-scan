@@ -52,19 +52,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-556898" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556898)  
-**3114 Cleveland Massillon Rd Norton, OH, 44203**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-556898), [Google Maps](http://maps.google.com/maps?q=3114+Cleveland+Massillon+Rd+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/3114+Cleveland+Massillon+Rd+Norton%2C+OH%2C+44203/)  
-**Price:** $90,000  
-**List Date:** 5/15/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 5/29/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 4/3.00  
-**Bid Open Date:** 05/28/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-543702" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543702)  
 **2641 Edwin Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-543702), [Google Maps](http://maps.google.com/maps?q=2641+Edwin+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2641+Edwin+Ave+Akron%2C+OH%2C+44314/)  
