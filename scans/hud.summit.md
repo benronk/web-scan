@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-494622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494622)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-494622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494622)  
 **1273 Vane Avenue Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494622), [Google Maps](http://maps.google.com/maps?q=1273+Vane+Avenue+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1273+Vane+Avenue+Akron%2C+OH%2C+44310/)  
 **Price:** $28,000  
 **List Date:** 5/27/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 6/10/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 06/06/2014
 
@@ -99,6 +99,19 @@
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 10/13/2014 11:59:59 PM  CT  
 **Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 05/28/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-654365" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654365)  
+**2654 Maplewood St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654365), [Google Maps](http://maps.google.com/maps?q=2654+Maplewood+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2654+Maplewood+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $70,000  
+**List Date:** 3/25/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/17/2014 11:59:59 PM  CT  
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 05/28/2014
 
