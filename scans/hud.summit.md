@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558624" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624)  
+**637 Killian Road Akron, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624), [Google Maps](http://maps.google.com/maps?q=637+Killian+Road+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/637+Killian+Road+Akron%2C+OH%2C+44319/)  
+**Price:** $78,000  
+**List Date:** 5/29/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 5/30/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 05/30/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-494622" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494622)  
 **1273 Vane Avenue Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494622), [Google Maps](http://maps.google.com/maps?q=1273+Vane+Avenue+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1273+Vane+Avenue+Akron%2C+OH%2C+44310/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 9/3/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 05/29/2014
+**Bid Open Date:** 05/30/2014
 
 ***
 
@@ -31,11 +44,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396), [Google Maps](http://maps.google.com/maps?q=622+Castle+Boulevard+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/622+Castle+Boulevard+Akron%2C+OH%2C+44313/)  
 **Price:** $94,000  
 **List Date:** 5/22/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 5/28/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 05/29/2014
+**Bid Open Date:** 06/03/2014
 
 ***
 
@@ -48,7 +61,7 @@
 **Period Deadline:** 6/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/29/2014
+**Bid Open Date:** 05/30/2014
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 11/8/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 05/29/2014
+**Bid Open Date:** 05/30/2014
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 6/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/29/2014
+**Bid Open Date:** 05/30/2014
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 10/21/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 1/1.00  
-**Bid Open Date:** 05/29/2014
+**Bid Open Date:** 05/30/2014
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 10/13/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/29/2014
+**Bid Open Date:** 05/30/2014
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 10/17/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 05/29/2014
+**Bid Open Date:** 05/30/2014
 
 ***
 
