@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-625071" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-625071)  
+**778 E Archwood Ave Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-625071), [Google Maps](http://maps.google.com/maps?q=778+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/778+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
+**Price:** $23,000  
+**List Date:** 6/09/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/23/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/19/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516764" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516764)  
+**1530 Artman Ave Akron, OH, 44313**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516764), [Google Maps](http://maps.google.com/maps?q=1530+Artman+Ave+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/1530+Artman+Ave+Akron%2C+OH%2C+44313/)  
+**Price:** $62,000  
+**List Date:** 6/09/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/23/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 5/2.00  
+**Bid Open Date:** 06/19/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-498088" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-498088)  
 **2609 Graham Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-498088), [Google Maps](http://maps.google.com/maps?q=2609+Graham+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2609+Graham+Ave+Akron%2C+OH%2C+44312/)  
@@ -26,27 +52,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-579212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579212)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-579212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579212)  
 **2222 Hi Vue Drive Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579212), [Google Maps](http://maps.google.com/maps?q=2222+Hi+Vue+Drive+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2222+Hi+Vue+Drive+Akron%2C+OH%2C+44312/)  
 **Price:** $84,000  
 **List Date:** 6/03/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 6/17/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 06/13/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-429841" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-429841)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-429841" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-429841)  
 **37 E Ralston Ave Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-429841), [Google Maps](http://maps.google.com/maps?q=37+E+Ralston+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/37+E+Ralston+Ave+Akron%2C+OH%2C+44301/)  
 **Price:** $45,000  
 **List Date:** 6/03/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 6/17/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 06/13/2014
 
@@ -78,14 +104,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-492396" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-492396" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396)  
 **622 Castle Boulevard Akron, OH, 44313**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396), [Google Maps](http://maps.google.com/maps?q=622+Castle+Boulevard+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/622+Castle+Boulevard+Akron%2C+OH%2C+44313/)  
 **Price:** $94,000  
 **List Date:** 5/22/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 11/17/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 06/10/2014
 
