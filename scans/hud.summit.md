@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427)  
+**9903 Shepard Road Twinsburg, OH, 44056**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427), [Google Maps](http://maps.google.com/maps?q=9903+Shepard+Road+Twinsburg%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9903+Shepard+Road+Twinsburg%2C+OH%2C+44056/)  
+**Price:** $54,560  
+**List Date:** 6/12/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/5/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/13/2014
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-552300" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552300)  
 **162 Glenn St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-552300), [Google Maps](http://maps.google.com/maps?q=162+Glenn+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/162+Glenn+St+Barberton%2C+OH%2C+44203/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 10/22/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 1/1.00  
-**Bid Open Date:** 06/12/2014
+**Bid Open Date:** 06/13/2014
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 10/17/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/12/2014
+**Bid Open Date:** 06/13/2014
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 10/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/12/2014
+**Bid Open Date:** 06/13/2014
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 9/3/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 06/12/2014
+**Bid Open Date:** 06/13/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 11/17/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 06/12/2014
+**Bid Open Date:** 06/13/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 6/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/12/2014
+**Bid Open Date:** 06/13/2014
 
 ***
 
