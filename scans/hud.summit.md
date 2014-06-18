@@ -9,7 +9,7 @@
 **Period Deadline:** 11/18/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/18/2014
+**Bid Open Date:** 06/19/2014
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 10/5/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/18/2014
+**Bid Open Date:** 06/19/2014
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 10/17/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/18/2014
+**Bid Open Date:** 06/19/2014
 
 ***
 
@@ -83,11 +83,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-429841), [Google Maps](http://maps.google.com/maps?q=37+E+Ralston+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/37+E+Ralston+Ave+Akron%2C+OH%2C+44301/)  
 **Price:** $45,000  
 **List Date:** 6/03/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/17/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/29/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/18/2014
+**Bid Open Date:** 06/19/2014
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 10/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/18/2014
+**Bid Open Date:** 06/19/2014
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 9/3/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 06/18/2014
+**Bid Open Date:** 06/19/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 11/17/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 06/18/2014
+**Bid Open Date:** 06/19/2014
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 6/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/18/2014
+**Bid Open Date:** 06/19/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 6/20/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/18/2014
+**Bid Open Date:** 06/19/2014
 
 ***
 
