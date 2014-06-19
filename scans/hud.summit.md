@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-504837" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504837)  
+**1187 N Main St Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504837), [Google Maps](http://maps.google.com/maps?q=1187+N+Main+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1187+N+Main+St+Akron%2C+OH%2C+44310/)  
+**Price:** $34,000  
+**List Date:** 6/19/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 6/25/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 06/26/2014
+
+***
+
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534663" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663)  
 **1569 Tonawanda Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663), [Google Maps](http://maps.google.com/maps?q=1569+Tonawanda+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1569+Tonawanda+Ave+Akron%2C+OH%2C+44305/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 10/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2014
+**Bid Open Date:** 06/20/2014
 
 ***
 
@@ -35,7 +48,7 @@
 **Period Deadline:** 6/23/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2014
+**Bid Open Date:** 06/20/2014
 
 ***
 
@@ -48,7 +61,7 @@
 **Period Deadline:** 6/23/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 5/2.00  
-**Bid Open Date:** 06/19/2014
+**Bid Open Date:** 06/20/2014
 
 ***
 
@@ -61,7 +74,7 @@
 **Period Deadline:** 10/17/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2014
+**Bid Open Date:** 06/20/2014
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 11/29/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/19/2014
+**Bid Open Date:** 06/20/2014
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 10/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2014
+**Bid Open Date:** 06/20/2014
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 9/3/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 06/19/2014
+**Bid Open Date:** 06/20/2014
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 11/17/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 06/19/2014
+**Bid Open Date:** 06/20/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 6/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2014
+**Bid Open Date:** 06/20/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 6/20/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/19/2014
+**Bid Open Date:** 06/20/2014
 
 ***
 
