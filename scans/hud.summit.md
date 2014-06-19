@@ -39,19 +39,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-625071" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-625071)  
-**778 E Archwood Ave Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-625071), [Google Maps](http://maps.google.com/maps?q=778+E+Archwood+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/778+E+Archwood+Ave+Akron%2C+OH%2C+44306/)  
-**Price:** $23,000  
-**List Date:** 6/09/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/23/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/20/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516764" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516764)  
 **1530 Artman Ave Akron, OH, 44313**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516764), [Google Maps](http://maps.google.com/maps?q=1530+Artman+Ave+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/1530+Artman+Ave+Akron%2C+OH%2C+44313/)  
