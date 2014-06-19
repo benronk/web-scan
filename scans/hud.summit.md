@@ -1,26 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534663" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534663" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663)  
 **1569 Tonawanda Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663), [Google Maps](http://maps.google.com/maps?q=1569+Tonawanda+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1569+Tonawanda+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $24,000  
 **List Date:** 6/12/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 06/23/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427)  
 **9903 Shepard Road Twinsburg, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427), [Google Maps](http://maps.google.com/maps?q=9903+Shepard+Road+Twinsburg%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9903+Shepard+Road+Twinsburg%2C+OH%2C+44056/)  
 **Price:** $54,560  
 **List Date:** 6/12/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 10/5/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 06/19/2014
 
@@ -65,14 +65,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-429841" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-429841)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-429841" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-429841)  
 **37 E Ralston Ave Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-429841), [Google Maps](http://maps.google.com/maps?q=37+E+Ralston+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/37+E+Ralston+Ave+Akron%2C+OH%2C+44301/)  
 **Price:** $45,000  
 **List Date:** 6/03/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 11/29/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 06/19/2014
 
