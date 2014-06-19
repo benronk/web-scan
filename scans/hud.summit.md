@@ -39,19 +39,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-516764" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516764)  
-**1530 Artman Ave Akron, OH, 44313**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-516764), [Google Maps](http://maps.google.com/maps?q=1530+Artman+Ave+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/1530+Artman+Ave+Akron%2C+OH%2C+44313/)  
-**Price:** $62,000  
-**List Date:** 6/09/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/23/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 5/2.00  
-**Bid Open Date:** 06/20/2014
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-654365" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654365)  
 **2654 Maplewood St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-654365), [Google Maps](http://maps.google.com/maps?q=2654+Maplewood+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2654+Maplewood+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
