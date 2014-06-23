@@ -65,19 +65,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-429841" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-429841)  
-**37 E Ralston Ave Akron, OH, 44301**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-429841), [Google Maps](http://maps.google.com/maps?q=37+E+Ralston+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/37+E+Ralston+Ave+Akron%2C+OH%2C+44301/)  
-**Price:** $45,000  
-**List Date:** 6/03/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 11/29/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/24/2014
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-434307" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434307)  
 **505 Bacon Ave Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-434307), [Google Maps](http://maps.google.com/maps?q=505+Bacon+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/505+Bacon+Ave+Akron%2C+OH%2C+44320/)  
