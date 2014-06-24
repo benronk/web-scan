@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558624" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624)  
+**637 Killian Road Akron, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624), [Google Maps](http://maps.google.com/maps?q=637+Killian+Road+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/637+Killian+Road+Akron%2C+OH%2C+44319/)  
+**Price:** $78,000  
+**List Date:** 6/24/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/28/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 06/25/2014
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537707" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707)  
+**63 19th St NW Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707), [Google Maps](http://maps.google.com/maps?q=63+19th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/63+19th+St+NW+Barberton%2C+OH%2C+44203/)  
+**Price:** $1,500  
+**List Date:** 6/24/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/4/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 0/0.00  
+**Bid Open Date:** 06/25/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-592365" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-592365)  
 **834 Jean Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-592365), [Google Maps](http://maps.google.com/maps?q=834+Jean+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/834+Jean+Ave+Akron%2C+OH%2C+44310/)  
@@ -48,7 +74,7 @@
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/24/2014
+**Bid Open Date:** 06/25/2014
 
 ***
 
@@ -61,7 +87,7 @@
 **Period Deadline:** 10/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/24/2014
+**Bid Open Date:** 06/25/2014
 
 ***
 
@@ -74,7 +100,7 @@
 **Period Deadline:** 10/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/24/2014
+**Bid Open Date:** 06/25/2014
 
 ***
 
@@ -87,7 +113,7 @@
 **Period Deadline:** 11/17/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 06/24/2014
+**Bid Open Date:** 06/25/2014
 
 ***
 
@@ -100,7 +126,7 @@
 **Period Deadline:** 6/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/24/2014
+**Bid Open Date:** 06/25/2014
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 12/2/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/24/2014
+**Bid Open Date:** 06/25/2014
 
 ***
 
