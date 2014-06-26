@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
+**380 Rexford St Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
+**Price:** $30,000  
+**List Date:** 6/26/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/12/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 06/27/2014
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528427" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427)  
 **9903 Shepard Road Twinsburg, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528427), [Google Maps](http://maps.google.com/maps?q=9903+Shepard+Road+Twinsburg%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/9903+Shepard+Road+Twinsburg%2C+OH%2C+44056/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 10/6/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/26/2014
+**Bid Open Date:** 06/27/2014
 
 ***
 
@@ -22,7 +35,7 @@
 **Period Deadline:** 6/28/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 06/26/2014
+**Bid Open Date:** 06/27/2014
 
 ***
 
@@ -35,7 +48,7 @@
 **Period Deadline:** 9/4/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 06/26/2014
+**Bid Open Date:** 06/27/2014
 
 ***
 
@@ -57,11 +70,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-592365), [Google Maps](http://maps.google.com/maps?q=834+Jean+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/834+Jean+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $37,000  
 **List Date:** 6/19/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 6/25/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/26/2014
+**Bid Open Date:** 07/01/2014
 
 ***
 
@@ -70,11 +83,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520662), [Google Maps](http://maps.google.com/maps?q=2967+Wingate+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2967+Wingate+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $27,000  
 **List Date:** 6/19/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 6/25/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/26/2014
+**Bid Open Date:** 07/01/2014
 
 ***
 
@@ -83,11 +96,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504837), [Google Maps](http://maps.google.com/maps?q=1187+N+Main+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1187+N+Main+St+Akron%2C+OH%2C+44310/)  
 **Price:** $34,000  
 **List Date:** 6/19/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 6/25/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 6/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 06/26/2014
+**Bid Open Date:** 07/01/2014
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 6/26/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 06/26/2014
+**Bid Open Date:** 06/27/2014
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 10/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/26/2014
+**Bid Open Date:** 06/27/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 11/17/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 06/26/2014
+**Bid Open Date:** 06/27/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 12/2/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 06/26/2014
+**Bid Open Date:** 06/27/2014
 
 ***
 
