@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-664535" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-664535)  
+**1367 Ada St Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-664535), [Google Maps](http://maps.google.com/maps?q=1367+Ada+St+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1367+Ada+St+Akron%2C+OH%2C+44306/)  
+**Price:** $34,000  
+**List Date:** 6/28/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/12/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/08/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-667352" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-667352)  
 **2800 Lyman Drive Clinton, OH, 44216**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-667352), [Google Maps](http://maps.google.com/maps?q=2800+Lyman+Drive+Clinton%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/2800+Lyman+Drive+Clinton%2C+OH%2C+44216/)  
