@@ -83,8 +83,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624), [Google Maps](http://maps.google.com/maps?q=637+Killian+Road+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/637+Killian+Road+Akron%2C+OH%2C+44319/)  
 **Price:** $78,000  
 **List Date:** 6/24/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/28/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/29/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 06/30/2014
