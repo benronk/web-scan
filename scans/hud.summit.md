@@ -91,14 +91,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483900" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483900)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-483900" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483900)  
 **2317 19th St SW Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483900), [Google Maps](http://maps.google.com/maps?q=2317+19th+St+SW+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2317+19th+St+SW+Akron%2C+OH%2C+44314/)  
 **Price:** $15,000  
 **List Date:** 6/24/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 6/30/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/01/2014
 
