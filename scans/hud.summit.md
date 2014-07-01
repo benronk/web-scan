@@ -35,7 +35,7 @@
 **Period Deadline:** 7/3/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/02/2014
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 9/12/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/02/2014
 
 ***
 
@@ -61,7 +61,7 @@
 **Period Deadline:** 10/6/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/02/2014
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 11/29/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/02/2014
 
 ***
 
@@ -87,7 +87,7 @@
 **Period Deadline:** 9/4/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/02/2014
 
 ***
 
@@ -96,11 +96,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-483900), [Google Maps](http://maps.google.com/maps?q=2317+19th+St+SW+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2317+19th+St+SW+Akron%2C+OH%2C+44314/)  
 **Price:** $15,000  
 **List Date:** 6/24/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 6/30/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/07/2014
 
 ***
 
@@ -109,11 +109,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-592365), [Google Maps](http://maps.google.com/maps?q=834+Jean+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/834+Jean+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $37,000  
 **List Date:** 6/19/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/30/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/15/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/02/2014
 
 ***
 
@@ -122,11 +122,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520662), [Google Maps](http://maps.google.com/maps?q=2967+Wingate+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2967+Wingate+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $27,000  
 **List Date:** 6/19/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/30/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/15/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/02/2014
 
 ***
 
@@ -135,11 +135,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-504837), [Google Maps](http://maps.google.com/maps?q=1187+N+Main+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1187+N+Main+St+Akron%2C+OH%2C+44310/)  
 **Price:** $34,000  
 **List Date:** 6/19/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 6/30/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 12/15/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/02/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 10/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/02/2014
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 11/17/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/02/2014
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 12/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/01/2014
+**Bid Open Date:** 07/02/2014
 
 ***
 
