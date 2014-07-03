@@ -1,13 +1,13 @@
 # Medina County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-603169" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-603169)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-603169" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-603169)  
 **5464 Grey Drive Medina, OH, 44256**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-603169), [Google Maps](http://maps.google.com/maps?q=5464+Grey+Drive+Medina%2C+OH%2C+44256), [Zillow](http://www.zillow.com/homes/5464+Grey+Drive+Medina%2C+OH%2C+44256/)  
 **Price:** $156,000  
 **List Date:** 7/02/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/5/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/2.10  
 **Bid Open Date:** 07/03/2014
 

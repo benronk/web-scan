@@ -52,14 +52,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
 **380 Rexford St Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
 **Price:** $30,000  
 **List Date:** 6/26/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 9/12/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/03/2014
 
