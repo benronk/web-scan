@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-692208" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-692208)  
+**720 Frank Blvd Akron, OH, 44320**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-692208), [Google Maps](http://maps.google.com/maps?q=720+Frank+Blvd+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/720+Frank+Blvd+Akron%2C+OH%2C+44320/)  
+**Price:** $70,000  
+**List Date:** 7/07/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/21/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 07/17/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536191" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536191)  
 **591 Garry Rd Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536191), [Google Maps](http://maps.google.com/maps?q=591+Garry+Rd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/591+Garry+Rd+Akron%2C+OH%2C+44305/)  
@@ -13,14 +26,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595323" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595323" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323)  
 **2863 8th St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323), [Google Maps](http://maps.google.com/maps?q=2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $52,000  
 **List Date:** 7/01/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/15/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 07/11/2014
 
