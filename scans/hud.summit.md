@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524)  
+**3650 Marcella Avenue Stow, OH, 44224**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524), [Google Maps](http://maps.google.com/maps?q=3650+Marcella+Avenue+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/3650+Marcella+Avenue+Stow%2C+OH%2C+44224/)  
+**Price:** $55,900  
+**List Date:** 7/08/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/5/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/09/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-492396" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396)  
+**622 Castle Boulevard Akron, OH, 44313**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396), [Google Maps](http://maps.google.com/maps?q=622+Castle+Boulevard+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/622+Castle+Boulevard+Akron%2C+OH%2C+44313/)  
+**Price:** $84,600  
+**List Date:** 7/08/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/12/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 07/09/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-692208" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-692208)  
 **720 Frank Blvd Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-692208), [Google Maps](http://maps.google.com/maps?q=720+Frank+Blvd+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/720+Frank+Blvd+Akron%2C+OH%2C+44320/)  
@@ -48,7 +74,7 @@
 **Period Deadline:** 7/12/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2014
+**Bid Open Date:** 07/09/2014
 
 ***
 
@@ -61,7 +87,7 @@
 **Period Deadline:** 7/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2014
+**Bid Open Date:** 07/09/2014
 
 ***
 
@@ -74,7 +100,7 @@
 **Period Deadline:** 9/12/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2014
+**Bid Open Date:** 07/09/2014
 
 ***
 
@@ -87,7 +113,7 @@
 **Period Deadline:** 10/6/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2014
+**Bid Open Date:** 07/09/2014
 
 ***
 
@@ -100,7 +126,7 @@
 **Period Deadline:** 9/4/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 07/08/2014
+**Bid Open Date:** 07/09/2014
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 12/20/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2014
+**Bid Open Date:** 07/09/2014
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 10/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2014
+**Bid Open Date:** 07/09/2014
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 12/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/08/2014
+**Bid Open Date:** 07/09/2014
 
 ***
 
