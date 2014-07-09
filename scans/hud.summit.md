@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-704763" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-704763)  
+**115 Vincent Ave Northfield, OH, 44067**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-704763), [Google Maps](http://maps.google.com/maps?q=115+Vincent+Ave+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/115+Vincent+Ave+Northfield%2C+OH%2C+44067/)  
+**Price:** $48,000  
+**List Date:** 7/09/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/23/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/21/2014
+
+***
+
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-572524" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524)  
 **3650 Marcella Avenue Stow, OH, 44224**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-572524), [Google Maps](http://maps.google.com/maps?q=3650+Marcella+Avenue+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/3650+Marcella+Avenue+Stow%2C+OH%2C+44224/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 11/5/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/09/2014
+**Bid Open Date:** 07/10/2014
 
 ***
 
@@ -22,7 +35,7 @@
 **Period Deadline:** 7/12/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/09/2014
+**Bid Open Date:** 07/10/2014
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 7/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/09/2014
+**Bid Open Date:** 07/10/2014
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 9/12/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/09/2014
+**Bid Open Date:** 07/10/2014
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 10/6/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/09/2014
+**Bid Open Date:** 07/10/2014
 
 ***
 
@@ -113,7 +126,7 @@
 **Period Deadline:** 9/4/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 07/09/2014
+**Bid Open Date:** 07/10/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 10/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/09/2014
+**Bid Open Date:** 07/10/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 12/2/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/09/2014
+**Bid Open Date:** 07/10/2014
 
 ***
 
