@@ -1,14 +1,40 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-704763" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-704763)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-704763" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-704763)  
 **115 Vincent Ave Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-704763), [Google Maps](http://maps.google.com/maps?q=115+Vincent+Ave+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/115+Vincent+Ave+Northfield%2C+OH%2C+44067/)  
 **Price:** $48,000  
 **List Date:** 7/09/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/23/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
+**Bid Open Date:** 07/21/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-669361" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-669361)  
+**545 Fenn Road Tallmadge, OH, 44278**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-669361), [Google Maps](http://maps.google.com/maps?q=545+Fenn+Road+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/545+Fenn+Road+Tallmadge%2C+OH%2C+44278/)  
+**Price:** $65,000  
+**List Date:** 7/09/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/23/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 07/21/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537198" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537198)  
+**20 Woolf Ave Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537198), [Google Maps](http://maps.google.com/maps?q=20+Woolf+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/20+Woolf+Ave+Akron%2C+OH%2C+44312/)  
+**Price:** $34,000  
+**List Date:** 7/09/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 7/23/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 07/21/2014
 
 ***
