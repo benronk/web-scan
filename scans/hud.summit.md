@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558624" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558624" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624)  
 **637 Killian Road Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624), [Google Maps](http://maps.google.com/maps?q=637+Killian+Road+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/637+Killian+Road+Akron%2C+OH%2C+44319/)  
 **Price:** $78,000  
 **List Date:** 7/10/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/14/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 07/11/2014
 
@@ -91,14 +91,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536191" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536191)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536191" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536191)  
 **591 Garry Rd Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536191), [Google Maps](http://maps.google.com/maps?q=591+Garry+Rd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/591+Garry+Rd+Akron%2C+OH%2C+44305/)  
 **Price:** $18,000  
 **List Date:** 7/04/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 7/10/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 07/11/2014
 
