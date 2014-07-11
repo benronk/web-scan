@@ -117,19 +117,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442922" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922)  
-**733 Columbus Ave Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442922), [Google Maps](http://maps.google.com/maps?q=733+Columbus+Ave+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/733+Columbus+Ave+Akron%2C+OH%2C+44306/)  
-**Price:** $8,000  
-**List Date:** 6/27/2014  
-**Listing Period:** Dollar (Government Agencies Only)  
-**Period Deadline:** 7/13/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/14/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
 **380 Rexford St Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
