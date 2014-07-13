@@ -70,8 +70,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396), [Google Maps](http://maps.google.com/maps?q=622+Castle+Boulevard+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/622+Castle+Boulevard+Akron%2C+OH%2C+44313/)  
 **Price:** $84,600  
 **List Date:** 7/08/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/12/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 11/18/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 07/14/2014
