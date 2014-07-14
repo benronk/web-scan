@@ -78,14 +78,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-692208" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-692208)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-692208" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-692208)  
 **720 Frank Blvd Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-692208), [Google Maps](http://maps.google.com/maps?q=720+Frank+Blvd+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/720+Frank+Blvd+Akron%2C+OH%2C+44320/)  
 **Price:** $70,000  
 **List Date:** 7/07/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 7/21/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 07/17/2014
 
