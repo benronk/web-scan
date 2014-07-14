@@ -104,19 +104,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595323" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323)  
-**2863 8th St Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323), [Google Maps](http://maps.google.com/maps?q=2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $52,000  
-**List Date:** 7/01/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/15/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/15/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
 **380 Rexford St Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
