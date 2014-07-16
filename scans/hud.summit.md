@@ -1,18 +1,5 @@
 # Summit County HUD Homes
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-548255" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255)  
-**1153 S Munroe Rd Tallmadge, OH, 44278**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-548255), [Google Maps](http://maps.google.com/maps?q=1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/1153+S+Munroe+Rd+Tallmadge%2C+OH%2C+44278/)  
-**Price:** $89,000  
-**List Date:** 7/15/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 10/12/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 4/2.00  
-**Bid Open Date:** 07/17/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586544" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544)  
 **376 Catalina Dr New Franklin, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586544), [Google Maps](http://maps.google.com/maps?q=376+Catalina+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/376+Catalina+Dr+New+Franklin%2C+OH%2C+44319/)  
