@@ -1,18 +1,5 @@
 # Summit County HUD Homes
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-558624" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624)  
-**637 Killian Road Akron, OH, 44319**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-558624), [Google Maps](http://maps.google.com/maps?q=637+Killian+Road+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/637+Killian+Road+Akron%2C+OH%2C+44319/)  
-**Price:** $78,000  
-**List Date:** 7/10/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/6/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/17/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-704763" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-704763)  
 **115 Vincent Ave Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-704763), [Google Maps](http://maps.google.com/maps?q=115+Vincent+Ave+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/115+Vincent+Ave+Northfield%2C+OH%2C+44067/)  
