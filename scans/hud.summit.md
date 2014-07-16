@@ -78,32 +78,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536191" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536191)  
-**591 Garry Rd Akron, OH, 44305**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536191), [Google Maps](http://maps.google.com/maps?q=591+Garry+Rd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/591+Garry+Rd+Akron%2C+OH%2C+44305/)  
-**Price:** $18,000  
-**List Date:** 7/04/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/30/2014 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 07/17/2014
-
-***
-
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
-**380 Rexford St Akron, OH, 44314**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
-**Price:** $30,000  
-**List Date:** 6/26/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 9/12/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/17/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-535581" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-535581)  
 **6406 Southview Dr New Franklin, OH, 44216**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-535581), [Google Maps](http://maps.google.com/maps?q=6406+Southview+Dr+New+Franklin%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/6406+Southview+Dr+New+Franklin%2C+OH%2C+44216/)  
