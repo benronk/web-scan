@@ -65,19 +65,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-669361" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-669361)  
-**545 Fenn Road Tallmadge, OH, 44278**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-669361), [Google Maps](http://maps.google.com/maps?q=545+Fenn+Road+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/545+Fenn+Road+Tallmadge%2C+OH%2C+44278/)  
-**Price:** $65,000  
-**List Date:** 7/09/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/23/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/2.00  
-**Bid Open Date:** 07/22/2014
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-492396" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396)  
 **622 Castle Boulevard Akron, OH, 44313**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396), [Google Maps](http://maps.google.com/maps?q=622+Castle+Boulevard+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/622+Castle+Boulevard+Akron%2C+OH%2C+44313/)  
