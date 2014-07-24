@@ -14,8 +14,8 @@
 ***
 
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-571771" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-571771)  
-**282 Deepwood Dr Wadsworth, OH, 44281**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-571771), [Google Maps](http://maps.google.com/maps?q=282+Deepwood+Dr+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/282+Deepwood+Dr+Wadsworth%2C+OH%2C+44281/)  
+**282 Deepwood Dr Unit#282 Wadsworth, OH, 44281**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-571771), [Google Maps](http://maps.google.com/maps?q=282+Deepwood+Dr+Unit%23282+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/282+Deepwood+Dr+Unit%23282+Wadsworth%2C+OH%2C+44281/)  
 **Price:** $48,700  
 **List Date:** 7/09/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
