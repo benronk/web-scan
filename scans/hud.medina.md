@@ -18,11 +18,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-571771), [Google Maps](http://maps.google.com/maps?q=282+Deepwood+Dr+Unit%23282+Wadsworth%2C+OH%2C+44281), [Zillow](http://www.zillow.com/homes/282+Deepwood+Dr+Unit%23282+Wadsworth%2C+OH%2C+44281/)  
 **Price:** $48,700  
 **List Date:** 7/09/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 7/23/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/4/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 07/24/2014
+**Bid Open Date:** 07/25/2014
 
 ***
 
@@ -35,7 +35,7 @@
 **Period Deadline:** 12/5/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 07/24/2014
+**Bid Open Date:** 07/25/2014
 
 ***
 
