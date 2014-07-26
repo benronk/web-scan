@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517601" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517601)  
+**266 Stone Bridge Dr Northfield, OH, 44067**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517601), [Google Maps](http://maps.google.com/maps?q=266+Stone+Bridge+Dr+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/266+Stone+Bridge+Dr+Northfield%2C+OH%2C+44067/)  
+**Price:** $136,000  
+**List Date:** 7/25/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/8/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/2.00  
+**Bid Open Date:** 08/04/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554515" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554515)  
 **2217 19th St SW Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554515), [Google Maps](http://maps.google.com/maps?q=2217+19th+St+SW+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2217+19th+St+SW+Akron%2C+OH%2C+44314/)  
@@ -65,27 +78,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-550316" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550316)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-550316" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550316)  
 **2412 Cooledge Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-550316), [Google Maps](http://maps.google.com/maps?q=2412+Cooledge+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/2412+Cooledge+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $50,000  
 **List Date:** 7/19/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/2/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/29/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
 **380 Rexford St Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
 **Price:** $30,000  
 **List Date:** 7/19/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 9/15/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 07/28/2014
 
