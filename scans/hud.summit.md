@@ -78,19 +78,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-535581" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-535581)  
-**6406 Southview Dr New Franklin, OH, 44216**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-535581), [Google Maps](http://maps.google.com/maps?q=6406+Southview+Dr+New+Franklin%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/6406+Southview+Dr+New+Franklin%2C+OH%2C+44216/)  
-**Price:** $54,000  
-**List Date:** 7/22/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 12/2/2014 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 07/30/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-581871" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-581871)  
 **429 Derbyshire Rd Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-581871), [Google Maps](http://maps.google.com/maps?q=429+Derbyshire+Rd+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/429+Derbyshire+Rd+Akron%2C+OH%2C+44319/)  
