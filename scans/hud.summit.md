@@ -1,15 +1,41 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-520612" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520612)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-600942" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-600942)  
+**1729 Betz Dr Akron, OH, 44306**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-600942), [Google Maps](http://maps.google.com/maps?q=1729+Betz+Dr+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1729+Betz+Dr+Akron%2C+OH%2C+44306/)  
+**Price:** $46,000  
+**List Date:** 7/29/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/12/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/08/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-520612" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520612)  
 **616 Hedden Ave Akron, OH, 44311**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520612), [Google Maps](http://maps.google.com/maps?q=616+Hedden+Ave+Akron%2C+OH%2C+44311), [Zillow](http://www.zillow.com/homes/616+Hedden+Ave+Akron%2C+OH%2C+44311/)  
 **Price:** $9,000  
 **List Date:** 7/29/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 8/4/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/05/2014
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442418" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442418)  
+**918 Winton Avenue Akron, OH, 44320**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442418), [Google Maps](http://maps.google.com/maps?q=918+Winton+Avenue+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/918+Winton+Avenue+Akron%2C+OH%2C+44320/)  
+**Price:** $16,900  
+**List Date:** 7/29/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/12/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 08/08/2014
 
 ***
 
@@ -52,14 +78,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554515" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554515)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-554515" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554515)  
 **2217 19th St SW Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-554515), [Google Maps](http://maps.google.com/maps?q=2217+19th+St+SW+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/2217+19th+St+SW+Akron%2C+OH%2C+44314/)  
 **Price:** $20,000  
 **List Date:** 7/23/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 7/29/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 07/30/2014
 
