@@ -148,8 +148,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579212), [Google Maps](http://maps.google.com/maps?q=2222+Hi+Vue+Drive+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2222+Hi+Vue+Drive+Akron%2C+OH%2C+44312/)  
 **Price:** $84,000  
 **List Date:** 6/03/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/1/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/13/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
 **Bid Open Date:** 08/04/2014
