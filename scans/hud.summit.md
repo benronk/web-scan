@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587833" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833)  
+**215 E Wilbeth Rd Akron, OH, 44301**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833), [Google Maps](http://maps.google.com/maps?q=215+E+Wilbeth+Rd+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/215+E+Wilbeth+Rd+Akron%2C+OH%2C+44301/)  
+**Price:** $34,000  
+**List Date:** 8/06/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 8/12/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/13/2014
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
+**380 Rexford St Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
+**Price:** $21,000  
+**List Date:** 8/06/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/22/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/07/2014
+
+***
+
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-592115" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-592115)  
 **272 Dennison Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-592115), [Google Maps](http://maps.google.com/maps?q=272+Dennison+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/272+Dennison+Ave+Akron%2C+OH%2C+44312/)  
@@ -61,7 +87,7 @@
 **Period Deadline:** 8/9/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2014
+**Bid Open Date:** 08/07/2014
 
 ***
 
@@ -74,7 +100,7 @@
 **Period Deadline:** 11/21/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 08/06/2014
+**Bid Open Date:** 08/07/2014
 
 ***
 
@@ -87,7 +113,7 @@
 **Period Deadline:** 8/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 08/06/2014
+**Bid Open Date:** 08/07/2014
 
 ***
 
@@ -100,7 +126,7 @@
 **Period Deadline:** 9/12/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 08/06/2014
+**Bid Open Date:** 08/07/2014
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/06/2014
+**Bid Open Date:** 08/07/2014
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 1/11/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 08/06/2014
+**Bid Open Date:** 08/07/2014
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 1/14/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/2.00  
-**Bid Open Date:** 08/06/2014
+**Bid Open Date:** 08/07/2014
 
 ***
 
