@@ -156,16 +156,3 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-579212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579212)  
-**2222 Hi Vue Drive Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579212), [Google Maps](http://maps.google.com/maps?q=2222+Hi+Vue+Drive+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2222+Hi+Vue+Drive+Akron%2C+OH%2C+44312/)  
-**Price:** $84,000  
-**List Date:** 6/03/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/14/2015 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 4/2.00  
-**Bid Open Date:** 08/07/2014
-
-***
-
