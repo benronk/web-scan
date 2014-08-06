@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-592115" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-592115)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-592115" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-592115)  
 **272 Dennison Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-592115), [Google Maps](http://maps.google.com/maps?q=272+Dennison+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/272+Dennison+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $32,000  
 **List Date:** 7/30/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/13/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 08/11/2014
 
@@ -26,14 +26,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-520612" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520612)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-520612" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520612)  
 **616 Hedden Ave Akron, OH, 44311**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520612), [Google Maps](http://maps.google.com/maps?q=616+Hedden+Ave+Akron%2C+OH%2C+44311), [Zillow](http://www.zillow.com/homes/616+Hedden+Ave+Akron%2C+OH%2C+44311/)  
 **Price:** $9,000  
 **List Date:** 7/29/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/9/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/11/2014
 
@@ -104,14 +104,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-557558" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-557558" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558)  
 **1848 Cameroon Ct Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558), [Google Maps](http://maps.google.com/maps?q=1848+Cameroon+Ct+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1848+Cameroon+Ct+Akron%2C+OH%2C+44305/)  
 **Price:** $42,600  
 **List Date:** 7/21/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/06/2014
 
@@ -126,6 +126,19 @@
 **Period Deadline:** 1/11/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
+**Bid Open Date:** 08/06/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-579212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579212)  
+**2222 Hi Vue Drive Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-579212), [Google Maps](http://maps.google.com/maps?q=2222+Hi+Vue+Drive+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2222+Hi+Vue+Drive+Akron%2C+OH%2C+44312/)  
+**Price:** $84,000  
+**List Date:** 6/03/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/14/2015 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/2.00  
 **Bid Open Date:** 08/06/2014
 
 ***
