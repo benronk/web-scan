@@ -1,13 +1,26 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587833" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-590649" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590649)  
+**346 Greenwood Ave Akron, OH, 44320**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590649), [Google Maps](http://maps.google.com/maps?q=346+Greenwood+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/346+Greenwood+Ave+Akron%2C+OH%2C+44320/)  
+**Price:** $60,000  
+**List Date:** 8/06/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/20/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/1.10  
+**Bid Open Date:** 08/18/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587833" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833)  
 **215 E Wilbeth Rd Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833), [Google Maps](http://maps.google.com/maps?q=215+E+Wilbeth+Rd+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/215+E+Wilbeth+Rd+Akron%2C+OH%2C+44301/)  
 **Price:** $34,000  
 **List Date:** 8/06/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 8/12/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/13/2014
 
@@ -91,14 +104,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-492396" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-492396" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396)  
 **622 Castle Boulevard Akron, OH, 44313**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-492396), [Google Maps](http://maps.google.com/maps?q=622+Castle+Boulevard+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/622+Castle+Boulevard+Akron%2C+OH%2C+44313/)  
 **Price:** $84,600  
 **List Date:** 7/26/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 11/21/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 08/07/2014
 
