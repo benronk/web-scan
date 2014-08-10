@@ -109,8 +109,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520612), [Google Maps](http://maps.google.com/maps?q=616+Hedden+Ave+Akron%2C+OH%2C+44311), [Zillow](http://www.zillow.com/homes/616+Hedden+Ave+Akron%2C+OH%2C+44311/)  
 **Price:** $9,000  
 **List Date:** 7/29/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/9/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/24/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/11/2014
@@ -135,8 +135,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-576330), [Google Maps](http://maps.google.com/maps?q=802+Good+Park+Blvd+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/802+Good+Park+Blvd+Akron%2C+OH%2C+44320/)  
 **Price:** $22,000  
 **List Date:** 7/26/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/9/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/21/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/11/2014
