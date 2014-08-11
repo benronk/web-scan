@@ -78,19 +78,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-592115" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-592115)  
-**272 Dennison Ave Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-592115), [Google Maps](http://maps.google.com/maps?q=272+Dennison+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/272+Dennison+Ave+Akron%2C+OH%2C+44312/)  
-**Price:** $32,000  
-**List Date:** 7/30/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/13/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/12/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-520612" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520612)  
 **616 Hedden Ave Akron, OH, 44311**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520612), [Google Maps](http://maps.google.com/maps?q=616+Hedden+Ave+Akron%2C+OH%2C+44311), [Zillow](http://www.zillow.com/homes/616+Hedden+Ave+Akron%2C+OH%2C+44311/)  
