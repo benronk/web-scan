@@ -91,19 +91,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-600942" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-600942)  
-**1729 Betz Dr Akron, OH, 44306**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-600942), [Google Maps](http://maps.google.com/maps?q=1729+Betz+Dr+Akron%2C+OH%2C+44306), [Zillow](http://www.zillow.com/homes/1729+Betz+Dr+Akron%2C+OH%2C+44306/)  
-**Price:** $46,000  
-**List Date:** 7/29/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/12/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/12/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-520612" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520612)  
 **616 Hedden Ave Akron, OH, 44311**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-520612), [Google Maps](http://maps.google.com/maps?q=616+Hedden+Ave+Akron%2C+OH%2C+44311), [Zillow](http://www.zillow.com/homes/616+Hedden+Ave+Akron%2C+OH%2C+44311/)  
