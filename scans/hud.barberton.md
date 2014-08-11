@@ -9,7 +9,7 @@
 **Period Deadline:** 1/11/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 08/11/2014
+**Bid Open Date:** 08/12/2014
 
 ***
 
