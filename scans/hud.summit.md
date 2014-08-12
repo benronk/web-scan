@@ -104,19 +104,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-442418" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442418)  
-**918 Winton Avenue Akron, OH, 44320**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442418), [Google Maps](http://maps.google.com/maps?q=918+Winton+Avenue+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/918+Winton+Avenue+Akron%2C+OH%2C+44320/)  
-**Price:** $16,900  
-**List Date:** 7/29/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/12/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 08/13/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517601" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517601)  
 **266 Stone Bridge Dr Northfield, OH, 44067**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517601), [Google Maps](http://maps.google.com/maps?q=266+Stone+Bridge+Dr+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/266+Stone+Bridge+Dr+Northfield%2C+OH%2C+44067/)  
