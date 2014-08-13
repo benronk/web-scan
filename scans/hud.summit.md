@@ -83,11 +83,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833), [Google Maps](http://maps.google.com/maps?q=215+E+Wilbeth+Rd+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/215+E+Wilbeth+Rd+Akron%2C+OH%2C+44301/)  
 **Price:** $34,000  
 **List Date:** 8/06/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 8/12/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/17/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/13/2014
+**Bid Open Date:** 08/18/2014
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 1/24/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/13/2014
+**Bid Open Date:** 08/14/2014
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 08/13/2014
+**Bid Open Date:** 08/14/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 12/16/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/13/2014
+**Bid Open Date:** 08/14/2014
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/13/2014
+**Bid Open Date:** 08/14/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 1/11/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 08/13/2014
+**Bid Open Date:** 08/14/2014
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/13/2014
+**Bid Open Date:** 08/14/2014
 
 ***
 
