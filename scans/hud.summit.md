@@ -1,5 +1,44 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-631675" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-631675)  
+**1254 Red Bush Ln Macedonia, OH, 44056**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-631675), [Google Maps](http://maps.google.com/maps?q=1254+Red+Bush+Ln+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/1254+Red+Bush+Ln+Macedonia%2C+OH%2C+44056/)  
+**Price:** $240,000  
+**List Date:** 8/13/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 8/19/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/3.00  
+**Bid Open Date:** 08/20/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-505172" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505172)  
+**766 Westpoint Ave Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505172), [Google Maps](http://maps.google.com/maps?q=766+Westpoint+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/766+Westpoint+Ave+Akron%2C+OH%2C+44310/)  
+**Price:** $40,000  
+**List Date:** 8/13/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/27/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/25/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-452510" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-452510)  
+**1148 N Main St Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-452510), [Google Maps](http://maps.google.com/maps?q=1148+N+Main+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1148+N+Main+St+Akron%2C+OH%2C+44310/)  
+**Price:** $17,000  
+**List Date:** 8/13/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 8/19/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 08/20/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528017" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528017)  
 **2476 9th St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528017), [Google Maps](http://maps.google.com/maps?q=2476+9th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2476+9th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
@@ -78,14 +117,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587833" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587833" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833)  
 **215 E Wilbeth Rd Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833), [Google Maps](http://maps.google.com/maps?q=215+E+Wilbeth+Rd+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/215+E+Wilbeth+Rd+Akron%2C+OH%2C+44301/)  
 **Price:** $34,000  
 **List Date:** 8/06/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 8/17/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/18/2014
 
