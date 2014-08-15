@@ -96,11 +96,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-646488), [Google Maps](http://maps.google.com/maps?q=914+Berwin+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/914+Berwin+St+Akron%2C+OH%2C+44310/)  
 **Price:** $15,000  
 **List Date:** 8/08/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 8/14/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/19/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/15/2014
+**Bid Open Date:** 08/20/2014
 
 ***
 
@@ -109,11 +109,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533106), [Google Maps](http://maps.google.com/maps?q=4111+Pardee+Rd+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/4111+Pardee+Rd+Stow%2C+OH%2C+44224/)  
 **Price:** $31,400  
 **List Date:** 8/08/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 8/14/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/19/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/15/2014
+**Bid Open Date:** 08/20/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 08/15/2014
+**Bid Open Date:** 08/18/2014
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/15/2014
+**Bid Open Date:** 08/18/2014
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 1/11/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 08/15/2014
+**Bid Open Date:** 08/18/2014
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/15/2014
+**Bid Open Date:** 08/18/2014
 
 ***
 
