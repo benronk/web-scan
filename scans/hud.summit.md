@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553514)  
+**1919 Malasia Rd Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553514), [Google Maps](http://maps.google.com/maps?q=1919+Malasia+Rd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1919+Malasia+Rd+Akron%2C+OH%2C+44305/)  
+**Price:** $23,500  
+**List Date:** 8/14/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/28/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 08/25/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-631675" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-631675)  
 **1254 Red Bush Ln Macedonia, OH, 44056**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-631675), [Google Maps](http://maps.google.com/maps?q=1254+Red+Bush+Ln+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/1254+Red+Bush+Ln+Macedonia%2C+OH%2C+44056/)  
@@ -78,27 +91,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-646488" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-646488)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-646488" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-646488)  
 **914 Berwin St Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-646488), [Google Maps](http://maps.google.com/maps?q=914+Berwin+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/914+Berwin+St+Akron%2C+OH%2C+44310/)  
 **Price:** $15,000  
 **List Date:** 8/08/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 8/14/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/15/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-533106" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533106)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-533106" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533106)  
 **4111 Pardee Rd Stow, OH, 44224**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533106), [Google Maps](http://maps.google.com/maps?q=4111+Pardee+Rd+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/4111+Pardee+Rd+Stow%2C+OH%2C+44224/)  
 **Price:** $31,400  
 **List Date:** 8/08/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 8/14/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 08/15/2014
 
@@ -169,14 +182,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534663" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534663" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663)  
 **1569 Tonawanda Ave Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663), [Google Maps](http://maps.google.com/maps?q=1569+Tonawanda+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1569+Tonawanda+Ave+Akron%2C+OH%2C+44305/)  
 **Price:** $24,000  
 **List Date:** 6/12/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 08/15/2014
 
