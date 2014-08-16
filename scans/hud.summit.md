@@ -1,5 +1,44 @@
 # Summit County HUD Homes
 
+[<img alt="Vacant Lot Commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250.00 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537707" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707)  
+**63 19th St NW Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537707), [Google Maps](http://maps.google.com/maps?q=63+19th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/63+19th+St+NW+Barberton%2C+OH%2C+44203/)  
+**Price:** $1,500  
+**List Date:** 8/16/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 9/20/2014 11:59:59 PM  CT  
+**Status:** Vacant Lot Commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250.00 for the sale of this property  
+**Bed/Bath:** 0/0.00  
+**Bid Open Date:** 08/18/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-509359" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-509359)  
+**742 South Munroe Road Tallmadge, OH, 44278**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-509359), [Google Maps](http://maps.google.com/maps?q=742+South+Munroe+Road+Tallmadge%2C+OH%2C+44278), [Zillow](http://www.zillow.com/homes/742+South+Munroe+Road+Tallmadge%2C+OH%2C+44278/)  
+**Price:** $55,000  
+**List Date:** 8/16/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/30/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 08/26/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-419501" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-419501)  
+**1103 Endicott Dr Akron, OH, 44313**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-419501), [Google Maps](http://maps.google.com/maps?q=1103+Endicott+Dr+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/1103+Endicott+Dr+Akron%2C+OH%2C+44313/)  
+**Price:** $35,000  
+**List Date:** 8/16/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/30/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 08/26/2014
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553514)  
 **1919 Malasia Rd Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553514), [Google Maps](http://maps.google.com/maps?q=1919+Malasia+Rd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1919+Malasia+Rd+Akron%2C+OH%2C+44305/)  
