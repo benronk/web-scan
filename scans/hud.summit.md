@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-549396" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549396)  
+**2086 Oakes Drive Ext Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549396), [Google Maps](http://maps.google.com/maps?q=2086+Oakes+Drive+Ext+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2086+Oakes+Drive+Ext+Akron%2C+OH%2C+44312/)  
+**Price:** $26,000  
+**List Date:** 8/20/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/3/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/02/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536616" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616)  
 **2268 Wedgewood Dr Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616), [Google Maps](http://maps.google.com/maps?q=2268+Wedgewood+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2268+Wedgewood+Dr+Akron%2C+OH%2C+44312/)  
@@ -35,7 +48,7 @@
 **Period Deadline:** 9/20/2014 11:59:59 PM  CT  
 **Status:** Vacant Lot Commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250.00 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 08/20/2014
+**Bid Open Date:** 08/21/2014
 
 ***
 
@@ -83,11 +96,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-631675), [Google Maps](http://maps.google.com/maps?q=1254+Red+Bush+Ln+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/1254+Red+Bush+Ln+Macedonia%2C+OH%2C+44056/)  
 **Price:** $240,000  
 **List Date:** 8/13/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 8/19/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/24/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/3.00  
-**Bid Open Date:** 08/20/2014
+**Bid Open Date:** 08/25/2014
 
 ***
 
@@ -104,16 +117,16 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-452510" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-452510)  
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-452510" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-452510)  
 **1148 N Main St Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-452510), [Google Maps](http://maps.google.com/maps?q=1148+N+Main+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1148+N+Main+St+Akron%2C+OH%2C+44310/)  
 **Price:** $17,000  
 **List Date:** 8/13/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 8/19/2014 11:59:59 PM  CT  
-**Status:**   
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 8/24/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/20/2014
+**Bid Open Date:** 08/25/2014
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 8/23/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/20/2014
+**Bid Open Date:** 08/21/2014
 
 ***
 
@@ -161,11 +174,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-646488), [Google Maps](http://maps.google.com/maps?q=914+Berwin+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/914+Berwin+St+Akron%2C+OH%2C+44310/)  
 **Price:** $15,000  
 **List Date:** 8/08/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/19/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/3/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/20/2014
+**Bid Open Date:** 08/21/2014
 
 ***
 
@@ -174,11 +187,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533106), [Google Maps](http://maps.google.com/maps?q=4111+Pardee+Rd+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/4111+Pardee+Rd+Stow%2C+OH%2C+44224/)  
 **Price:** $31,400  
 **List Date:** 8/08/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/19/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/3/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/20/2014
+**Bid Open Date:** 08/21/2014
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 2/1/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/20/2014
+**Bid Open Date:** 08/21/2014
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 08/20/2014
+**Bid Open Date:** 08/21/2014
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/20/2014
+**Bid Open Date:** 08/21/2014
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/20/2014
+**Bid Open Date:** 08/21/2014
 
 ***
 
