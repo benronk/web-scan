@@ -18,8 +18,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-590649), [Google Maps](http://maps.google.com/maps?q=346+Greenwood+Ave+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/346+Greenwood+Ave+Akron%2C+OH%2C+44320/)  
 **Price:** $60,000  
 **List Date:** 8/22/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/23/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/4/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.10  
 **Bid Open Date:** 08/25/2014
@@ -187,8 +187,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528017), [Google Maps](http://maps.google.com/maps?q=2476+9th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2476+9th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $58,000  
 **List Date:** 8/12/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/23/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/7/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/25/2014
@@ -213,8 +213,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586194), [Google Maps](http://maps.google.com/maps?q=1233+Florida+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1233+Florida+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $39,000  
 **List Date:** 8/09/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/23/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/4/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 08/25/2014
