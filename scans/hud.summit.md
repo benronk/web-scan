@@ -130,19 +130,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-631675" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-631675)  
-**1254 Red Bush Ln Macedonia, OH, 44056**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-631675), [Google Maps](http://maps.google.com/maps?q=1254+Red+Bush+Ln+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/1254+Red+Bush+Ln+Macedonia%2C+OH%2C+44056/)  
-**Price:** $240,000  
-**List Date:** 8/13/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/8/2015 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 4/3.00  
-**Bid Open Date:** 08/26/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-505172" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505172)  
 **766 Westpoint Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-505172), [Google Maps](http://maps.google.com/maps?q=766+Westpoint+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/766+Westpoint+Ave+Akron%2C+OH%2C+44310/)  
