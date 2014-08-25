@@ -169,19 +169,6 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-452510" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-452510)  
-**1148 N Main St Akron, OH, 44310**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-452510), [Google Maps](http://maps.google.com/maps?q=1148+N+Main+St+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/1148+N+Main+St+Akron%2C+OH%2C+44310/)  
-**Price:** $17,000  
-**List Date:** 8/13/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/8/2015 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/26/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-528017" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528017)  
 **2476 9th St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-528017), [Google Maps](http://maps.google.com/maps?q=2476+9th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2476+9th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
