@@ -208,27 +208,27 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586194" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586194)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586194" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586194)  
 **1233 Florida Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586194), [Google Maps](http://maps.google.com/maps?q=1233+Florida+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1233+Florida+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $39,000  
 **List Date:** 8/09/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/4/2015 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 08/25/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587833" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-587833" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833)  
 **215 E Wilbeth Rd Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-587833), [Google Maps](http://maps.google.com/maps?q=215+E+Wilbeth+Rd+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/215+E+Wilbeth+Rd+Akron%2C+OH%2C+44301/)  
 **Price:** $34,000  
 **List Date:** 8/06/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/1/2015 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 08/25/2014
 
