@@ -104,19 +104,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-419501" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-419501)  
-**1103 Endicott Dr Akron, OH, 44313**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-419501), [Google Maps](http://maps.google.com/maps?q=1103+Endicott+Dr+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/1103+Endicott+Dr+Akron%2C+OH%2C+44313/)  
-**Price:** $35,000  
-**List Date:** 8/16/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/30/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 08/27/2014
-
-***
-
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553514)  
 **1919 Malasia Rd Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553514), [Google Maps](http://maps.google.com/maps?q=1919+Malasia+Rd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1919+Malasia+Rd+Akron%2C+OH%2C+44305/)  
