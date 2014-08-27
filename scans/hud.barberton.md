@@ -9,7 +9,7 @@
 **Period Deadline:** 9/21/2014 11:59:59 PM  CT  
 **Status:** Vacant Lot Commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250.00 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 08/27/2014
+**Bid Open Date:** 08/28/2014
 
 ***
 
@@ -22,7 +22,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 08/27/2014
+**Bid Open Date:** 08/28/2014
 
 ***
 
@@ -31,11 +31,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517719), [Google Maps](http://maps.google.com/maps?q=185+Grace+Avenue+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/185+Grace+Avenue+Barberton%2C+OH%2C+44203/)  
 **Price:** $39,000  
 **List Date:** 8/12/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/26/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/7/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/27/2014
+**Bid Open Date:** 08/28/2014
 
 ***
 
