@@ -5,11 +5,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-442418), [Google Maps](http://maps.google.com/maps?q=918+Winton+Avenue+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/918+Winton+Avenue+Akron%2C+OH%2C+44320/)  
 **Price:** $16,900  
 **List Date:** 8/27/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 8/27/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/8/2015 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 08/28/2014
+**Bid Open Date:** 08/29/2014
 
 ***
 
@@ -22,7 +22,7 @@
 **Period Deadline:** 9/21/2014 11:59:59 PM  CT  
 **Status:** Vacant Lot Commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250.00 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 08/28/2014
+**Bid Open Date:** 08/29/2014
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 08/28/2014
+**Bid Open Date:** 08/29/2014
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 8/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/28/2014
+**Bid Open Date:** 08/29/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 8/28/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/28/2014
+**Bid Open Date:** 08/29/2014
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 2/7/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/28/2014
+**Bid Open Date:** 08/29/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 2/4/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/28/2014
+**Bid Open Date:** 08/29/2014
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 2/1/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/28/2014
+**Bid Open Date:** 08/29/2014
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 08/28/2014
+**Bid Open Date:** 08/29/2014
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 08/28/2014
+**Bid Open Date:** 08/29/2014
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 08/28/2014
+**Bid Open Date:** 08/29/2014
 
 ***
 
