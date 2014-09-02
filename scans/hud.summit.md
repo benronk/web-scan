@@ -78,19 +78,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-549396" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549396)  
-**2086 Oakes Drive Ext Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-549396), [Google Maps](http://maps.google.com/maps?q=2086+Oakes+Drive+Ext+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2086+Oakes+Drive+Ext+Akron%2C+OH%2C+44312/)  
-**Price:** $26,000  
-**List Date:** 8/20/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/3/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/03/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537142" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142)  
 **1445 Redwood Ave Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142), [Google Maps](http://maps.google.com/maps?q=1445+Redwood+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1445+Redwood+Ave+Akron%2C+OH%2C+44301/)  
