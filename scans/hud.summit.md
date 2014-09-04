@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545089" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545089)  
+**1201 Nestor Avenue Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545089), [Google Maps](http://maps.google.com/maps?q=1201+Nestor+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1201+Nestor+Avenue+Akron%2C+OH%2C+44314/)  
+**Price:** $12,500  
+**List Date:** 9/03/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 9/9/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 09/10/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522308" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522308)  
 **349 Glenn St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522308), [Google Maps](http://maps.google.com/maps?q=349+Glenn+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/349+Glenn+St+Barberton%2C+OH%2C+44203/)  
@@ -91,27 +104,27 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536616" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536616" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616)  
 **2268 Wedgewood Dr Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616), [Google Maps](http://maps.google.com/maps?q=2268+Wedgewood+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2268+Wedgewood+Dr+Akron%2C+OH%2C+44312/)  
 **Price:** $110,000  
 **List Date:** 8/19/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 09/04/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-460457" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-460457)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-460457" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-460457)  
 **553 N Hawkins Avenue Akron, OH, 44313**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-460457), [Google Maps](http://maps.google.com/maps?q=553+N+Hawkins+Avenue+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/553+N+Hawkins+Avenue+Akron%2C+OH%2C+44313/)  
 **Price:** $61,000  
 **List Date:** 8/19/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 4/1.20  
 **Bid Open Date:** 09/04/2014
 
