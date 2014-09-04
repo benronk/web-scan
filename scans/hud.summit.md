@@ -52,19 +52,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-533106" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533106)  
-**4111 Pardee Rd Stow, OH, 44224**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-533106), [Google Maps](http://maps.google.com/maps?q=4111+Pardee+Rd+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/4111+Pardee+Rd+Stow%2C+OH%2C+44224/)  
-**Price:** $31,400  
-**List Date:** 8/29/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/10/2015 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/05/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506179" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506179)  
 **2190 Suffolk Ct Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506179), [Google Maps](http://maps.google.com/maps?q=2190+Suffolk+Ct+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/2190+Suffolk+Ct+Akron%2C+OH%2C+44319/)  
