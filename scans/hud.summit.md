@@ -1,28 +1,41 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-667352" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-667352)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-667352" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-667352)  
 **2800 Lyman Drive Clinton, OH, 44216**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-667352), [Google Maps](http://maps.google.com/maps?q=2800+Lyman+Drive+Clinton%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/2800+Lyman+Drive+Clinton%2C+OH%2C+44216/)  
 **Price:** $50,000  
 **List Date:** 9/04/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/8/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/05/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532066" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532066)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532066" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532066)  
 **2589 Wise Rd North Canton, OH, 44720**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532066), [Google Maps](http://maps.google.com/maps?q=2589+Wise+Rd+North+Canton%2C+OH%2C+44720), [Zillow](http://www.zillow.com/homes/2589+Wise+Rd+North+Canton%2C+OH%2C+44720/)  
 **Price:** $76,100  
 **List Date:** 9/04/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/18/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/15/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488470" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470)  
+**3754 Herbbert St Mogadore, OH, 44260**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470), [Google Maps](http://maps.google.com/maps?q=3754+Herbbert+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3754+Herbbert+St+Mogadore%2C+OH%2C+44260/)  
+**Price:** $35,000  
+**List Date:** 9/04/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 9/10/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/11/2014
 
 ***
 
@@ -52,27 +65,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506179" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506179)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506179" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506179)  
 **2190 Suffolk Ct Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506179), [Google Maps](http://maps.google.com/maps?q=2190+Suffolk+Ct+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/2190+Suffolk+Ct+Akron%2C+OH%2C+44319/)  
 **Price:** $125,000  
 **List Date:** 8/29/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/12/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.10  
 **Bid Open Date:** 09/08/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-475241" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-475241)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-475241" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-475241)  
 **1770 Adelaide Blvd Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-475241), [Google Maps](http://maps.google.com/maps?q=1770+Adelaide+Blvd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1770+Adelaide+Blvd+Akron%2C+OH%2C+44305/)  
 **Price:** $20,000  
 **List Date:** 8/29/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 9/4/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/05/2014
 
@@ -104,14 +117,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537142" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537142" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142)  
 **1445 Redwood Ave Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142), [Google Maps](http://maps.google.com/maps?q=1445+Redwood+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1445+Redwood+Ave+Akron%2C+OH%2C+44301/)  
 **Price:** $43,000  
 **List Date:** 8/20/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/15/2015 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 09/05/2014
 
