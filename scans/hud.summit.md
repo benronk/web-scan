@@ -9,7 +9,7 @@
 **Period Deadline:** 9/8/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -83,11 +83,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-475241), [Google Maps](http://maps.google.com/maps?q=1770+Adelaide+Blvd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1770+Adelaide+Blvd+Akron%2C+OH%2C+44305/)  
 **Price:** $20,000  
 **List Date:** 8/29/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 9/4/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/9/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -100,7 +100,7 @@
 **Period Deadline:** 9/21/2014 11:59:59 PM  CT  
 **Status:** Vacant Lot Commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250.00 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 2/15/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 2/11/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 2/9/2015 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 2/4/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 2/1/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/05/2014
+**Bid Open Date:** 09/08/2014
 
 ***
 
