@@ -91,19 +91,6 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-506179" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506179)  
-**2190 Suffolk Ct Akron, OH, 44319**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-506179), [Google Maps](http://maps.google.com/maps?q=2190+Suffolk+Ct+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/2190+Suffolk+Ct+Akron%2C+OH%2C+44319/)  
-**Price:** $125,000  
-**List Date:** 8/29/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/12/2014 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 3/2.10  
-**Bid Open Date:** 09/09/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-475241" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-475241)  
 **1770 Adelaide Blvd Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-475241), [Google Maps](http://maps.google.com/maps?q=1770+Adelaide+Blvd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1770+Adelaide+Blvd+Akron%2C+OH%2C+44305/)  
