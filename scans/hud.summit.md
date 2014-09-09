@@ -208,16 +208,3 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517601" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517601)  
-**266 Stone Bridge Dr Northfield, OH, 44067**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517601), [Google Maps](http://maps.google.com/maps?q=266+Stone+Bridge+Dr+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/266+Stone+Bridge+Dr+Northfield%2C+OH%2C+44067/)  
-**Price:** $136,000  
-**List Date:** 7/25/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/20/2015 11:59:59 PM  CT  
-**Status:**   
-**Bed/Bath:** 2/2.00  
-**Bid Open Date:** 09/10/2014
-
-***
-
