@@ -143,19 +143,6 @@
 
 ***
 
-[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537142" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142)  
-**1445 Redwood Ave Akron, OH, 44301**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142), [Google Maps](http://maps.google.com/maps?q=1445+Redwood+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1445+Redwood+Ave+Akron%2C+OH%2C+44301/)  
-**Price:** $43,000  
-**List Date:** 8/20/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/15/2015 11:59:59 PM  CT  
-**Status:** Property Pending Sale  
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/10/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536616" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616)  
 **2268 Wedgewood Dr Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616), [Google Maps](http://maps.google.com/maps?q=2268+Wedgewood+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2268+Wedgewood+Dr+Akron%2C+OH%2C+44312/)  
