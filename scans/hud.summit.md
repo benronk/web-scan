@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-557558" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558)  
+**1848 Cameroon Ct Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558), [Google Maps](http://maps.google.com/maps?q=1848+Cameroon+Ct+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1848+Cameroon+Ct+Akron%2C+OH%2C+44305/)  
+**Price:** $37,600  
+**List Date:** 9/09/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/13/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/10/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537198" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537198)  
 **20 Woolf Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537198), [Google Maps](http://maps.google.com/maps?q=20+Woolf+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/20+Woolf+Ave+Akron%2C+OH%2C+44312/)  
@@ -9,7 +22,7 @@
 **Period Deadline:** 9/10/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -22,7 +35,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -35,7 +48,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -44,11 +57,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-667352), [Google Maps](http://maps.google.com/maps?q=2800+Lyman+Drive+Clinton%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/2800+Lyman+Drive+Clinton%2C+OH%2C+44216/)  
 **Price:** $50,000  
 **List Date:** 9/04/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/8/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/20/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 9/13/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 9/21/2014 11:59:59 PM  CT  
 **Status:** Vacant Lot Commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250.00 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 2/15/2015 11:59:59 PM  CT  
 **Status:** Property Pending Sale  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 2/11/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 2/9/2015 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 2/4/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 09/09/2014
+**Bid Open Date:** 09/10/2014
 
 ***
 
