@@ -1,15 +1,41 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-557558" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-557558" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558)  
 **1848 Cameroon Ct Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558), [Google Maps](http://maps.google.com/maps?q=1848+Cameroon+Ct+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1848+Cameroon+Ct+Akron%2C+OH%2C+44305/)  
 **Price:** $37,600  
 **List Date:** 9/09/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/13/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/10/2014
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517601" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517601)  
+**266 Stone Bridge Dr Northfield, OH, 44067**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517601), [Google Maps](http://maps.google.com/maps?q=266+Stone+Bridge+Dr+Northfield%2C+OH%2C+44067), [Zillow](http://www.zillow.com/homes/266+Stone+Bridge+Dr+Northfield%2C+OH%2C+44067/)  
+**Price:** $122,400  
+**List Date:** 9/09/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/20/2015 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 2/2.00  
+**Bid Open Date:** 09/10/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408353" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353)  
+**1809 Manchester Rd Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353), [Google Maps](http://maps.google.com/maps?q=1809+Manchester+Rd+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1809+Manchester+Rd+Akron%2C+OH%2C+44314/)  
+**Price:** $18,000  
+**List Date:** 9/09/2014  
+**Listing Period:** Lottery (Good Neighbor Next Door Participants Only)  
+**Period Deadline:** 9/15/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/16/2014
 
 ***
 
@@ -91,14 +117,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545089" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545089)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-545089" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545089)  
 **1201 Nestor Avenue Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-545089), [Google Maps](http://maps.google.com/maps?q=1201+Nestor+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1201+Nestor+Avenue+Akron%2C+OH%2C+44314/)  
 **Price:** $12,500  
 **List Date:** 9/03/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 9/9/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/10/2014
 
@@ -143,27 +169,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536616" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536616" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616)  
 **2268 Wedgewood Dr Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616), [Google Maps](http://maps.google.com/maps?q=2268+Wedgewood+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2268+Wedgewood+Dr+Akron%2C+OH%2C+44312/)  
 **Price:** $110,000  
 **List Date:** 8/19/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/2.00  
 **Bid Open Date:** 09/10/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-460457" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-460457)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-460457" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-460457)  
 **553 N Hawkins Avenue Akron, OH, 44313**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-460457), [Google Maps](http://maps.google.com/maps?q=553+N+Hawkins+Avenue+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/553+N+Hawkins+Avenue+Akron%2C+OH%2C+44313/)  
 **Price:** $61,000  
 **List Date:** 8/19/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 4/1.20  
 **Bid Open Date:** 09/10/2014
 
