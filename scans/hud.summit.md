@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173)  
+**1542 19th St Cuyahoga Falls, OH, 44223**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173), [Google Maps](http://maps.google.com/maps?q=1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223/)  
+**Price:** $80,000  
+**List Date:** 9/11/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/25/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 09/22/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582261" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261)  
 **141 Ansel Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261), [Google Maps](http://maps.google.com/maps?q=141+Ansel+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/141+Ansel+Ave+Akron%2C+OH%2C+44312/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 9/13/2014 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -35,7 +48,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -57,11 +70,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537198), [Google Maps](http://maps.google.com/maps?q=20+Woolf+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/20+Woolf+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $34,000  
 **List Date:** 9/08/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/10/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/22/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -74,7 +87,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 2/20/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -122,11 +135,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470), [Google Maps](http://maps.google.com/maps?q=3754+Herbbert+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3754+Herbbert+St+Mogadore%2C+OH%2C+44260/)  
 **Price:** $35,000  
 **List Date:** 9/04/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 9/10/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/15/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/16/2014
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 9/13/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 2/24/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 9/21/2014 11:59:59 PM  CT  
 **Status:** Vacant Lot Commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250.00 for the sale of this property  
 **Bed/Bath:** 0/0.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 2/11/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 2/9/2015 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
@@ -243,7 +256,7 @@
 **Period Deadline:** 2/4/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/11/2014
+**Bid Open Date:** 09/12/2014
 
 ***
 
