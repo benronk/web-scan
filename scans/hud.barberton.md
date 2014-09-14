@@ -18,8 +18,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522308), [Google Maps](http://maps.google.com/maps?q=349+Glenn+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/349+Glenn+St+Barberton%2C+OH%2C+44203/)  
 **Price:** $86,000  
 **List Date:** 8/30/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/13/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/15/2014
