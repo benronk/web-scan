@@ -156,19 +156,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-475241" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-475241)  
-**1770 Adelaide Blvd Akron, OH, 44305**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-475241), [Google Maps](http://maps.google.com/maps?q=1770+Adelaide+Blvd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1770+Adelaide+Blvd+Akron%2C+OH%2C+44305/)  
-**Price:** $20,000  
-**List Date:** 8/29/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 2/24/2015 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/16/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536616" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616)  
 **2268 Wedgewood Dr Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616), [Google Maps](http://maps.google.com/maps?q=2268+Wedgewood+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2268+Wedgewood+Dr+Akron%2C+OH%2C+44312/)  
