@@ -26,14 +26,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582261" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582261" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261)  
 **141 Ansel Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261), [Google Maps](http://maps.google.com/maps?q=141+Ansel+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/141+Ansel+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $59,500  
 **List Date:** 9/10/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/24/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 09/22/2014
 
@@ -65,14 +65,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408353" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408353" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353)  
 **1809 Manchester Rd Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353), [Google Maps](http://maps.google.com/maps?q=1809+Manchester+Rd+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1809+Manchester+Rd+Akron%2C+OH%2C+44314/)  
 **Price:** $18,000  
 **List Date:** 9/09/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/30/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/26/2014
 
@@ -131,8 +131,8 @@
 ***
 
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488470" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470)  
-**3754 Herbbert St Mogadore, OH, 44260**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470), [Google Maps](http://maps.google.com/maps?q=3754+Herbbert+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3754+Herbbert+St+Mogadore%2C+OH%2C+44260/)  
+**3754 Herbert St Mogadore, OH, 44260**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470), [Google Maps](http://maps.google.com/maps?q=3754+Herbert+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3754+Herbert+St+Mogadore%2C+OH%2C+44260/)  
 **Price:** $35,000  
 **List Date:** 9/04/2014  
 **Listing Period:** Extended (All Bidders)  
