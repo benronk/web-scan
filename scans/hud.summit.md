@@ -1,5 +1,44 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553514)  
+**1919 Malasia Rd Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553514), [Google Maps](http://maps.google.com/maps?q=1919+Malasia+Rd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1919+Malasia+Rd+Akron%2C+OH%2C+44305/)  
+**Price:** $23,500  
+**List Date:** 9/17/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/21/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/18/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-547573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547573)  
+**731 Jason Avenue Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547573), [Google Maps](http://maps.google.com/maps?q=731+Jason+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/731+Jason+Avenue+Akron%2C+OH%2C+44314/)  
+**Price:** $12,000  
+**List Date:** 9/17/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 9/23/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 09/24/2014
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
+**380 Rexford St Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
+**Price:** $21,000  
+**List Date:** 9/17/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/29/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/18/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-494342" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494342)  
 **88 29th St NW Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494342), [Google Maps](http://maps.google.com/maps?q=88+29th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/88+29th+St+NW+Barberton%2C+OH%2C+44203/)  
@@ -48,7 +87,7 @@
 **Period Deadline:** 1/17/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
@@ -61,7 +100,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
@@ -87,7 +126,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
@@ -100,7 +139,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
@@ -113,7 +152,7 @@
 **Period Deadline:** 2/20/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
@@ -126,7 +165,7 @@
 **Period Deadline:** 9/18/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
@@ -139,7 +178,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
@@ -152,7 +191,7 @@
 **Period Deadline:** 3/1/2015 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
@@ -165,7 +204,7 @@
 **Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
@@ -178,7 +217,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
@@ -191,7 +230,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
@@ -204,7 +243,7 @@
 **Period Deadline:** 2/4/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/17/2014
+**Bid Open Date:** 09/18/2014
 
 ***
 
