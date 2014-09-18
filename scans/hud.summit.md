@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-384212" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212)  
+**380 Rexford St Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-384212), [Google Maps](http://maps.google.com/maps?q=380+Rexford+St+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/380+Rexford+St+Akron%2C+OH%2C+44314/)  
+**Price:** $15,750  
+**List Date:** 9/18/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 10/30/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 09/19/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-608890" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608890)  
 **1139 Falls Ave Cuyahoga Falls, OH, 44223**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608890), [Google Maps](http://maps.google.com/maps?q=1139+Falls+Ave+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/1139+Falls+Ave+Cuyahoga+Falls%2C+OH%2C+44223/)  
@@ -22,7 +35,7 @@
 **Period Deadline:** 9/21/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 1/17/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
@@ -100,7 +113,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
@@ -126,7 +139,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
@@ -152,7 +165,7 @@
 **Period Deadline:** 2/20/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
@@ -165,7 +178,7 @@
 **Period Deadline:** 9/18/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
@@ -191,7 +204,7 @@
 **Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
@@ -230,7 +243,7 @@
 **Period Deadline:** 2/4/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/18/2014
+**Bid Open Date:** 09/19/2014
 
 ***
 
