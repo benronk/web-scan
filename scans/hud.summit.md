@@ -195,19 +195,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488470" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470)  
-**3754 Herbert St Mogadore, OH, 44260**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470), [Google Maps](http://maps.google.com/maps?q=3754+Herbert+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3754+Herbert+St+Mogadore%2C+OH%2C+44260/)  
-**Price:** $35,000  
-**List Date:** 9/04/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/2/2015 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/22/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-522308" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522308)  
 **349 Glenn St Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-522308), [Google Maps](http://maps.google.com/maps?q=349+Glenn+St+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/349+Glenn+St+Barberton%2C+OH%2C+44203/)  
