@@ -9,7 +9,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 10/30/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -70,11 +70,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553514), [Google Maps](http://maps.google.com/maps?q=1919+Malasia+Rd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1919+Malasia+Rd+Akron%2C+OH%2C+44305/)  
 **Price:** $23,500  
 **List Date:** 9/17/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/21/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -96,11 +96,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494342), [Google Maps](http://maps.google.com/maps?q=88+29th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/88+29th+St+NW+Barberton%2C+OH%2C+44203/)  
 **Price:** $23,000  
 **List Date:** 9/15/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 9/21/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/26/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -113,7 +113,7 @@
 **Period Deadline:** 9/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 9/24/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -139,7 +139,7 @@
 **Period Deadline:** 1/17/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 2/20/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 2/4/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/22/2014
+**Bid Open Date:** 09/23/2014
 
 ***
 
