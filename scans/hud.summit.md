@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595323" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323)  
+**2863 8th St Cuyahoga Falls, OH, 44221**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323), [Google Maps](http://maps.google.com/maps?q=2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
+**Price:** $52,000  
+**List Date:** 9/23/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/24/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 09/24/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537142" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142)  
+**1445 Redwood Ave Akron, OH, 44301**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142), [Google Maps](http://maps.google.com/maps?q=1445+Redwood+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1445+Redwood+Ave+Akron%2C+OH%2C+44301/)  
+**Price:** $43,000  
+**List Date:** 9/23/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/27/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 09/24/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-566824" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566824)  
 **9151 Gettysburg Dr Twinsburg, OH, 44087**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566824), [Google Maps](http://maps.google.com/maps?q=9151+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/9151+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087/)  
@@ -22,7 +48,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -61,7 +87,7 @@
 **Period Deadline:** 10/30/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -87,7 +113,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -126,7 +152,7 @@
 **Period Deadline:** 9/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -139,7 +165,7 @@
 **Period Deadline:** 9/24/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -152,7 +178,7 @@
 **Period Deadline:** 1/17/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -217,7 +243,7 @@
 **Period Deadline:** 2/20/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -230,7 +256,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -243,7 +269,7 @@
 **Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -256,7 +282,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -269,7 +295,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
@@ -282,7 +308,7 @@
 **Period Deadline:** 2/4/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/23/2014
+**Bid Open Date:** 09/24/2014
 
 ***
 
