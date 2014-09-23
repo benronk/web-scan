@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-566824" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566824)  
+**9151 Gettysburg Dr Twinsburg, OH, 44087**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-566824), [Google Maps](http://maps.google.com/maps?q=9151+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087), [Zillow](http://www.zillow.com/homes/9151+Gettysburg+Dr+Twinsburg%2C+OH%2C+44087/)  
+**Price:** $105,000  
+**List Date:** 9/22/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 9/28/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/1.00  
+**Bid Open Date:** 09/29/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517719" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517719)  
 **185 Grace Avenue Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517719), [Google Maps](http://maps.google.com/maps?q=185+Grace+Avenue+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/185+Grace+Avenue+Barberton%2C+OH%2C+44203/)  
@@ -91,14 +104,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-494342" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494342)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-494342" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494342)  
 **88 29th St NW Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494342), [Google Maps](http://maps.google.com/maps?q=88+29th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/88+29th+St+NW+Barberton%2C+OH%2C+44203/)  
 **Price:** $23,000  
 **List Date:** 9/15/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/26/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/29/2014
 
@@ -156,14 +169,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408353" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408353" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353)  
 **1809 Manchester Rd Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353), [Google Maps](http://maps.google.com/maps?q=1809+Manchester+Rd+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1809+Manchester+Rd+Akron%2C+OH%2C+44314/)  
 **Price:** $18,000  
 **List Date:** 9/09/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/30/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/26/2014
 
