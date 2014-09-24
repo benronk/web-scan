@@ -1,28 +1,41 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595323" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595323" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323)  
 **2863 8th St Cuyahoga Falls, OH, 44221**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323), [Google Maps](http://maps.google.com/maps?q=2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $52,000  
 **List Date:** 9/23/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/24/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/24/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537142" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537142" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142)  
 **1445 Redwood Ave Akron, OH, 44301**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537142), [Google Maps](http://maps.google.com/maps?q=1445+Redwood+Ave+Akron%2C+OH%2C+44301), [Zillow](http://www.zillow.com/homes/1445+Redwood+Ave+Akron%2C+OH%2C+44301/)  
 **Price:** $43,000  
 **List Date:** 9/23/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/27/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 09/24/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-453338" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-453338)  
+**423 Beech Row Dr Norton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-453338), [Google Maps](http://maps.google.com/maps?q=423+Beech+Row+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/423+Beech+Row+Dr+Norton%2C+OH%2C+44203/)  
+**Price:** $77,000  
+**List Date:** 9/23/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 9/29/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 09/30/2014
 
 ***
 
@@ -78,14 +91,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-608890" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608890)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-608890" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608890)  
 **1139 Falls Ave Cuyahoga Falls, OH, 44223**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-608890), [Google Maps](http://maps.google.com/maps?q=1139+Falls+Ave+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/1139+Falls+Ave+Cuyahoga+Falls%2C+OH%2C+44223/)  
 **Price:** $70,000  
 **List Date:** 9/17/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/1/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/29/2014
 
@@ -104,14 +117,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-547573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547573)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-547573" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547573)  
 **731 Jason Avenue Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-547573), [Google Maps](http://maps.google.com/maps?q=731+Jason+Avenue+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/731+Jason+Avenue+Akron%2C+OH%2C+44314/)  
 **Price:** $12,000  
 **List Date:** 9/17/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 9/23/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/24/2014
 
@@ -204,6 +217,19 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
+**Bid Open Date:** 09/24/2014
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534663" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663)  
+**1569 Tonawanda Ave Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663), [Google Maps](http://maps.google.com/maps?q=1569+Tonawanda+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1569+Tonawanda+Ave+Akron%2C+OH%2C+44305/)  
+**Price:** $21,600  
+**List Date:** 9/05/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 1/16/2015 11:59:59 PM  CT  
+**Status:** Price Reduced  
+**Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/24/2014
 
 ***
