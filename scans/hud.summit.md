@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586194" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586194)  
+**1233 Florida Ave Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586194), [Google Maps](http://maps.google.com/maps?q=1233+Florida+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1233+Florida+Ave+Akron%2C+OH%2C+44314/)  
+**Price:** $34,320  
+**List Date:** 9/25/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/5/2015 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 09/26/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-530254" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-530254)  
 **63 Joplin Drive Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-530254), [Google Maps](http://maps.google.com/maps?q=63+Joplin+Drive+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/63+Joplin+Drive+Akron%2C+OH%2C+44319/)  
@@ -31,11 +44,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323), [Google Maps](http://maps.google.com/maps?q=2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
 **Price:** $52,000  
 **List Date:** 9/23/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/24/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/8/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -48,7 +61,7 @@
 **Period Deadline:** 9/27/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -87,7 +100,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -109,11 +122,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-611130), [Google Maps](http://maps.google.com/maps?q=10510+Florida+St+Reminderville%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10510+Florida+St+Reminderville%2C+OH%2C+44202/)  
 **Price:** $110,000  
 **List Date:** 9/18/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 9/24/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/29/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/30/2014
 
 ***
 
@@ -139,7 +152,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -178,7 +191,7 @@
 **Period Deadline:** 9/25/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -187,11 +200,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261), [Google Maps](http://maps.google.com/maps?q=141+Ansel+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/141+Ansel+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $59,500  
 **List Date:** 9/10/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/24/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/8/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -204,7 +217,7 @@
 **Period Deadline:** 1/17/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -217,7 +230,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -243,7 +256,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -256,7 +269,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -269,7 +282,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -282,7 +295,7 @@
 **Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -295,7 +308,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
@@ -308,7 +321,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 09/25/2014
+**Bid Open Date:** 09/26/2014
 
 ***
 
