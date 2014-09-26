@@ -1,15 +1,41 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586194" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586194)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-627594" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-627594)  
+**1651 Hillside Ter Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-627594), [Google Maps](http://maps.google.com/maps?q=1651+Hillside+Ter+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1651+Hillside+Ter+Akron%2C+OH%2C+44305/)  
+**Price:** $60,000  
+**List Date:** 9/25/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/9/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 10/06/2014
+
+***
+
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-586194" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586194)  
 **1233 Florida Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-586194), [Google Maps](http://maps.google.com/maps?q=1233+Florida+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1233+Florida+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $34,320  
 **List Date:** 9/25/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/5/2015 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/26/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-569213" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569213)  
+**652 Patterson Ave Akron, OH, 44310**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569213), [Google Maps](http://maps.google.com/maps?q=652+Patterson+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/652+Patterson+Ave+Akron%2C+OH%2C+44310/)  
+**Price:** $19,000  
+**List Date:** 9/25/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 10/1/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/02/2014
 
 ***
 
@@ -117,14 +143,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-611130" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-611130)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-611130" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-611130)  
 **10510 Florida St Reminderville, OH, 44202**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-611130), [Google Maps](http://maps.google.com/maps?q=10510+Florida+St+Reminderville%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10510+Florida+St+Reminderville%2C+OH%2C+44202/)  
 **Price:** $110,000  
 **List Date:** 9/18/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 9/29/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/30/2014
 
@@ -195,14 +221,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582261" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582261" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261)  
 **141 Ansel Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261), [Google Maps](http://maps.google.com/maps?q=141+Ansel+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/141+Ansel+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $59,500  
 **List Date:** 9/10/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/8/2015 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 09/26/2014
 
@@ -273,14 +299,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532066" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532066)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532066" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532066)  
 **2589 Wise Rd North Canton, OH, 44720**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532066), [Google Maps](http://maps.google.com/maps?q=2589+Wise+Rd+North+Canton%2C+OH%2C+44720), [Zillow](http://www.zillow.com/homes/2589+Wise+Rd+North+Canton%2C+OH%2C+44720/)  
 **Price:** $76,100  
 **List Date:** 9/04/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 09/26/2014
 
