@@ -22,7 +22,7 @@
 **Period Deadline:** 2/5/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -74,7 +74,7 @@
 **Period Deadline:** 3/8/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -87,7 +87,7 @@
 **Period Deadline:** 9/27/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -126,7 +126,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -213,11 +213,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173), [Google Maps](http://maps.google.com/maps?q=1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223/)  
 **Price:** $80,000  
 **List Date:** 9/11/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/25/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/9/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 3/8/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 1/17/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 9/30/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -282,7 +282,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -295,7 +295,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -308,7 +308,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -321,7 +321,7 @@
 **Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -334,7 +334,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
@@ -347,7 +347,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 09/26/2014
+**Bid Open Date:** 09/29/2014
 
 ***
 
