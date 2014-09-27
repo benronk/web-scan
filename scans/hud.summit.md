@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-412449" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-412449)  
+**990 Courtland Avenue Akron, OH, 44320**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-412449), [Google Maps](http://maps.google.com/maps?q=990+Courtland+Avenue+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/990+Courtland+Avenue+Akron%2C+OH%2C+44320/)  
+**Price:** $13,000  
+**List Date:** 9/26/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/10/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/06/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-627594" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-627594)  
 **1651 Hillside Ter Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-627594), [Google Maps](http://maps.google.com/maps?q=1651+Hillside+Ter+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1651+Hillside+Ter+Akron%2C+OH%2C+44305/)  
@@ -117,14 +130,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517719" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517719)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-517719" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517719)  
 **185 Grace Avenue Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-517719), [Google Maps](http://maps.google.com/maps?q=185+Grace+Avenue+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/185+Grace+Avenue+Barberton%2C+OH%2C+44203/)  
 **Price:** $39,000  
 **List Date:** 9/20/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/29/2014
 
@@ -208,14 +221,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173)  
 **1542 19th St Cuyahoga Falls, OH, 44223**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173), [Google Maps](http://maps.google.com/maps?q=1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223/)  
 **Price:** $80,000  
 **List Date:** 9/11/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/9/2015 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 09/29/2014
 
@@ -256,6 +269,19 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
+**Bid Open Date:** 09/29/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408353" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353)  
+**1809 Manchester Rd Akron, OH, 44314**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353), [Google Maps](http://maps.google.com/maps?q=1809+Manchester+Rd+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1809+Manchester+Rd+Akron%2C+OH%2C+44314/)  
+**Price:** $18,000  
+**List Date:** 9/09/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 9/30/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/29/2014
 
 ***
