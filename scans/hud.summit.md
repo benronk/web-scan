@@ -1,5 +1,18 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542485" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542485)  
+**2551 Robindale Avenue Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542485), [Google Maps](http://maps.google.com/maps?q=2551+Robindale+Avenue+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2551+Robindale+Avenue+Akron%2C+OH%2C+44312/)  
+**Price:** $60,000  
+**List Date:** 9/27/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/11/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 5/1.10  
+**Bid Open Date:** 10/07/2014
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-412449" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-412449)  
 **990 Courtland Avenue Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-412449), [Google Maps](http://maps.google.com/maps?q=990+Courtland+Avenue+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/990+Courtland+Avenue+Akron%2C+OH%2C+44320/)  
@@ -213,8 +226,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494342), [Google Maps](http://maps.google.com/maps?q=88+29th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/88+29th+St+NW+Barberton%2C+OH%2C+44203/)  
 **Price:** $23,000  
 **List Date:** 9/15/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/26/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/13/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/29/2014

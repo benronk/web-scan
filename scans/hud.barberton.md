@@ -18,8 +18,8 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-494342), [Google Maps](http://maps.google.com/maps?q=88+29th+St+NW+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/88+29th+St+NW+Barberton%2C+OH%2C+44203/)  
 **Price:** $23,000  
 **List Date:** 9/15/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/26/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/13/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 09/29/2014
