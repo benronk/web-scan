@@ -1,13 +1,13 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542485" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542485)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542485" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542485)  
 **2551 Robindale Avenue Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542485), [Google Maps](http://maps.google.com/maps?q=2551+Robindale+Avenue+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2551+Robindale+Avenue+Akron%2C+OH%2C+44312/)  
 **Price:** $60,000  
 **List Date:** 9/27/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/11/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 5/1.10  
 **Bid Open Date:** 10/07/2014
 
