@@ -208,19 +208,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173)  
-**1542 19th St Cuyahoga Falls, OH, 44223**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173), [Google Maps](http://maps.google.com/maps?q=1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223/)  
-**Price:** $80,000  
-**List Date:** 9/11/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/9/2015 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/30/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582261" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261)  
 **141 Ansel Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261), [Google Maps](http://maps.google.com/maps?q=141+Ansel+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/141+Ansel+Ave+Akron%2C+OH%2C+44312/)  
