@@ -1,5 +1,31 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-515992" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515992)  
+**813 Graceland Ave Barberton, OH, 44203**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515992), [Google Maps](http://maps.google.com/maps?q=813+Graceland+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/813+Graceland+Ave+Barberton%2C+OH%2C+44203/)  
+**Price:** $45,000  
+**List Date:** 9/30/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/14/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/10/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488470" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470)  
+**3754 Herbert St Mogadore, OH, 44260**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470), [Google Maps](http://maps.google.com/maps?q=3754+Herbert+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3754+Herbert+St+Mogadore%2C+OH%2C+44260/)  
+**Price:** $35,000  
+**List Date:** 9/30/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/4/2014 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/01/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-542485" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542485)  
 **2551 Robindale Avenue Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-542485), [Google Maps](http://maps.google.com/maps?q=2551+Robindale+Avenue+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2551+Robindale+Avenue+Akron%2C+OH%2C+44312/)  
@@ -48,7 +74,7 @@
 **Period Deadline:** 2/5/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -100,7 +126,7 @@
 **Period Deadline:** 3/8/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -113,7 +139,7 @@
 **Period Deadline:** 3/1/2015 11:59:59 PM  CT  
 **Status:** Property Pending Sale  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -122,11 +148,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-453338), [Google Maps](http://maps.google.com/maps?q=423+Beech+Row+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/423+Beech+Row+Dr+Norton%2C+OH%2C+44203/)  
 **Price:** $77,000  
 **List Date:** 9/23/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 9/29/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/4/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -152,7 +178,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -165,7 +191,7 @@
 **Period Deadline:** 10/3/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -174,11 +200,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-611130), [Google Maps](http://maps.google.com/maps?q=10510+Florida+St+Reminderville%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10510+Florida+St+Reminderville%2C+OH%2C+44202/)  
 **Price:** $110,000  
 **List Date:** 9/18/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 9/29/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/16/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -191,7 +217,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -204,7 +230,7 @@
 **Period Deadline:** 3/15/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -217,7 +243,7 @@
 **Period Deadline:** 3/8/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -230,7 +256,7 @@
 **Period Deadline:** 1/17/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -243,7 +269,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -256,7 +282,7 @@
 **Period Deadline:** 9/30/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -269,7 +295,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -282,7 +308,7 @@
 **Period Deadline:** 1/16/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -295,7 +321,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -308,7 +334,7 @@
 **Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -321,7 +347,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
@@ -334,7 +360,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 09/30/2014
+**Bid Open Date:** 10/01/2014
 
 ***
 
