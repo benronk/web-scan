@@ -312,19 +312,6 @@
 
 ***
 
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-534663" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663)  
-**1569 Tonawanda Ave Akron, OH, 44305**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-534663), [Google Maps](http://maps.google.com/maps?q=1569+Tonawanda+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1569+Tonawanda+Ave+Akron%2C+OH%2C+44305/)  
-**Price:** $21,600  
-**List Date:** 9/05/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/16/2015 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/02/2014
-
-***
-
 [<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-532066" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532066)  
 **2589 Wise Rd North Canton, OH, 44720**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-532066), [Google Maps](http://maps.google.com/maps?q=2589+Wise+Rd+North+Canton%2C+OH%2C+44720), [Zillow](http://www.zillow.com/homes/2589+Wise+Rd+North+Canton%2C+OH%2C+44720/)  
