@@ -1,26 +1,52 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-515992" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515992)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-584698" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584698)  
+**1093 Tweed Dr New Franklin, OH, 44319**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584698), [Google Maps](http://maps.google.com/maps?q=1093+Tweed+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/1093+Tweed+Dr+New+Franklin%2C+OH%2C+44319/)  
+**Price:** $63,000  
+**List Date:** 9/30/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 10/6/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 10/07/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-577207" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-577207)  
+**913 Shoshone Avenue Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-577207), [Google Maps](http://maps.google.com/maps?q=913+Shoshone+Avenue+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/913+Shoshone+Avenue+Akron%2C+OH%2C+44305/)  
+**Price:** $36,000  
+**List Date:** 9/30/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 10/6/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/07/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-515992" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515992)  
 **813 Graceland Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515992), [Google Maps](http://maps.google.com/maps?q=813+Graceland+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/813+Graceland+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $45,000  
 **List Date:** 9/30/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/14/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/10/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488470" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-488470" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470)  
 **3754 Herbert St Mogadore, OH, 44260**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-488470), [Google Maps](http://maps.google.com/maps?q=3754+Herbert+St+Mogadore%2C+OH%2C+44260), [Zillow](http://www.zillow.com/homes/3754+Herbert+St+Mogadore%2C+OH%2C+44260/)  
 **Price:** $35,000  
 **List Date:** 9/30/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/4/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/01/2014
 
@@ -91,27 +117,27 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-530254" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-530254)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-530254" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-530254)  
 **63 Joplin Drive Akron, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-530254), [Google Maps](http://maps.google.com/maps?q=63+Joplin+Drive+Akron%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/63+Joplin+Drive+Akron%2C+OH%2C+44319/)  
 **Price:** $50,000  
 **List Date:** 9/24/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/8/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/06/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-508541" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-508541)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-508541" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-508541)  
 **231 Mackinaw Ave Fairlawn, OH, 44333**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-508541), [Google Maps](http://maps.google.com/maps?q=231+Mackinaw+Ave+Fairlawn%2C+OH%2C+44333), [Zillow](http://www.zillow.com/homes/231+Mackinaw+Ave+Fairlawn%2C+OH%2C+44333/)  
 **Price:** $76,000  
 **List Date:** 9/24/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 9/30/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/01/2014
 
@@ -130,14 +156,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-453338" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-453338)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-453338" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-453338)  
 **423 Beech Row Dr Norton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-453338), [Google Maps](http://maps.google.com/maps?q=423+Beech+Row+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/423+Beech+Row+Dr+Norton%2C+OH%2C+44203/)  
 **Price:** $77,000  
 **List Date:** 9/23/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/4/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 10/06/2014
 
@@ -221,14 +247,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582261" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261)  
+[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582261" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261)  
 **141 Ansel Ave Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261), [Google Maps](http://maps.google.com/maps?q=141+Ansel+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/141+Ansel+Ave+Akron%2C+OH%2C+44312/)  
 **Price:** $59,500  
 **List Date:** 9/10/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/8/2015 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:** Property Pending Sale  
 **Bed/Bath:** 3/1.10  
 **Bid Open Date:** 10/01/2014
 
