@@ -143,19 +143,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-595323" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323)  
-**2863 8th St Cuyahoga Falls, OH, 44221**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-595323), [Google Maps](http://maps.google.com/maps?q=2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221), [Zillow](http://www.zillow.com/homes/2863+8th+St+Cuyahoga+Falls%2C+OH%2C+44221/)  
-**Price:** $52,000  
-**List Date:** 9/23/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/8/2015 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/02/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-453338" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-453338)  
 **423 Beech Row Dr Norton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-453338), [Google Maps](http://maps.google.com/maps?q=423+Beech+Row+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/423+Beech+Row+Dr+Norton%2C+OH%2C+44203/)  
@@ -243,19 +230,6 @@
 **Period Deadline:** 3/15/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/02/2014
-
-***
-
-[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-557558" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558)  
-**1848 Cameroon Ct Akron, OH, 44305**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558), [Google Maps](http://maps.google.com/maps?q=1848+Cameroon+Ct+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1848+Cameroon+Ct+Akron%2C+OH%2C+44305/)  
-**Price:** $37,600  
-**List Date:** 9/09/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 1/17/2015 11:59:59 PM  CT  
-**Status:** Price Reduced  
-**Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/02/2014
 
 ***
