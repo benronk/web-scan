@@ -247,19 +247,6 @@
 
 ***
 
-[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-582261" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261)  
-**141 Ansel Ave Akron, OH, 44312**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-582261), [Google Maps](http://maps.google.com/maps?q=141+Ansel+Ave+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/141+Ansel+Ave+Akron%2C+OH%2C+44312/)  
-**Price:** $59,500  
-**List Date:** 9/10/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/8/2015 11:59:59 PM  CT  
-**Status:** Property Pending Sale  
-**Bed/Bath:** 3/1.10  
-**Bid Open Date:** 10/02/2014
-
-***
-
 [<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-557558" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558)  
 **1848 Cameroon Ct Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-557558), [Google Maps](http://maps.google.com/maps?q=1848+Cameroon+Ct+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1848+Cameroon+Ct+Akron%2C+OH%2C+44305/)  
