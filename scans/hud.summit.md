@@ -78,14 +78,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-627594" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-627594)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-627594" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-627594)  
 **1651 Hillside Ter Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-627594), [Google Maps](http://maps.google.com/maps?q=1651+Hillside+Ter+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1651+Hillside+Ter+Akron%2C+OH%2C+44305/)  
 **Price:** $60,000  
 **List Date:** 9/25/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/9/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 10/06/2014
 
@@ -104,14 +104,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-569213" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569213)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-569213" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569213)  
 **652 Patterson Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569213), [Google Maps](http://maps.google.com/maps?q=652+Patterson+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/652+Patterson+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $19,000  
 **List Date:** 9/25/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 10/1/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/02/2014
 
@@ -130,14 +130,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-508541" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-508541)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-508541" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-508541)  
 **231 Mackinaw Ave Fairlawn, OH, 44333**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-508541), [Google Maps](http://maps.google.com/maps?q=231+Mackinaw+Ave+Fairlawn%2C+OH%2C+44333), [Zillow](http://www.zillow.com/homes/231+Mackinaw+Ave+Fairlawn%2C+OH%2C+44333/)  
 **Price:** $76,000  
 **List Date:** 9/24/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/5/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/06/2014
 
