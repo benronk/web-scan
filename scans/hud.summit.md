@@ -1,5 +1,70 @@
 # Summit County HUD Homes
 
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-621034" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-621034)  
+**1516 Bruce Rd Macedonia, OH, 44056**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-621034), [Google Maps](http://maps.google.com/maps?q=1516+Bruce+Rd+Macedonia%2C+OH%2C+44056), [Zillow](http://www.zillow.com/homes/1516+Bruce+Rd+Macedonia%2C+OH%2C+44056/)  
+**Price:** $89,507  
+**List Date:** 10/02/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/16/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 4/2.00  
+**Bid Open Date:** 10/14/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-546393" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546393)  
+**1913 Graham Road Stow, OH, 44224**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-546393), [Google Maps](http://maps.google.com/maps?q=1913+Graham+Road+Stow%2C+OH%2C+44224), [Zillow](http://www.zillow.com/homes/1913+Graham+Road+Stow%2C+OH%2C+44224/)  
+**Price:** $60,770  
+**List Date:** 10/02/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/16/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/14/2014
+
+***
+
+[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-507849" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-507849)  
+**1735 Honodle Ave Akron, OH, 44305**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-507849), [Google Maps](http://maps.google.com/maps?q=1735+Honodle+Ave+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1735+Honodle+Ave+Akron%2C+OH%2C+44305/)  
+**Price:** $15,553  
+**List Date:** 10/02/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/16/2014 11:59:59 PM  CT  
+**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 10/14/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-490437" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-490437)  
+**6753 Hampsher Rd New Franklin, OH, 44216**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-490437), [Google Maps](http://maps.google.com/maps?q=6753+Hampsher+Rd+New+Franklin%2C+OH%2C+44216), [Zillow](http://www.zillow.com/homes/6753+Hampsher+Rd+New+Franklin%2C+OH%2C+44216/)  
+**Price:** $53,000  
+**List Date:** 10/02/2014  
+**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
+**Period Deadline:** 10/8/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 2/1.00  
+**Bid Open Date:** 10/09/2014
+
+***
+
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-454951" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-454951)  
+**1875 Ganyard Rd Akron, OH, 44313**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-454951), [Google Maps](http://maps.google.com/maps?q=1875+Ganyard+Rd+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/1875+Ganyard+Rd+Akron%2C+OH%2C+44313/)  
+**Price:** $72,100  
+**List Date:** 10/02/2014  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/16/2014 11:59:59 PM  CT  
+**Status:** New Listing  
+**Bed/Bath:** 3/1.00  
+**Bid Open Date:** 10/14/2014
+
+***
+
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-584698" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584698)  
 **1093 Tweed Dr New Franklin, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584698), [Google Maps](http://maps.google.com/maps?q=1093+Tweed+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/1093+Tweed+Dr+New+Franklin%2C+OH%2C+44319/)  
@@ -104,14 +169,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-569213" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569213)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-569213" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569213)  
 **652 Patterson Ave Akron, OH, 44310**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569213), [Google Maps](http://maps.google.com/maps?q=652+Patterson+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/652+Patterson+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $19,000  
 **List Date:** 9/25/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/6/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/07/2014
 
