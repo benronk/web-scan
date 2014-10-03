@@ -113,7 +113,7 @@
 **Period Deadline:** 10/4/2014 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -165,7 +165,7 @@
 **Period Deadline:** 2/5/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 3/16/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -282,7 +282,7 @@
 **Period Deadline:** 3/15/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -295,7 +295,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -308,7 +308,7 @@
 **Period Deadline:** 3/7/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -321,7 +321,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -334,7 +334,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -347,7 +347,7 @@
 **Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -360,7 +360,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
@@ -373,7 +373,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 10/03/2014
+**Bid Open Date:** 10/06/2014
 
 ***
 
