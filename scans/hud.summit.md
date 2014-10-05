@@ -13,14 +13,14 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-446278" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-446278)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-446278" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-446278)  
 **1161 Florida Ave Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-446278), [Google Maps](http://maps.google.com/maps?q=1161+Florida+Ave+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1161+Florida+Ave+Akron%2C+OH%2C+44314/)  
 **Price:** $17,000  
 **List Date:** 10/04/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 10/10/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/14/2014
 
