@@ -9,7 +9,7 @@
 **Period Deadline:** 10/8/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -152,7 +152,7 @@
 **Period Deadline:** 3/13/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -178,7 +178,7 @@
 **Period Deadline:** 10/10/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 10/9/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 2/5/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 10/8/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -239,11 +239,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-508541), [Google Maps](http://maps.google.com/maps?q=231+Mackinaw+Ave+Fairlawn%2C+OH%2C+44333), [Zillow](http://www.zillow.com/homes/231+Mackinaw+Ave+Fairlawn%2C+OH%2C+44333/)  
 **Price:** $76,000  
 **List Date:** 9/24/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/5/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/22/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 3/21/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 3/20/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -282,7 +282,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -295,7 +295,7 @@
 **Period Deadline:** 3/16/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -308,7 +308,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -321,7 +321,7 @@
 **Period Deadline:** 3/7/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -334,7 +334,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -347,7 +347,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -360,7 +360,7 @@
 **Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -373,7 +373,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
@@ -386,7 +386,7 @@
 **Period Deadline:** 2/14/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 10/06/2014
+**Bid Open Date:** 10/07/2014
 
 ***
 
