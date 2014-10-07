@@ -104,40 +104,40 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-584698" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584698)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-584698" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584698)  
 **1093 Tweed Dr New Franklin, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584698), [Google Maps](http://maps.google.com/maps?q=1093+Tweed+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/1093+Tweed+Dr+New+Franklin%2C+OH%2C+44319/)  
 **Price:** $63,000  
 **List Date:** 9/30/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 10/6/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 10/07/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-577207" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-577207)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-577207" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-577207)  
 **913 Shoshone Avenue Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-577207), [Google Maps](http://maps.google.com/maps?q=913+Shoshone+Avenue+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/913+Shoshone+Avenue+Akron%2C+OH%2C+44305/)  
 **Price:** $36,000  
 **List Date:** 9/30/2014  
 **Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
 **Period Deadline:** 10/6/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/07/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-515992" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515992)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-515992" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515992)  
 **813 Graceland Ave Barberton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-515992), [Google Maps](http://maps.google.com/maps?q=813+Graceland+Ave+Barberton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/813+Graceland+Ave+Barberton%2C+OH%2C+44203/)  
 **Price:** $45,000  
 **List Date:** 9/30/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/14/2014 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/10/2014
 
@@ -169,14 +169,14 @@
 
 ***
 
-[<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-412449" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-412449)  
+[<img alt="Property Pending Sale" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-412449" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-412449)  
 **990 Courtland Avenue Akron, OH, 44320**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-412449), [Google Maps](http://maps.google.com/maps?q=990+Courtland+Avenue+Akron%2C+OH%2C+44320), [Zillow](http://www.zillow.com/homes/990+Courtland+Avenue+Akron%2C+OH%2C+44320/)  
 **Price:** $13,000  
 **List Date:** 9/26/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/10/2014 11:59:59 PM  CT  
-**Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
+**Status:** Property Pending Sale  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/07/2014
 
@@ -260,14 +260,14 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-611130" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-611130)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-611130" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-611130)  
 **10510 Florida St Reminderville, OH, 44202**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-611130), [Google Maps](http://maps.google.com/maps?q=10510+Florida+St+Reminderville%2C+OH%2C+44202), [Zillow](http://www.zillow.com/homes/10510+Florida+St+Reminderville%2C+OH%2C+44202/)  
 **Price:** $110,000  
 **List Date:** 9/18/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/16/2015 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/07/2014
 
