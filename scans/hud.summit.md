@@ -1,5 +1,44 @@
 # Summit County HUD Homes
 
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173)  
+**1542 19th St Cuyahoga Falls, OH, 44223**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173), [Google Maps](http://maps.google.com/maps?q=1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223/)  
+**Price:** $80,000  
+**List Date:** 10/07/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/17/2015 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/1.10  
+**Bid Open Date:** 10/08/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536616" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616)  
+**2268 Wedgewood Dr Akron, OH, 44312**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616), [Google Maps](http://maps.google.com/maps?q=2268+Wedgewood+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2268+Wedgewood+Dr+Akron%2C+OH%2C+44312/)  
+**Price:** $96,800  
+**List Date:** 10/07/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/15/2015 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 3/2.00  
+**Bid Open Date:** 10/08/2014
+
+***
+
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-460457" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-460457)  
+**553 N Hawkins Avenue Akron, OH, 44313**  
+[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-460457), [Google Maps](http://maps.google.com/maps?q=553+N+Hawkins+Avenue+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/553+N+Hawkins+Avenue+Akron%2C+OH%2C+44313/)  
+**Price:** $53,680  
+**List Date:** 10/07/2014  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 2/15/2015 11:59:59 PM  CT  
+**Status:**   
+**Bed/Bath:** 4/1.20  
+**Bid Open Date:** 10/08/2014
+
+***
+
 [<img alt="Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-553514" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553514)  
 **1919 Malasia Rd Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-553514), [Google Maps](http://maps.google.com/maps?q=1919+Malasia+Rd+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/1919+Malasia+Rd+Akron%2C+OH%2C+44305/)  
@@ -9,7 +48,7 @@
 **Period Deadline:** 10/8/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -109,11 +148,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584698), [Google Maps](http://maps.google.com/maps?q=1093+Tweed+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/1093+Tweed+Dr+New+Franklin%2C+OH%2C+44319/)  
 **Price:** $63,000  
 **List Date:** 9/30/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 10/6/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/14/2014
 
 ***
 
@@ -122,11 +161,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-577207), [Google Maps](http://maps.google.com/maps?q=913+Shoshone+Avenue+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/913+Shoshone+Avenue+Akron%2C+OH%2C+44305/)  
 **Price:** $36,000  
 **List Date:** 9/30/2014  
-**Listing Period:** Lottery (Nonprofits and Government Agencies Only)  
-**Period Deadline:** 10/6/2014 11:59:59 PM  CT  
+**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
+**Period Deadline:** 10/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/14/2014
 
 ***
 
@@ -152,7 +191,7 @@
 **Period Deadline:** 3/13/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -165,7 +204,7 @@
 **Period Deadline:** 10/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 5/1.10  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -178,7 +217,7 @@
 **Period Deadline:** 10/10/2014 11:59:59 PM  CT  
 **Status:** Property Pending Sale  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -191,7 +230,7 @@
 **Period Deadline:** 10/9/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -204,7 +243,7 @@
 **Period Deadline:** 2/5/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -213,11 +252,11 @@
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-569213), [Google Maps](http://maps.google.com/maps?q=652+Patterson+Ave+Akron%2C+OH%2C+44310), [Zillow](http://www.zillow.com/homes/652+Patterson+Ave+Akron%2C+OH%2C+44310/)  
 **Price:** $19,000  
 **List Date:** 9/25/2014  
-**Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
-**Period Deadline:** 10/6/2014 11:59:59 PM  CT  
+**Listing Period:** Extended (All Bidders)  
+**Period Deadline:** 3/23/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -230,7 +269,7 @@
 **Period Deadline:** 3/21/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -243,7 +282,7 @@
 **Period Deadline:** 3/20/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -256,7 +295,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -269,7 +308,7 @@
 **Period Deadline:** 3/16/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -282,7 +321,7 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -295,7 +334,7 @@
 **Period Deadline:** 3/7/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -308,7 +347,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -321,7 +360,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
@@ -334,7 +373,7 @@
 **Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/07/2014
+**Bid Open Date:** 10/08/2014
 
 ***
 
