@@ -1,41 +1,41 @@
 # Summit County HUD Homes
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-537173" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173)  
 **1542 19th St Cuyahoga Falls, OH, 44223**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-537173), [Google Maps](http://maps.google.com/maps?q=1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223), [Zillow](http://www.zillow.com/homes/1542+19th+St+Cuyahoga+Falls%2C+OH%2C+44223/)  
 **Price:** $80,000  
 **List Date:** 10/07/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/17/2015 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.10  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536616" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-536616" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616)  
 **2268 Wedgewood Dr Akron, OH, 44312**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-536616), [Google Maps](http://maps.google.com/maps?q=2268+Wedgewood+Dr+Akron%2C+OH%2C+44312), [Zillow](http://www.zillow.com/homes/2268+Wedgewood+Dr+Akron%2C+OH%2C+44312/)  
 **Price:** $96,800  
 **List Date:** 10/07/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/15/2015 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 3/2.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-460457" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-460457)  
+[<img alt="Price Reduced" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-460457" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-460457)  
 **553 N Hawkins Avenue Akron, OH, 44313**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-460457), [Google Maps](http://maps.google.com/maps?q=553+N+Hawkins+Avenue+Akron%2C+OH%2C+44313), [Zillow](http://www.zillow.com/homes/553+N+Hawkins+Avenue+Akron%2C+OH%2C+44313/)  
 **Price:** $53,680  
 **List Date:** 10/07/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 2/15/2015 11:59:59 PM  CT  
-**Status:**   
+**Status:** Price Reduced  
 **Bed/Bath:** 4/1.20  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -48,7 +48,7 @@
 **Period Deadline:** 10/8/2014 11:59:59 PM  CT  
 **Status:** Enhanced commission: The Listing and Selling Brokers are eligible to receive a commission of $1,250 for the sale of this property  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -143,27 +143,27 @@
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-584698" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584698)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-584698" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584698)  
 **1093 Tweed Dr New Franklin, OH, 44319**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-584698), [Google Maps](http://maps.google.com/maps?q=1093+Tweed+Dr+New+Franklin%2C+OH%2C+44319), [Zillow](http://www.zillow.com/homes/1093+Tweed+Dr+New+Franklin%2C+OH%2C+44319/)  
 **Price:** $63,000  
 **List Date:** 9/30/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/11/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 2/1.00  
 **Bid Open Date:** 10/14/2014
 
 ***
 
-[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-577207" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-577207)  
+[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-577207" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-577207)  
 **913 Shoshone Avenue Akron, OH, 44305**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-577207), [Google Maps](http://maps.google.com/maps?q=913+Shoshone+Avenue+Akron%2C+OH%2C+44305), [Zillow](http://www.zillow.com/homes/913+Shoshone+Avenue+Akron%2C+OH%2C+44305/)  
 **Price:** $36,000  
 **List Date:** 9/30/2014  
 **Listing Period:** Exclusive (Owner Occupants, Nonprofits, and Government Agencies only)  
 **Period Deadline:** 10/11/2014 11:59:59 PM  CT  
-**Status:**   
+**Status:** New Listing  
 **Bed/Bath:** 3/1.00  
 **Bid Open Date:** 10/14/2014
 
@@ -191,7 +191,7 @@
 **Period Deadline:** 3/13/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -204,7 +204,7 @@
 **Period Deadline:** 10/11/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 5/1.10  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -217,7 +217,7 @@
 **Period Deadline:** 10/9/2014 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -230,7 +230,7 @@
 **Period Deadline:** 2/5/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -243,7 +243,7 @@
 **Period Deadline:** 3/21/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -256,7 +256,7 @@
 **Period Deadline:** 3/20/2015 11:59:59 PM  CT  
 **Status:** New Listing  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -269,7 +269,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -282,7 +282,7 @@
 **Period Deadline:** 3/16/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -295,20 +295,20 @@
 **Period Deadline:** 1/20/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 2/2.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408353" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353)  
+[<img alt="" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-408353" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353)  
 **1809 Manchester Rd Akron, OH, 44314**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-408353), [Google Maps](http://maps.google.com/maps?q=1809+Manchester+Rd+Akron%2C+OH%2C+44314), [Zillow](http://www.zillow.com/homes/1809+Manchester+Rd+Akron%2C+OH%2C+44314/)  
 **Price:** $18,000  
 **List Date:** 9/09/2014  
 **Listing Period:** Extended (All Bidders)  
 **Period Deadline:** 3/7/2015 11:59:59 PM  CT  
-**Status:** New Listing  
+**Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -321,7 +321,7 @@
 **Period Deadline:** 1/12/2015 11:59:59 PM  CT  
 **Status:** Price Reduced  
 **Bed/Bath:** 4/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -334,7 +334,7 @@
 **Period Deadline:** 3/2/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 2/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
@@ -347,7 +347,7 @@
 **Period Deadline:** 2/25/2015 11:59:59 PM  CT  
 **Status:**   
 **Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/08/2014
+**Bid Open Date:** 10/09/2014
 
 ***
 
