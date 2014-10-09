@@ -221,19 +221,6 @@
 
 ***
 
-[<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-508541" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-508541)  
-**231 Mackinaw Ave Fairlawn, OH, 44333**  
-[HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-508541), [Google Maps](http://maps.google.com/maps?q=231+Mackinaw+Ave+Fairlawn%2C+OH%2C+44333), [Zillow](http://www.zillow.com/homes/231+Mackinaw+Ave+Fairlawn%2C+OH%2C+44333/)  
-**Price:** $76,000  
-**List Date:** 9/24/2014  
-**Listing Period:** Extended (All Bidders)  
-**Period Deadline:** 3/24/2015 11:59:59 PM  CT  
-**Status:** New Listing  
-**Bed/Bath:** 3/1.00  
-**Bid Open Date:** 10/10/2014
-
-***
-
 [<img alt="New Listing" src="https://www.hudhomestore.com/pages/ImageShow.aspx?Case=412-453338" align="right" style="height:150px;">](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-453338)  
 **423 Beech Row Dr Norton, OH, 44203**  
 [HUD](http://www.hudhomestore.com/Listing/PropertyDetails.aspx?caseNumber=412-453338), [Google Maps](http://maps.google.com/maps?q=423+Beech+Row+Dr+Norton%2C+OH%2C+44203), [Zillow](http://www.zillow.com/homes/423+Beech+Row+Dr+Norton%2C+OH%2C+44203/)  
